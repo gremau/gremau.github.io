@@ -1,7 +1,7 @@
 ---
 title: Publications \[pronghorns.net\]
 author: Greg Maurer
-date: 6 February, 2014
+date: 13 August, 2015
 ---
 
 pronghorns.net
@@ -20,23 +20,27 @@ Links to pdf files here are preprints with text and figures that are as close to
 
 ## Peer-reviewed journal articles
 
-- Maurer, G.E. and D.R. Bowling. Dust effects on snowpack melt and related ecosystem processes are secondary to those of forest canopy structure and interannual snowpack variability. (In press at _Ecohydrology_) [preprint](./publicfiles/ecohyd2014_manuscript_1.pdf)
+- Maurer, G.E. and D.R. Bowling. Dust effects on snowpack melt and related ecosystem processes are secondary to those of forest canopy structure and interannual snowpack variability. _Ecohydrology_, [doi:10.1002/eco.1558](http://doi.org/10.1002/eco.1558)  [preprint](./publicfiles/ecohyd2014_manuscript_1.pdf)
 
-- Hall, S.J., __G.E. Maurer__, S.W. Hoch, R. Taylor, D.R. Bowling. Impacts of anthropogenic emissions and cold air pools on urban to montane gradients of snowpack ion concentrations in the Wasatch Mountains, Utah. (In press at _Atmospheric Environment_) [link](http://dx.doi.org/10.1016/j.atmosenv.2014.08.076)
+- Hall, S.J., __G.E. Maurer__, S.W. Hoch, R. Taylor, D.R. Bowling. Impacts of anthropogenic emissions and cold air pools on urban to montane gradients of snowpack ion concentrations in the Wasatch Mountains, Utah. _Atmospheric Environment_, [doi:10.1016/j.atmosenv.2014.08.076](http://doi.org/10.1016/j.atmosenv.2014.08.076)
 
-- Maurer, G. E., and D. R. Bowling. 2014. Seasonal snowpack characteristics influence soil temperature and water content at multiple scales in interior western U.S. mountain ecosystems, _Water Resources Research_, 50, 5216–5234, doi:10.1002/2013WR014452. [link](http://dx.doi.org/10.1002/2013WR014452) [preprint](./publicfiles/wrr2014_manuscript_3.pdf)
+- Maurer, G. E., and D. R. Bowling. 2014. Seasonal snowpack characteristics influence soil temperature and water content at multiple scales in interior western U.S. mountain ecosystems, _Water Resources Research_, 50, 5216–5234, [doi:10.1002/2013WR014452](http://dx.doi.org/10.1002/2013WR014452)  [preprint](./publicfiles/wrr2014_manuscript_3.pdf)
 
--  Ruess, R.W., R.L. Hendrick, A.J. Burton, K. S. Pregitzer, B. Sveinbjornsson, M.F. Allen, __G.E. Maurer__. 2003. Coupling fine root dynamics with ecosystem carbon cycling in black spruce forests of interior Alaska. _Ecological Monographs_ 74: 643-662 [link](http://dx.doi.org/10.1890/02-4032)
+- Ruess, R.W., R.L. Hendrick, A.J. Burton, K. S. Pregitzer, B. Sveinbjornsson, M.F. Allen, __G.E. Maurer__. 2003. Coupling fine root dynamics with ecosystem carbon cycling in black spruce forests of interior Alaska. _Ecological Monographs_ 74: 643-662, [doi:10.1890/02-4032](http://dx.doi.org/10.1890/02-4032)
 
 ## Articles in preparation or review
 
-- Maurer, G.E., A.M. Chan, N.A. Trahan, D.J.P. Moore, and D.R. Bowling. Soil carbon cycle ^13^C responses in the decade following bark beetle and girdling disturbance. (To be submitted to _Plant, Cell, and Environment_)
+- Maurer, G.E., A.M. Chan, N.A. Trahan, D.J.P. Moore, and D.R. Bowling. Carbon isotopes of forest soil respiration in the decade following bark beetle and stem girdling disturbances in the Rocky Mountains. (Submitted to _Plant, Cell, and Environment_)
 
 - Maurer, G.E. and D.R. Bowling. Forest soil carbon stocks and isotopic composition along mountain climate gradients of the interior western United States. (To be submitted to _Ecosystems_)
 
 ## Conference presentations
 
 I am happy to provide pdfs of these upon request.
+
+- AmeriFlux Principal Investigators Meeting 2015 – Seasonal and interannual variability in available water and coupled CO2, H2O, and energy fluxes along the New Mexico Elevation Gradient. (Poster)
+
+- AGU Fall Meeting 2014 – Soil carbon cycle ^13^C resoponses in the decade following bark beetle and stem girdling forest disturbance. (Poster)
 
 - AGU Fall Meeting 2013 – Dust and canopy effects on snowpack melt and ecosystem processes in a Utah subalpine forest. (Poster)
 
