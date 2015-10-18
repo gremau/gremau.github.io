@@ -20,6 +20,8 @@ Links to pdf files here are preprints with text and figures that are as close to
 
 ## Peer-reviewed journal articles
 
+- Maurer, G.E., A.M. Chan, N.A. Trahan, D.J.P. Moore, and D.R. Bowling. Carbon isotopes of forest soil respiration in the decade following bark beetle and stem girdling disturbances in the Rocky Mountains. (In revision for _Plant, Cell, and Environment_)
+
 - Maurer, G.E. and D.R. Bowling. Dust effects on snowpack melt and related ecosystem processes are secondary to those of forest canopy structure and interannual snowpack variability. _Ecohydrology_, [doi:10.1002/eco.1558](http://doi.org/10.1002/eco.1558)  [preprint](./publicfiles/ecohyd2014_manuscript_1.pdf)
 
 - Hall, S.J., __G.E. Maurer__, S.W. Hoch, R. Taylor, D.R. Bowling. Impacts of anthropogenic emissions and cold air pools on urban to montane gradients of snowpack ion concentrations in the Wasatch Mountains, Utah. _Atmospheric Environment_, [doi:10.1016/j.atmosenv.2014.08.076](http://doi.org/10.1016/j.atmosenv.2014.08.076)
@@ -30,9 +32,11 @@ Links to pdf files here are preprints with text and figures that are as close to
 
 ## Articles in preparation or review
 
-- Maurer, G.E., A.M. Chan, N.A. Trahan, D.J.P. Moore, and D.R. Bowling. Carbon isotopes of forest soil respiration in the decade following bark beetle and stem girdling disturbances in the Rocky Mountains. (Submitted to _Plant, Cell, and Environment_)
-
 - Maurer, G.E. and D.R. Bowling. Forest soil carbon stocks and isotopic composition along mountain climate gradients of the interior western United States. (To be submitted to _Ecosystems_)
+
+- Morillas, L., R. Pangle, __G.E. Maurer__, W.T. Pockman, M.E. Litvak. Ecohydrological consequences of drought-induced forest mortality: an observational case study in pinyon-juniper woodlands of the southwestern U.S. (in prep)
+
+- Maurer, G.E. L. Morillas, M.E. Litvak. Seasonal precipitation and deep soil moisture recharge as competing drivers of carbon and water fluxes across a gradient of semi-arid ecosystems. (in prep)
 
 ## Conference presentations
 
