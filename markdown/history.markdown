@@ -21,17 +21,18 @@ A changelog for the site.
 ## Site updates
 
 
--   *02/06/14: Changing to pandoc generated html files, updated pubs and data*
--   *01/07/13: Replaced WP "About" page, added Data, Pubs (linked
+-   *05/18/2016: File and markdown updates*
+-   *02/06/2014: Changing to pandoc generated html files, updated pubs and data*
+-   *01/07/2013: Replaced WP "About" page, added Data, Pubs (linked
     above)*
--   *03/06/12: Domain name change (primaryproductivity.org still directs
+-   *03/06/2012: Domain name change (primaryproductivity.org still directs
     here)*
--   *02/06/11: Blog and wiki updated, licensing change, link updates*
--   *02/23/10: Moved blog to new host and platform, wiki update*
--   *02/01/10: Minor changes, wiki version update*
--   *01/18/10: Wiki and "Personal items" page updated*
--   *12/17/09: Site restructuring - Added "About" page*
--   *12/15/09: Blog updated*
+-   *02/06/2011: Blog and wiki updated, licensing change, link updates*
+-   *02/23/2010: Moved blog to new host and platform, wiki update*
+-   *02/01/2010: Minor changes, wiki version update*
+-   *01/18/2010: Wiki and "Personal items" page updated*
+-   *12/17/2009: Site restructuring - Added "About" page*
+-   *12/15/2009: Blog updated*
 -   *12/12/09: Project wiki added for testing*
 
 \

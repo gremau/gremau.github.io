@@ -16,13 +16,16 @@ pronghorns.net
 
 \
 
-Links to pdf files here are preprints with text and figures that are as close to the publication version as possible.
+Some article preprints are provided here, and I'll send pdf's of any of these upon request.
 
 ## Peer-reviewed journal articles
 
-- Maurer, G.E., A.M. Chan, N.A. Trahan, D.J.P. Moore, and D.R. Bowling. Carbon isotopes of forest soil respiration in the decade following bark beetle and stem girdling disturbances in the Rocky Mountains. (In revision for _Plant, Cell, and Environment_)
+- Maurer, G.E., A.M. Chan, N.A. Trahan, D.J.P. Moore, and D.R. Bowling. 2016. Carbon isotopic composition of forest soil respiration in the decade following bark beetle and stem girdling disturbances in the Rocky Mountains. _Plant, Cell, & Environment_, [doi:10.1111/pce.12716](http://doi.org/10.1111/pce.12716)
 
-- Maurer, G.E. and D.R. Bowling. Dust effects on snowpack melt and related ecosystem processes are secondary to those of forest canopy structure and interannual snowpack variability. _Ecohydrology_, [doi:10.1002/eco.1558](http://doi.org/10.1002/eco.1558)  [preprint](./publicfiles/ecohyd2014_manuscript_1.pdf)
+
+- Biederman, J.A., R.L. Scott, M.L. Goulden, R. Vargas, M.E. Litvak, T.E. Kolb, E.A. Yepez, W. C. Oechel, P.D. Blanken, T.W. Bell, J. Garatuza-Payan, __G.E. Maurer__, S. Dore, S.P. Burns. 2016. Terrestrial carbon balance in a drier world: the effects of water availability in southwestern North America. _Global Change Biology_, 22: 1867–1879. [doi:10.1111/gcb.13222](http://doi.org/10.1111/gcb.13222)
+
+- Maurer, G.E., and D.R. Bowling. 2014. Dust effects on snowpack melt and related ecosystem processes are secondary to those of forest canopy structure and interannual snowpack variability, _Ecohydrology_, 8: 1005–1023. [doi:10.1002/eco.1558](http://doi.org/10.1002/eco.1558) [preprint](./publicfiles/ecohyd2014_manuscript_1.pdf)
 
 - Hall, S.J., __G.E. Maurer__, S.W. Hoch, R. Taylor, D.R. Bowling. Impacts of anthropogenic emissions and cold air pools on urban to montane gradients of snowpack ion concentrations in the Wasatch Mountains, Utah. _Atmospheric Environment_, [doi:10.1016/j.atmosenv.2014.08.076](http://doi.org/10.1016/j.atmosenv.2014.08.076)
 
@@ -30,17 +33,22 @@ Links to pdf files here are preprints with text and figures that are as close to
 
 - Ruess, R.W., R.L. Hendrick, A.J. Burton, K. S. Pregitzer, B. Sveinbjornsson, M.F. Allen, __G.E. Maurer__. 2003. Coupling fine root dynamics with ecosystem carbon cycling in black spruce forests of interior Alaska. _Ecological Monographs_ 74: 643-662, [doi:10.1890/02-4032](http://dx.doi.org/10.1890/02-4032)
 
+
 ## Articles in preparation or review
 
 - Maurer, G.E. and D.R. Bowling. Forest soil carbon stocks and isotopic composition along mountain climate gradients of the interior western United States. (To be submitted to _Ecosystems_)
 
 - Morillas, L., R. Pangle, __G.E. Maurer__, W.T. Pockman, M.E. Litvak. Ecohydrological consequences of drought-induced forest mortality: an observational case study in pinyon-juniper woodlands of the southwestern U.S. (in prep)
 
-- Maurer, G.E. L. Morillas, M.E. Litvak. Seasonal precipitation and deep soil moisture recharge as competing drivers of carbon and water fluxes across a gradient of semi-arid ecosystems. (in prep)
+- Maurer, G.E., L. Morillas, M.E. Litvak. Seasonal precipitation and deep soil moisture recharge as competing drivers of carbon and water fluxes across a gradient of semi-arid ecosystems. (in prep)
+
+- Maurer, G.E., S.L. Collins, M.E. Litvak. Fire and climate effects on spatiotemporal variation in the carbon balance of arid grasslands. (in prep)
 
 ## Conference presentations
 
-I am happy to provide pdfs of these upon request.
+Again - I am happy to provide pdfs of these upon request.
+
+- AGU Fall Meeting 2015 – Seasonal precipitation and deep soil moisture recharge as competing drivers of carbon and water fluxes across a gradient of semi-arid ecosystems. (Poster)
 
 - AmeriFlux Principal Investigators Meeting 2015 – Seasonal and interannual variability in available water and coupled CO2, H2O, and energy fluxes along the New Mexico Elevation Gradient. (Poster)
 
@@ -55,6 +63,7 @@ I am happy to provide pdfs of these upon request.
 - AGU Fall Meeting 2011 – Sources of variability in winter soil temperature moderation by mountain snowpacks. (Poster)
 
 - AGU Fall Meeting 2010 – Influence of dust deposition on snowpack melt rate and ecohydrological processes in a subalpine forest. (Oral presentation)
+
 
 ## Dissertation
 

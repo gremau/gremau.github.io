@@ -18,6 +18,20 @@ pronghorns.net
 
 This page lists publicly available data from various weather stations or other sources I've worked on at some point. Email me or check the links below if you have questions.
 
+
+## AmeriFlux NMEG cluster
+
+There are six AmeriFlux research sites in this cluster. These sites have been running for 7 or more years. Currently our most accessible public data has reached the level 2 QA stage with AmeriFlux and links to those files are below. For more detailed information or data contact me or Marcy Litvak.
+
+
+* Mountainair Pinyon-Juniper (US-Mpj): [site info](http://ameriflux-data.lbl.gov:8080/SitePages/siteInfo.aspx?US-Mpj), [level 2 data](ftp://cdiac.ornl.gov/pub/ameriflux/data/Level2/Sites_ByName/Mountainair_Pinyon_Juniper_Woodland/)
+* Sevilleta Grassland (US-Seg): [site info](http://ameriflux-data.lbl.gov:8080/SitePages/siteInfo.aspx?US-Seg), [level 2 data](ftp://cdiac.ornl.gov/pub/ameriflux/data/Level2/Sites_ByName/Sevilleta_Grassland/)
+* Sevilleta Shrubland (US-Ses): [site info](http://ameriflux-data.lbl.gov:8080/SitePages/siteInfo.aspx?US-Ses), [level 2 data](ftp://cdiac.ornl.gov/pub/ameriflux/data/Level2/Sites_ByName/Sevilleta_Shrubland/)
+* Valles Caldera Mixed Conifer (US-Vcm): [site info](http://ameriflux-data.lbl.gov:8080/SitePages/siteInfo.aspx?US-Vcm), [level 2 data](ftp://cdiac.ornl.gov/pub/ameriflux/data/Level2/Sites_ByName/Valles_Caldera_Mixed_Conifer/)
+* Valles Caldera Ponderosa Pine (US-Vcp): [site info](http://ameriflux-data.lbl.gov:8080/SitePages/siteInfo.aspx?US-Vcp), [level 2 data](ftp://cdiac.ornl.gov/pub/ameriflux/data/Level2/Sites_ByName/Valles_Caldera_Ponderosa_Pine/)
+* Willard Juniper Savannah (US-Wjs): [site info](http://ameriflux-data.lbl.gov:8080/SitePages/siteInfo.aspx?US-Wjs), [level 2 data](ftp://cdiac.ornl.gov/pub/ameriflux/data/Level2/Sites_ByName/Willard_Juniper_Savannah/)
+
+
 ## Hidden Canyon
 
 A weather station and soil sensors network in operation from 2009-2013 in the Wasatch Range in Utah. For more info see the [wiki pages](http://greg.pronghorns.net/wiki/hiddencanyon:sitedescription). The data below are corrected, gap filled datasets being developed for a modeling study. So... they are very provisional and not all sensors are included.
