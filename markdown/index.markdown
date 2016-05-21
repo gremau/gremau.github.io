@@ -33,7 +33,7 @@ This site is owned and operated by Greg Maurer, a postdoctoral fellow at the Uni
 - [pdf](http://greg.pronghorns.net/publicfiles/cv_gmaurer.pdf)
 
 
-## Other corners of the net I frequent
+## Other internet places I visit
 
 -  [GitHub](http://github.com/gremau)
 -  [ResearchGate](https://www.researchgate.net/profile/Gregory_Maurer2)
@@ -54,5 +54,4 @@ This site is owned and operated by Greg Maurer, a postdoctoral fellow at the Uni
 
 \ 
 
-*All content [![Creative Commons
-License](http://i.creativecommons.org/l/by-sa/3.0/80x15.png)](http://creativecommons.org/licenses/by-sa/3.0/) by Greg Maurer. This page last updated May 2016.*
+*All content [![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/80x15.png)](http://creativecommons.org/licenses/by-sa/3.0/) by Greg Maurer. This page last updated May 2016.*
