@@ -16,7 +16,7 @@ pronghorns.net
 
 \
 
-This page lists publicly available data from various weather stations or other sources I've worked on at some point. Email me or check the links below if you have questions.
+This page lists publicly available data from various research sites, weather stations, etc. that I've worked on at some point. Email me or check the links below if you have questions.
 
 
 ## AmeriFlux NMEG cluster
