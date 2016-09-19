@@ -16,10 +16,11 @@ pronghorns.net
 
 \
 
-This site is owned and operated by Greg Maurer, a postdoctoral fellow at the University of New Mexico. The information and opinions expressed here are subject to my uncertainty, errors, and distortions. Email me at <greg@pronghorns.net>.
+This site is owned and operated by Greg Maurer, a postdoctoral researcher at U.C. Berkeley. The information and opinions expressed here are subject to my uncertainty, errors, and distortions. Email me at <greg@pronghorns.net>.
 
 ## Current and past projects
 
+- Studying Mojave desert soil carbon cycling and the impacts of solar power development with U.C. Berkeley's [Department of Environmental Science, Policy, and Management](http://espm.berkeley.edu/).
 - Ecological research on the [New Mexico Elevation Gradient](http://biology.unm.edu/litvak/res_NM_elev.html) cluster of [AmeriFlux](http://ameriflux.lbl.gov/) sites
 - [My dissertation research](http://content.lib.utah.edu/cdm/singleitem/collection/etd3/id/2901/rec/32) studying seasonally snow-covered ecosystems in the western U.S.
 -  Rare plant surveys with the [Cottonwood Canyons Foundation](http://www.cottonwoodcanyons.org/)
