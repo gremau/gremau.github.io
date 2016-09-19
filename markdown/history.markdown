@@ -9,7 +9,7 @@ pronghorns.net
 
 <div id="banner"></div>
 
-[Wiki](http://greg.pronghorns.net/wiki)\ \ \ \ \ \ 
+[Wiki](https://github.com/gremau/gremau.github.io/wiki)\ \ \ \ \ \ 
 [Data](http://greg.pronghorns.net/data.html)\ \ \ \ \ \ 
 [Publications](http://greg.pronghorns.net/publications.html)\ \ \ \ \ \ 
 [Home](http://greg.pronghorns.net/index.html)
