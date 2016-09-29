@@ -9,18 +9,18 @@ pronghorns.net
 
 <div id="banner"></div>
 
-[Wiki](https://github.com/gremau/gremau.github.io/wiki)\ \ \ \ \ \ 
+[Notebook](https://github.com/gremau/Notebook)\ \ \ \ \ \ 
 [Data](http://greg.pronghorns.net/data.html)\ \ \ \ \ \ 
 [Publications](http://greg.pronghorns.net/publications.html)\ \ \ \ \ \ 
 [Home](http://greg.pronghorns.net/index.html)
 
 \
 
-This site is owned and operated by Greg Maurer, a postdoctoral researcher at U.C. Berkeley. The information and opinions expressed here are subject to my uncertainty, errors, and distortions. Email me at <greg@pronghorns.net>.
+This site is owned and operated by Greg Maurer, a postdoctoral scientist at U.C. Berkeley. The information and opinions expressed here are subject to my uncertainty, errors, and distortions. Email me at <greg@pronghorns.net>.
 
 ## Current and past projects
 
-- Studying Mojave desert soil carbon cycling and the impacts of solar power development with U.C. Berkeley's [Department of Environmental Science, Policy, and Management](http://espm.berkeley.edu/).
+- Studying soil carbon cycling and impacts of solar power development in the Mojave Desert (more info to come!)
 - Ecological research on the [New Mexico Elevation Gradient](http://biology.unm.edu/litvak/res_NM_elev.html) cluster of [AmeriFlux](http://ameriflux.lbl.gov/) sites
 - [My dissertation research](http://content.lib.utah.edu/cdm/singleitem/collection/etd3/id/2901/rec/32) studying seasonally snow-covered ecosystems in the western U.S.
 -  Rare plant surveys with the [Cottonwood Canyons Foundation](http://www.cottonwoodcanyons.org/)
@@ -54,4 +54,4 @@ This site is owned and operated by Greg Maurer, a postdoctoral researcher at U.C
 
 \ 
 
-*All content [![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/80x15.png)](http://creativecommons.org/licenses/by-sa/3.0/) by Greg Maurer. This page last updated May 2016.*
+*All content [![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/80x15.png)](http://creativecommons.org/licenses/by-sa/3.0/) by Greg Maurer. This page last updated September 2016.*
