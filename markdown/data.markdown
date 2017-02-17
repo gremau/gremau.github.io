@@ -9,7 +9,7 @@ pronghorns.net
 
 <div id="banner"></div>
 
-[Notebook](https://github.com/gremau/Notebook)\ \ \ \ \ \ 
+[Notebook](https://earthscinotebook.readthedocs.io/en/latest/)\ \ \ \ \ \ 
 [Data](http://greg.pronghorns.net/data.html)\ \ \ \ \ \ 
 [Publications](http://greg.pronghorns.net/publications.html)\ \ \ \ \ \ 
 [Home](http://greg.pronghorns.net/index.html)
