@@ -20,7 +20,7 @@ This site is owned and operated by Greg Maurer, a postdoctoral scientist at U.C.
 
 ## Current and past projects
 
-- Studying soil carbon cycling and impacts of solar power development in the Mojave Desert (more info to come!)
+- Studying soil carbon cycling and impacts of solar power development in the Mojave Desert
 - Ecological research on the [New Mexico Elevation Gradient](http://biology.unm.edu/litvak/res_NM_elev.html) cluster of [AmeriFlux](http://ameriflux.lbl.gov/) sites
 - [My dissertation research](http://content.lib.utah.edu/cdm/singleitem/collection/etd3/id/2901/rec/32) studying seasonally snow-covered ecosystems in the western U.S.
 -  Rare plant surveys with the [Cottonwood Canyons Foundation](http://www.cottonwoodcanyons.org/)
@@ -32,6 +32,13 @@ This site is owned and operated by Greg Maurer, a postdoctoral scientist at U.C.
 
 - [HTML](http://greg.pronghorns.net/cv_gmaurer.html)
 - [pdf](http://greg.pronghorns.net/publicfiles/cv_gmaurer.pdf)
+
+## Software
+
+These are works in progress, but I welcome contributions and aim to make them useful others.
+
+* [datalog](https://github.com/gremau/datalog): Manage and quality assure data from dataloggers and environmental sensor networks
+* [ecoflux](https://github.com/gremau/ecoflux): Analyze and visualize ecosystem mass and energy fluxes and other environmental time series data
 
 
 ## Other internet places I visit
