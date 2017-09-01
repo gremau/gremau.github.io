@@ -38,7 +38,7 @@ This site is owned and operated by Greg Maurer, a postdoctoral scientist at U.C.
 These are works in progress, but I welcome contributions and aim to make them useful others.
 
 * [datalog](https://github.com/gremau/datalog): Manage and quality assure data from dataloggers and environmental sensor networks
-* [ecoflux](https://github.com/gremau/ecoflux): Analyze and visualize ecosystem mass and energy fluxes and other environmental time series data
+* [ecoflux](https://github.com/gremau/ecoflux): Compute and analyze ecosystem mass and energy fluxes and other environmental time series
 
 
 ## Other internet places I visit
