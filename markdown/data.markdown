@@ -21,15 +21,14 @@ This page lists publicly available data from various research sites, weather sta
 
 ## AmeriFlux NMEG cluster
 
-There are six AmeriFlux research sites in this cluster. These sites have been running for 7 or more years. Currently our most accessible public data has reached the level 2 QA stage with AmeriFlux and links to those files are below. For more detailed information or data contact me or Marcy Litvak.
+I was the Data Manager for a cluster six AmeriFlux eddy covariance sites between 2014 and 2016 (the New Mexico Elevation Gradient). These sites have been running for 8 or more years, so quality assured data since approximately 2007 should be available from the AmeriFlux network database. Follow the links below to access data and if you have questions contact the current Data Manager, Marcy Litvak (the PI), or me.
 
-
-* Mountainair Pinyon-Juniper (US-Mpj): [site info](http://ameriflux-data.lbl.gov:8080/SitePages/siteInfo.aspx?US-Mpj), [level 2 data](ftp://cdiac.ornl.gov/pub/ameriflux/data/Level2/Sites_ByName/Mountainair_Pinyon_Juniper_Woodland/)
-* Sevilleta Grassland (US-Seg): [site info](http://ameriflux-data.lbl.gov:8080/SitePages/siteInfo.aspx?US-Seg), [level 2 data](ftp://cdiac.ornl.gov/pub/ameriflux/data/Level2/Sites_ByName/Sevilleta_Grassland/)
-* Sevilleta Shrubland (US-Ses): [site info](http://ameriflux-data.lbl.gov:8080/SitePages/siteInfo.aspx?US-Ses), [level 2 data](ftp://cdiac.ornl.gov/pub/ameriflux/data/Level2/Sites_ByName/Sevilleta_Shrubland/)
-* Valles Caldera Mixed Conifer (US-Vcm): [site info](http://ameriflux-data.lbl.gov:8080/SitePages/siteInfo.aspx?US-Vcm), [level 2 data](ftp://cdiac.ornl.gov/pub/ameriflux/data/Level2/Sites_ByName/Valles_Caldera_Mixed_Conifer/)
-* Valles Caldera Ponderosa Pine (US-Vcp): [site info](http://ameriflux-data.lbl.gov:8080/SitePages/siteInfo.aspx?US-Vcp), [level 2 data](ftp://cdiac.ornl.gov/pub/ameriflux/data/Level2/Sites_ByName/Valles_Caldera_Ponderosa_Pine/)
-* Willard Juniper Savannah (US-Wjs): [site info](http://ameriflux-data.lbl.gov:8080/SitePages/siteInfo.aspx?US-Wjs), [level 2 data](ftp://cdiac.ornl.gov/pub/ameriflux/data/Level2/Sites_ByName/Willard_Juniper_Savannah/)
+* Mountainair Pinyon-Juniper (US-Mpj): [site page](http://ameriflux-data.lbl.gov:8080/SitePages/siteInfo.aspx?US-Mpj) 
+* Sevilleta Grassland (US-Seg): [site page](http://ameriflux-data.lbl.gov:8080/SitePages/siteInfo.aspx?US-Seg) 
+* Sevilleta Shrubland (US-Ses): [site page](http://ameriflux-data.lbl.gov:8080/SitePages/siteInfo.aspx?US-Ses) 
+* Valles Caldera Mixed Conifer (US-Vcm): [site page](http://ameriflux-data.lbl.gov:8080/SitePages/siteInfo.aspx?US-Vcm) 
+* Valles Caldera Ponderosa Pine (US-Vcp): [site page](http://ameriflux-data.lbl.gov:8080/SitePages/siteInfo.aspx?US-Vcp) 
+* Willard Juniper Savannah (US-Wjs): [site page](http://ameriflux-data.lbl.gov:8080/SitePages/siteInfo.aspx?US-Wjs) 
 
 
 ## Hidden Canyon

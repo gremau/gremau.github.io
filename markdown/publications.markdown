@@ -20,6 +20,10 @@ Some article preprints are provided here, and I'll send pdf's of any of these up
 
 ## Peer-reviewed journal articles
 
+- Rudgers, J.A., Y.A. Chung, __G.E. Maurer__, D.I. Moore, E.H. Muldavin, Collins, S.L. Climate sensitivity functions and net primary production: A framework for incorporating changes in climate mean and variability. _Ecology_. [doi:10.1002/ecy.2136](https://doi.org/10.1002/ecy.2136)
+
+- Morillas, L., R.E. Pangle, __G.E. Maurer__, W.T. Pockman, N.G. McDowell, C-W Huang, D.J. Krofcheck, A.M. Fox, R.L. Sinsabaugh, T.A. Rahn, M.E. Litvak. Tree mortality decreases water availability and ecosystem resilience to drought in piñon-juniper woodlands in the southwestern U.S. _JGR Biogeosciences_. [doi:10.1002/2017JG004095](https://doi.org/10.1002/2017JG004095)
+
 - Biederman, J.A., R.L. Scott, T. Bell, D.R. Bowling, S. Dore, J. Garatuza-Payan, T.E. Kolb, P. Krishnan, D.J. Krofcheck, M.E. Litvak, __G.E. Maurer__, T.P. Meyers, W.C. Oechel, S.A. Papuga, G.E. Ponce-Campos, J.C. Rodriguez, W.K. Smith, R. Vargas, C.J. Watts, E.A. Yepez, M.L. Goulden. CO~2~ exchange and evapotranspiration across dryland ecosystems of southwestern North America. _Global Change Biology_. [doi:10.1111/gcb.13686](https://doi.org/10.1111/gcb.13686)
 
 - Maurer, G.E., A.M. Chan, N.A. Trahan, D.J.P. Moore, and D.R. Bowling. 2016. Carbon isotopic composition of forest soil respiration in the decade following bark beetle and stem girdling disturbances in the Rocky Mountains. _Plant, Cell, & Environment_, [doi:10.1111/pce.12716](http://doi.org/10.1111/pce.12716)
@@ -37,18 +41,21 @@ Some article preprints are provided here, and I'll send pdf's of any of these up
 
 ## Articles in preparation or review
 
-- Collins, S.L., J.A. Rudgers, Y.A. Chung, __G.E. Maurer__, D.I. Moore, E.H. Muldavin. Climate sensitivity functions and net primary production: A framework for incorporating changes in climate mean and variability. (Submitted to _Ecology_)
-
-- Morillas, L., __G.E. Maurer__, R.E. Pangle, W.T. Pockman, D.J. Krofcheck, N.G. McDowell, M.E. Litvak. Ecohydrological consequences of drought-induced forest mortality in pinyon-juniper woodlands of the southwestern U.S. (Submitted to _JGR Biogeosciences_)
-
 - Oerter, E.J., J.V. Mills, __G.E. Maurer__, K. Lynn, L.N. Lammers, R.G. Amundson. Greenhouse gas production and transport in desert soils of the southwestern USA. (in prep for _Global Change Biology_)
+
+- Maurer, G.E., A.J. Hallmark, R.F. Brown, S.L. Collins, O.E. Sala. Sensitivity of NDVI in response to climate variability across the conterminous United States. (in prep) 
 
 - Maurer, G.E. and D.R. Bowling. Forest soil carbon stocks and isotopic composition along mountain climate gradients of the interior western United States. (To be submitted to _Ecosystems_)
 
-- Maurer, G.E., D.J. Krofcheck, S.L. Collins, M.E. Litvak. Variation and uncertainty in long-term measures of ecosystem carbon balance: The role of disturbance and drought in semiarid grasslands and shrublands. (in prep) 
+- Maurer, G.E., D.J. Krofcheck, S.L. Collins, M.E. Litvak. Variation and uncertainty in long-term measures of ecosystem carbon balance: The role of disturbance and drought in semiarid grasslands and shrublands. (in prep)
+
 ## Conference presentations
 
 Again - I am happy to provide pdfs of these upon request.
+
+- AGU Fall Meeting 2017 – Sensitivity and asymmetry of NPP in response to climate variability across the conterminous United States (Talk)
+
+- AGU Fall Meeting 2017 – Modeled and measured carbon cycling in Mojave Desert soils: toward present and projected greenhouse gas budgets for arid regions (Poster)
 
 - AGU Fall Meeting 2015 – Seasonal precipitation and deep soil moisture recharge as competing drivers of carbon and water fluxes across a gradient of semi-arid ecosystems. (Poster)
 
@@ -58,13 +65,13 @@ Again - I am happy to provide pdfs of these upon request.
 
 - AGU Fall Meeting 2013 – Dust and canopy effects on snowpack melt and ecosystem processes in a Utah subalpine forest. (Poster)
 
-- Fusion seminar (UU Biology Dept. Fall 2012) – The Weather Underground:  The influence of seasonal snowcover on soil temperature and water content  in the western U.S. (Oral presentation)
+- Fusion seminar (UU Biology Dept. Fall 2012) – The Weather Underground:  The influence of seasonal snowcover on soil temperature and water content  in the western U.S. (Talk)
 
-- AGU Fall Meeting 2012 – Sensitivity of soil temperature and soil moisture to seasonal snowpack variability in western U.S. mountain ecosystems. (Oral presentation)
+- AGU Fall Meeting 2012 – Sensitivity of soil temperature and soil moisture to seasonal snowpack variability in western U.S. mountain ecosystems. (Talk)
 
 - AGU Fall Meeting 2011 – Sources of variability in winter soil temperature moderation by mountain snowpacks. (Poster)
 
-- AGU Fall Meeting 2010 – Influence of dust deposition on snowpack melt rate and ecohydrological processes in a subalpine forest. (Oral presentation)
+- AGU Fall Meeting 2010 – Influence of dust deposition on snowpack melt rate and ecohydrological processes in a subalpine forest. (Talk)
 
 
 ## Dissertation
@@ -76,4 +83,4 @@ Again - I am happy to provide pdfs of these upon request.
 \
 
 *All content [![Creative Commons
-License](http://i.creativecommons.org/l/by-sa/3.0/80x15.png)](http://creativecommons.org/licenses/by-sa/3.0/) by Greg Maurer. This page last updated 6 June, 2014.*
+License](http://i.creativecommons.org/l/by-sa/3.0/80x15.png)](http://creativecommons.org/licenses/by-sa/3.0/) by Greg Maurer. This page last updated 21 January, 2018.*
