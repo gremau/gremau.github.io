@@ -49,8 +49,8 @@ These are works in progress, but I welcome contributions and aim to make them us
 
 - I currently work in the [Amundson pedology](http://earthy5.wixsite.com/amundson) and [Lammers geochemistry](https://nature.berkeley.edu/~lnlammers/) labs at U.C. Berkeley.
 - Lab websites of [David Bowling](http://bioweb.biology.utah.edu/bowling/) and [Marcy Litvak](http://biology.unm.edu/litvak/index.html) (previous supervisors)
--  [Michael Bernard](http://michaelbernardart.com/), artist, provacateur
--  [Mark Hazel](http://imexcursions.wordpress.com/) and [Matthew Utley](http://botanicalenrichment.blogspot.com/), old plant conservation comrades.
+-  [Michael Bernard](http://michaelbernardart.com/), artist and provacateur
+-  [Mark Hazel](http://imexcursions.wordpress.com/) and [Matthew Utley](http://botanicalenrichment.blogspot.com/), plant conservation comrades
 
 \ 
 
