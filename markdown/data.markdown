@@ -10,9 +10,9 @@ pronghorns.net
 <div id="banner"></div>
 
 [Notebook](https://earthscinotebook.readthedocs.io/en/latest/)\ \ \ \ \ \ 
-[Data](http://greg.pronghorns.net/data.html)\ \ \ \ \ \ 
-[Publications](http://greg.pronghorns.net/publications.html)\ \ \ \ \ \ 
-[Home](http://greg.pronghorns.net/index.html)
+[Data](https://greg.pronghorns.net/data.html)\ \ \ \ \ \ 
+[Publications](https://greg.pronghorns.net/publications.html)\ \ \ \ \ \ 
+[Home](https://greg.pronghorns.net/index.html)
 
 \
 
@@ -33,14 +33,14 @@ I was the Data Manager for a cluster six AmeriFlux eddy covariance sites between
 
 ## Hidden Canyon
 
-A weather station and soil sensors network in operation from 2009-2013 in the Wasatch Range in Utah. For more info see the [wiki pages](http://greg.pronghorns.net/wiki/hiddencanyon:sitedescription). The data below are corrected, gap filled datasets being developed for a modeling study. So... they are very provisional and not all sensors are included.
+A weather station and soil sensors network in operation from 2009-2013 in the Wasatch Range in Utah. For more info see the [wiki pages](https://greg.pronghorns.net/wiki/hiddencanyon:sitedescription). The data below are corrected, gap filled datasets being developed for a modeling study. So... they are very provisional and not all sensors are included.
 
 -  [2010](./publicdata/2010SNOBALdata.csv), [2011](./publicdata/2011SNOBALdata.csv), [2012](./publicdata/2012SNOBALdata.csv) 
 
 
 ## Red Butte Canyon weather stations
 
-There are four old stations in the Red Butte Canyon research natural area near the University of Utah campus. For older data and more information on these stations see the official [RBC data page](http://ecophys.utah.edu/download/Red_Butte_Weather/) and the [wiki pages](http://greg.pronghorns.net/wiki/redbutte:weatherstations).
+There are four old stations in the Red Butte Canyon research natural area near the University of Utah campus. For older data and more information on these stations see the official [RBC data page](http://ecophys.utah.edu/download/Red_Butte_Weather/) and the [wiki pages](https://greg.pronghorns.net/wiki/redbutte:weatherstations).
 
 -  [Daily data](./publicdata/RBWSall_140115.txt) from all 4 weather stations. Current to Jan 15th, 2014.
 -  [10-minute data](./publicdata/RBWS1_highres_140111.txt) from weather station 1. Current to Jan 11th, 2014.

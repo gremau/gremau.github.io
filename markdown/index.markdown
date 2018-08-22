@@ -10,15 +10,15 @@ pronghorns.net
 <div id="banner"></div>
 
 [Notebook](https://earthscinotebook.readthedocs.io/en/latest/)\ \ \ \ \ \ 
-[Data](http://greg.pronghorns.net/data.html)\ \ \ \ \ \ 
-[Publications](http://greg.pronghorns.net/publications.html)\ \ \ \ \ \ 
-[Home](http://greg.pronghorns.net/index.html)
+[Data](https://greg.pronghorns.net/data.html)\ \ \ \ \ \ 
+[Publications](https://greg.pronghorns.net/publications.html)\ \ \ \ \ \ 
+[Home](https://greg.pronghorns.net/index.html)
 
 \
 
 This site is owned and operated by Greg Maurer, a postdoctoral scientist at U.C. Berkeley. The information and opinions expressed here are subject to my uncertainty, errors, and distortions. 
 
-See my __CV__ ([web](http://greg.pronghorns.net/cv_gmaurer.html), [pdf](http://greg.pronghorns.net/publicfiles/cv_gmaurer.pdf)) for complete experience and credentials. Email me at <greg@pronghorns.net>.
+See my __CV__ ([web](https://greg.pronghorns.net/cv_gmaurer.html), [pdf](https://greg.pronghorns.net/publicfiles/cv_gmaurer.pdf)) for complete experience and credentials. Email me at <greg@pronghorns.net>.
 
 ## Current and past projects
 
