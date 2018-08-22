@@ -26,7 +26,7 @@ do
     newfilename=$newpath$filename$extension
     # Run with pandoc
     echo "processing $i to $newfilename with pandoc"
-    pandoc $i --css=http://greg.pronghorns.net/style.css -o $newfilename
+    pandoc $i -s --css=https://greg.pronghorns.net/style.css -o $newfilename
     
 done
 
