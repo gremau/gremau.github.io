@@ -26,7 +26,9 @@ do
     newfilename=$newpath$filename$extension
     # Run with pandoc
     echo "processing $i to $newfilename with pandoc"
-    pandoc $i -s --css=https://greg.pronghorns.net/style.css -o $newfilename
+    # Link css file and custom template (in this directory) that omits the 
+    # YAML header in the rendered HTML
+    pandoc $i --css=https://greg.pronghorns.net/style.css -s -o $newfilename --template pronghorns_pandoc_template.html
     
 done
 
