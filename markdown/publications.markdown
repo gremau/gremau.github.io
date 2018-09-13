@@ -26,28 +26,30 @@ Some article preprints are provided here, and I'll send pdf's of any of these up
 
 - Biederman, J.A., R.L. Scott, T. Bell, D.R. Bowling, S. Dore, J. Garatuza-Payan, T.E. Kolb, P. Krishnan, D.J. Krofcheck, M.E. Litvak, __G.E. Maurer__, T.P. Meyers, W.C. Oechel, S.A. Papuga, G.E. Ponce-Campos, J.C. Rodriguez, W.K. Smith, R. Vargas, C.J. Watts, E.A. Yepez, M.L. Goulden. CO~2~ exchange and evapotranspiration across dryland ecosystems of southwestern North America. _Global Change Biology_. [doi:10.1111/gcb.13686](https://doi.org/10.1111/gcb.13686)
 
-- Maurer, G.E., A.M. Chan, N.A. Trahan, D.J.P. Moore, and D.R. Bowling. 2016. Carbon isotopic composition of forest soil respiration in the decade following bark beetle and stem girdling disturbances in the Rocky Mountains. _Plant, Cell, & Environment_, [doi:10.1111/pce.12716](http://doi.org/10.1111/pce.12716)
+- __Maurer, G.E.__, A.M. Chan, N.A. Trahan, D.J.P. Moore, and D.R. Bowling. 2016. Carbon isotopic composition of forest soil respiration in the decade following bark beetle and stem girdling disturbances in the Rocky Mountains. _Plant, Cell, & Environment_, [doi:10.1111/pce.12716](http://doi.org/10.1111/pce.12716)
 
 - Biederman, J.A., R.L. Scott, M.L. Goulden, R. Vargas, M.E. Litvak, T.E. Kolb, E.A. Yepez, W. C. Oechel, P.D. Blanken, T.W. Bell, J. Garatuza-Payan, __G.E. Maurer__, S. Dore, S.P. Burns. 2016. Terrestrial carbon balance in a drier world: the effects of water availability in southwestern North America. _Global Change Biology_. [doi:10.1111/gcb.13222](http://doi.org/10.1111/gcb.13222)
 
-- Maurer, G.E., and D.R. Bowling. 2014. Dust effects on snowpack melt and related ecosystem processes are secondary to those of forest canopy structure and interannual snowpack variability, _Ecohydrology_, 8: 1005–1023. [doi:10.1002/eco.1558](http://doi.org/10.1002/eco.1558) [preprint](./publicfiles/ecohyd2014_manuscript_1.pdf)
+- __Maurer, G.E.__, and D.R. Bowling. 2014. Dust effects on snowpack melt and related ecosystem processes are secondary to those of forest canopy structure and interannual snowpack variability, _Ecohydrology_, 8: 1005–1023. [doi:10.1002/eco.1558](http://doi.org/10.1002/eco.1558) [preprint](./publicfiles/ecohyd2014_manuscript_1.pdf)
 
 - Hall, S.J., __G.E. Maurer__, S.W. Hoch, R. Taylor, D.R. Bowling. 2014. Impacts of anthropogenic emissions and cold air pools on urban to montane gradients of snowpack ion concentrations in the Wasatch Mountains, Utah. _Atmospheric Environment_, [doi:10.1016/j.atmosenv.2014.08.076](http://doi.org/10.1016/j.atmosenv.2014.08.076)
 
-- Maurer, G.E. and D.R. Bowling. 2014. Seasonal snowpack characteristics influence soil temperature and water content at multiple scales in interior western U.S. mountain ecosystems, _Water Resources Research_, 50, 5216–5234, [doi:10.1002/2013WR014452](http://dx.doi.org/10.1002/2013WR014452)  [preprint](./publicfiles/wrr2014_manuscript_3.pdf)
+- __Maurer, G.E.__ and D.R. Bowling. 2014. Seasonal snowpack characteristics influence soil temperature and water content at multiple scales in interior western U.S. mountain ecosystems, _Water Resources Research_, 50, 5216–5234, [doi:10.1002/2013WR014452](http://dx.doi.org/10.1002/2013WR014452)  [preprint](./publicfiles/wrr2014_manuscript_3.pdf)
 
 - Ruess, R.W., R.L. Hendrick, A.J. Burton, K. S. Pregitzer, B. Sveinbjornsson, M.F. Allen, __G.E. Maurer__. 2003. Coupling fine root dynamics with ecosystem carbon cycling in black spruce forests of interior Alaska. _Ecological Monographs_ 74: 643-662, [doi:10.1890/02-4032](http://dx.doi.org/10.1890/02-4032)
 
 
 ## Articles in preparation or review
 
-- Oerter, E.J., J.V. Mills, __G.E. Maurer__, K. Lynn, L.N. Lammers, R.G. Amundson. Greenhouse gas production and transport in desert soils of the southwestern USA. (in prep for _Global Change Biology_)
+- Oerter, E.J., J.V. Mills, __G.E. Maurer__, K. Lynn, L.N. Lammers, R.G. Amundson. Greenhouse gas production and transport in desert soils of the southwestern USA. (in review at _Global Biogeochemical Cycles_)
 
-- Maurer, G.E., A.J. Hallmark, R.F. Brown, S.L. Collins, O.E. Sala. Sensitivity of NDVI in response to climate variability across the conterminous United States. (in prep) 
+- __Maurer, G.E.__, A.J. Hallmark, R.F. Brown, S.L. Collins, O.E. Sala. Sensitivity of net primary production to precipitation variability across the United States (in review)
 
-- Maurer, G.E. and D.R. Bowling. Forest soil carbon stocks and isotopic composition along mountain climate gradients of the interior western United States. (To be submitted to _Ecosystems_)
+- __Maurer, G.E.__, J.V. Mills, E.J. Oerter, R.G. Amundson, L.N. Lammers. Measured and modeled soil carbon cycling in the Mojave desert: toward projected regional greenhouse gas budgets. (in prep) 
 
-- Maurer, G.E., D.J. Krofcheck, S.L. Collins, M.E. Litvak. Variation and uncertainty in long-term measures of ecosystem carbon balance: The role of disturbance and drought in semiarid grasslands and shrublands. (in prep)
+- __Maurer, G.E.__ and D.R. Bowling. Forest soil carbon stocks and isotopic composition along mountain climate gradients of the interior western United States. (To be submitted to _Ecosystems_)
+
+- __Maurer, G.E.__, D.J. Krofcheck, S.L. Collins, M.E. Litvak. Variation and uncertainty in long-term measures of ecosystem carbon balance: The role of disturbance and drought in semiarid grasslands and shrublands. (in prep)
 
 ## Conference presentations
 
