@@ -16,13 +16,14 @@ pronghorns.net
 
 \
 
-This site is owned and operated by Greg Maurer, a postdoctoral scientist at U.C. Berkeley. I also teach Biology courses at Central New Mexico Community College in Albuquerque, NM. The information and opinions expressed here are subject to my uncertainty, errors, and distortions. 
+This site is owned and operated by Greg Maurer, an ecologist and "Data Scientist" at New Mexico State University. I also teach Biology courses at Central New Mexico Community College in Albuquerque, NM. The information and opinions expressed here are subject to my uncertainty, errors, and distortions. 
 
 See my __CV__ ([web](https://greg.pronghorns.net/cv_gmaurer.html), [pdf](https://greg.pronghorns.net/publicfiles/cv_gmaurer.pdf)) for complete experience and credentials. Email me at <greg@pronghorns.net>.
 
 ## Current and past projects
 
-- Studying soil carbon cycling and impacts of solar power development in the Mojave Desert
+- Ecology, data science, and informatics at the [Jornada Basin LTER](https://lter.jornada.nmsu.edu) program
+- Studying soil carbon cycling and impacts of solar power development in the Mojave Desert with UC Berkeley colleagues
 - Ecohydrology research at the [New Mexico Elevation Gradient](http://biology.unm.edu/litvak/res_NM_elev.html) cluster of [AmeriFlux](http://ameriflux.lbl.gov/) sites
 - [My dissertation research](http://content.lib.utah.edu/cdm/singleitem/collection/etd3/id/2901/rec/32) studying seasonally snow-covered ecosystems in the western U.S.
 
@@ -30,12 +31,11 @@ See my __CV__ ([web](https://greg.pronghorns.net/cv_gmaurer.html), [pdf](https:/
 
 These are works in progress, but I welcome contributions and aim to make them useful to others.
 
-* [datalog](https://github.com/gremau/datalog): Manage and quality assure data from dataloggers and environmental sensor networks
+* [sawyer](https://github.com/gremau/sawyer): Manage and quality assure data from dataloggers and environmental sensor networks
 * [ecoflux](https://github.com/gremau/ecoflux): Compute and analyze ecosystem mass and energy fluxes and other environmental time series
 
 ## Call or message me
 
-- skype: __gregorymaurer__
 - Google: __gregmaurer(at)gmail.com__
 - Use my phone # to contact me on [Signal](https://signal.org)
 
@@ -47,7 +47,7 @@ These are works in progress, but I welcome contributions and aim to make them us
 
 ## Colleagues and Friends
 
-- I currently work in the [Amundson pedology](http://earthy5.wixsite.com/amundson) and [Lammers geochemistry](https://nature.berkeley.edu/~lnlammers/) labs at U.C. Berkeley.
+- I was a postdoc in, and now collaborate with, the [Amundson pedology](http://earthy5.wixsite.com/amundson) and [Lammers geochemistry](https://nature.berkeley.edu/~lnlammers/) labs at U.C. Berkeley.
 - Lab websites of [David Bowling](http://bioweb.biology.utah.edu/bowling/) and [Marcy Litvak](http://biology.unm.edu/litvak/index.html) (previous supervisors)
 -  [Michael Bernard](http://michaelbernardart.com/), artist and provacateur
 -  [Mark Hazel](http://imexcursions.wordpress.com/) and [Matthew Utley](http://botanicalenrichment.blogspot.com/), plant conservation comrades

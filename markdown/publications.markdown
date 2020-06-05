@@ -20,6 +20,10 @@ Some article preprints are provided here, and I'll send pdf's of any of these up
 
 ## Peer-reviewed journal articles
 
+- __Maurer, G.E.__, A.J. Hallmark, R.F. Brown, S.L. Collins, O.E. Sala. Sensitivity of primary production to precipitation across the United States. _Ecology Letters_. doi:[10.1111/ele.13455](https://dx.doi.org/10.1111/ele.13455)
+
+- Oerter, E.J., J.V. Mills, __G.E. Maurer__, L.N. Lammers, R.G. Amundson. 2018. Greenhouse gas production and transport in desert soils of the southwestern USA. _Global Biogeochemical Cycles_. doi:[10.1029/2018GB006035](https://doi.org/10.1029/2018GB006035)
+
 - Rudgers, J.A., Y.A. Chung, __G.E. Maurer__, D.I. Moore, E.H. Muldavin, Collins, S.L. Climate sensitivity functions and net primary production: A framework for incorporating changes in climate mean and variability. _Ecology_. [doi:10.1002/ecy.2136](https://doi.org/10.1002/ecy.2136)
 
 - Morillas, L., R.E. Pangle, __G.E. Maurer__, W.T. Pockman, N.G. McDowell, C-W Huang, D.J. Krofcheck, A.M. Fox, R.L. Sinsabaugh, T.A. Rahn, M.E. Litvak. Tree mortality decreases water availability and ecosystem resilience to drought in piñon-juniper woodlands in the southwestern U.S. _JGR Biogeosciences_. [doi:10.1002/2017JG004095](https://doi.org/10.1002/2017JG004095)
@@ -41,19 +45,15 @@ Some article preprints are provided here, and I'll send pdf's of any of these up
 
 ## Articles in preparation or review
 
-- Oerter, E.J., J.V. Mills, __G.E. Maurer__, K. Lynn, L.N. Lammers, R.G. Amundson. Greenhouse gas production and transport in desert soils of the southwestern USA. (in review at _Global Biogeochemical Cycles_)
-
-- __Maurer, G.E.__, A.J. Hallmark, R.F. Brown, S.L. Collins, O.E. Sala. Sensitivity of net primary production to precipitation variability across the United States (in review)
-
-- __Maurer, G.E.__, J.V. Mills, E.J. Oerter, R.G. Amundson, L.N. Lammers. Measured and modeled soil carbon cycling in the Mojave desert: toward projected regional greenhouse gas budgets. (in prep) 
+- __Maurer, G.E.__, J.V. Mills, E.J. Oerter, R.G. Amundson, L.N. Lammers. Measured and modeled soil carbon cycling in the Mojave desert: toward projected regional greenhouse gas budgets. (in prep)
 
 - __Maurer, G.E.__ and D.R. Bowling. Forest soil carbon stocks and isotopic composition along mountain climate gradients of the interior western United States. (To be submitted to _Ecosystems_)
-
-- __Maurer, G.E.__, D.J. Krofcheck, S.L. Collins, M.E. Litvak. Variation and uncertainty in long-term measures of ecosystem carbon balance: The role of disturbance and drought in semiarid grasslands and shrublands. (in prep)
 
 ## Conference presentations
 
 Again - I am happy to provide pdfs of these upon request.
+
+- AGU Fall Meeting 2018 – The contribution of ephemeral, moisture-driven soil respiration pulses to soil carbon cycling in the Mojave Desert (Poster)
 
 - AGU Fall Meeting 2017 – Sensitivity and asymmetry of NPP in response to climate variability across the conterminous United States (Talk)
 
