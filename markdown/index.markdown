@@ -56,4 +56,4 @@ These are works in progress, but I welcome contributions and aim to make them us
 
 \ 
 
-*All content [![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/80x15.png)](http://creativecommons.org/licenses/by-sa/3.0/) by Greg Maurer. This page last updated April 2018.*
+*All content [![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/80x15.png)](http://creativecommons.org/licenses/by-sa/3.0/) by Greg Maurer. This page last updated April 2020.*
