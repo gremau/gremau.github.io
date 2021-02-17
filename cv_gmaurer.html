@@ -4,25 +4,134 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <meta name="author" content="05 June 2020" />
+  <meta name="author" content="16 Feb 2021" />
   <title>Gregory E. Maurer</title>
-  <style type="text/css">
-      code{white-space: pre-wrap;}
-      span.smallcaps{font-variant: small-caps;}
-      span.underline{text-decoration: underline;}
-      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  <style>
+    html {
+      line-height: 1.7;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 40em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      word-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin-top: 1.7em;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.7em;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1.7em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1.7em 0 1.7em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      font-style: italic;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      background-color: #f0f0f0;
+      font-size: 85%;
+      margin: 0;
+      padding: .2em .4em;
+    }
+    pre {
+      line-height: 1.5em;
+      padding: 1em;
+      background-color: #f0f0f0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin-top: 1.7em;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+    }
+    th, td {
+      border-bottom: 1px solid lightgray;
+      padding: 1em 3em 1em 0;
+    }
+    header {
+      margin-bottom: 6em;
+      text-align: center;
+    }
+    nav a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
 </head>
 <body>
-<header>
+<header id="title-block-header">
 <h1 class="title">Gregory E. Maurer</h1>
-<p class="author">05 June 2020</p>
+<p class="author">16 Feb 2021</p>
 </header>
 <p>Jornada Basin LTER                                                                      Tel: 801 716-0293 (mobile)<br />
-P.O. Box 30003, MSC 3JER                                                             Email: <a href="mailto:gregmaurer@gmail.com">gregmaurer@gmail.com</a><br />
+P.O. Box 30003, MSC 3JER                                                             Email: <a href="mailto:gregmaurer@gmail.com" class="email">gregmaurer@gmail.com</a><br />
 New Mexico State University                                                                         Web: <a href="http://greg.pronghorns.net" class="uri">http://greg.pronghorns.net</a><br />
 Las Cruces, NM, 88003-8003<br />
 USA</p>
@@ -31,6 +140,8 @@ USA</p>
 <h2 id="selected-professional-and-academic-positions">Selected professional and academic positions</h2>
 <p><em>Data Scientist and LTER Information Manager</em> <strong>May 2019–present</strong><br />
 Jornada Basin Long-term Ecological Research Program, New Mexico State University, Las Cruces, NM</p>
+<p><em>Part-time Instructor of Biology</em> <strong>August 2018-present</strong><br />
+School of Math, Science, and Engineering, Central New Mexico Community College, Albuquerque, NM</p>
 <p><em>Postdoctoral Scientist:</em> <strong>September 2016–May 2019</strong><br />
 Dept. of Environmental Science, Policy, and Management, University of California, Berkeley, CA</p>
 <p><em>Postdoctoral Scientist:</em> <strong>August 2014–September 2016</strong><br />
@@ -45,7 +156,6 @@ Department of Biology, University of New Mexico, Albuquerque, NM</p>
 <p><em>Advanced Statistical Modeling for Biologists</em>, University of Utah, 2012</p>
 <h2 id="peer-reviewed-publications">Peer-reviewed publications</h2>
 <p>(see also <a href="http://greg.pronghorns.net/publications.html" class="uri">http://greg.pronghorns.net/publications.html</a>)</p>
-
 <p><strong>Maurer, G.E.</strong>, A.J. Hallmark, R.F. Brown, S.L. Collins, O.E. Sala. Sensitivity of primary production to precipitation across the United States. <em>Ecology Letters</em>. <a href="https://dx.doi.org/10.1111/ele.13455" class="uri">https://dx.doi.org/10.1111/ele.13455</a></p>
 <p>Oerter, E.J., J.V. Mills, <strong>G.E. Maurer</strong>, L.N. Lammers, R.G. Amundson. 2018. Greenhouse gas production and transport in desert soils of the southwestern USA. <em>Global Biogeochemical Cycles</em>. <a href="https://doi.org/10.1029/2018GB006035" class="uri">https://doi.org/10.1029/2018GB006035</a></p>
 <p>Rudgers, J.A., Y.A. Chung, <strong>G.E. Maurer</strong>, D.I. Moore, E.H. Muldavin, Collins, S.L. 2018. Climate sensitivity functions and net primary production: A framework for incorporating changes in climate mean and variability. <em>Ecology</em>. <a href="https://doi.org/10.1002/ecy.2136" class="uri">https://doi.org/10.1002/ecy.2136</a></p>
@@ -57,16 +167,14 @@ Department of Biology, University of New Mexico, Albuquerque, NM</p>
 <p>Hall, S.J., <strong>G.E. Maurer</strong>, S.W. Hoch, R. Taylor, D.R. Bowling. 2014. Impacts of anthropogenic emissions and cold air pools on urban to montane gradients of snowpack ion concentrations in the Wasatch Mountains, Utah. <em>Atmospheric Environment</em>, 98: 231–241. <a href="https://doi.org/10.1016/j.atmosenv.2014.08.076" class="uri">https://doi.org/10.1016/j.atmosenv.2014.08.076</a></p>
 <p><strong>Maurer, G.E.</strong> and D.R. Bowling. 2014. Seasonal snowpack characteristics influence soil temperature and water content at multiple scales in interior western U.S. mountain ecosystems, <em>Water Resources Research</em>, 50: 5216–5234. <a href="https://doi.org/10.1002/2013WR014452" class="uri">https://doi.org/10.1002/2013WR014452</a></p>
 <p>Ruess, R.W., R.L. Hendrick, A.J. Burton, K. S. Pregitzer, B. Sveinbjornsson, M.F. Allen, <strong>G.E. Maurer</strong>. 2003. Coupling fine root dynamics with ecosystem carbon cycling in black spruce forests of interior Alaska, <em>Ecological Monographs</em>, 74: 643-662. <a href="https://doi.org/10.1890/02-4032" class="uri">https://doi.org/10.1890/02-4032</a></p>
-
 <h2 id="publications-in-preparation-or-review">Publications in preparation or review</h2>
-
 <p></p>
 <p>Maurer, G.E., J.V. Mills, E.J. Oerter, R.G. Amundson, L.N. Lammers. Measured and modeled soil carbon cycling in the Mojave desert: toward projected regional greenhouse gas budgets. (in prep)</p>
+<p>Maurer, G.E., J.V. Mills, R.G. Amundson, L.N. Lammers. Contrasting climate responses of ecosystem carbon uptake and efflux along seasonal and topographic gradients in the Mojave Desert (in prep)</p>
 <p>Maurer, G.E. and D.R. Bowling. Forest soil carbon stocks and isotopic composition along mountain climate gradients of the interior western United States. (in prep for <em>Ecosystems</em>)</p>
-
 <h2 id="presentations">Presentations</h2>
-
 <p></p>
+<p>ESA Annual Meeting 2020 – Systematic variations in the contribution of rainfall-driven soil respiration pulses to soil carbon cycling in North American deserts (Poster)</p>
 <p>AGU Fall Meeting 2018 – The contribution of ephemeral, moisture-driven soil respiration pulses to soil carbon cycling in the Mojave Desert (Poster)</p>
 <p>AGU Fall Meeting 2017 – Sensitivity and asymmetry of NPP in response to climate variability across the conterminous United States (Talk)</p>
 <p>AGU Fall Meeting 2017 – Modeled and measured carbon cycling in Mojave Desert soils: toward present and projected greenhouse gas budgets for arid regions (Poster)</p>
@@ -78,7 +186,6 @@ Department of Biology, University of New Mexico, Albuquerque, NM</p>
 <p>AGU Fall Meeting 2012 – Sensitivity of soil temperature and soil moisture to seasonal snowpack variability in western U.S. mountain ecosystems. (Talk)</p>
 <p>AGU Fall Meeting 2011 – Sources of variability in winter soil temperature moderation by mountain snowpacks. (Poster)</p>
 <p>AGU Fall Meeting 2010 – Influence of dust deposition on snowpack melt rate and ecohydrological processes in a subalpine forest. (Talk)</p>
-
 <h2 id="research-and-travel-grants">Research and travel grants</h2>
 <p>UU Graduate School and Dept. of Biology travel funding (AGU Fall meeting), 2012</p>
 <p>ASUU and Dept. of Biology travel funding (AGU Fall Meeting), 2011</p>
@@ -86,6 +193,7 @@ Department of Biology, University of New Mexico, Albuquerque, NM</p>
 <p>NSF Research Experience for Undergraduates (publication above), 1999</p>
 <h2 id="teaching-and-mentoring">Teaching and mentoring</h2>
 <h3 id="instructor-of-record">Instructor of record</h3>
+<p><em>Microbiology Lab</em>, Biology 2310L, School of Math Science and Engineering, Central New Mexico Community College. Fall 2020 (online/asynchronous).</p>
 <p><em>Biology Lab for Health Science Majors</em>, Biology 1140L, School of Math, Science and Engineering, Central New Mexico Community College. Spring 2020</p>
 <p><em>Microbiology Lab</em>, Biology 2310L, School of Math Science and Engineering, Central New Mexico Community College. Spring 2020 (partial term).</p>
 <p><em>Microbiology Lab</em>, Biology 2192, School of Math Science and Engineering, Central New Mexico Community College. Spring 2019.</p>
@@ -111,7 +219,8 @@ Jornada Basin Long-term Ecological Research Program, New Mexico State University
 <ul>
 <li>Manage and publish research data collected by the Jornada Basin LTER program, in collaboration with scientists and data managers in the LTER network. Develop and manage a data science program that will generate new ecological research products, enhance existing investigations, and create applications for scientific outreach.</li>
 </ul>
-<p><em>Part-time Instructor of Biology</em> <strong>August 2018-present</strong> School of Math, Science, and Engineering, Central New Mexico Community College, Albuquerque, NM</p>
+<p><em>Part-time Instructor of Biology</em> <strong>August 2018-present</strong><br />
+School of Math, Science, and Engineering, Central New Mexico Community College, Albuquerque, NM</p>
 <ul>
 <li>Teach Biology lab classes to first and second year students at a large, open-enrollment community college.</li>
 </ul>
@@ -161,7 +270,7 @@ Marine Resources Program, Oregon Department of Fish and Wildlife, Salem, OR</p>
 <li>Ocean Recreational Boat Survey. Conducted boat counts and interviews with returning fishermen to determine fishing effort, target locations and species, catch and release rates. Inspected catches, collecting hatchery tags and biological data/samples from species of interest. Made weekly reports to Newport office.</li>
 </ul>
 <h2 id="service-to-profession">Service to profession</h2>
-<p>Reviewer for: <em>Global Change Biology</em> (1), <em>Climatic Change</em> (1), <em>Ecological Applications</em> (1), <em>Oecologia</em> (1), <em>Plant Ecology</em> (2)</p>
+<p>Reviewer for: <em>BioScience</em> (1), <em>Global Change Biology</em> (1), <em>Climatic Change</em> (1), <em>Ecological Applications</em> (1), <em>Oecologia</em> (1), <em>Plant Ecology</em> (2)</p>
 <h2 id="internships">Internships</h2>
 <p><em>The Nature Conservancy</em>, Conservation GIS intern, Salt Lake City, UT, 2006</p>
 <p><em>Alaska Bird Observatory</em>, Nesting field study intern, Fairbanks, AK, 2001</p>

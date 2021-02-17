@@ -1,7 +1,7 @@
 ---
 title: Data \[pronghorns.net\]
 author: Greg Maurer
-date: 6 February, 2014
+date: 16 February, 2021
 ---
 
 pronghorns.net
@@ -56,5 +56,4 @@ Two weather stations are located at the [U of U Rio Mesa field station](http://r
 
 \ 
 
-*All content [![Creative Commons
-License](http://i.creativecommons.org/l/by-sa/3.0/80x15.png)](http://creativecommons.org/licenses/by-sa/3.0/) by Greg Maurer. This page last updated 6 Feb, 2014.*
+*All content [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/) by Greg Maurer. This page last updated 16 Feb, 2021.*

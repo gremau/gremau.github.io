@@ -20,7 +20,7 @@ A changelog for the site.
 
 ## Site updates
 
-
+-   *02/17/2021: Update licensing to CC-BY 4.0*
 -   *05/18/2016: File and markdown updates*
 -   *02/06/2014: Changing to pandoc generated html files, updated pubs and data*
 -   *01/07/2013: Replaced WP "About" page, added Data, Pubs (linked
