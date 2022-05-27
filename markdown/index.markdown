@@ -34,11 +34,6 @@ These are works in progress, but I welcome contributions and aim to make them us
 * [sawyer](https://github.com/gremau/sawyer): Manage and quality assure data from dataloggers and environmental sensor networks
 * [ecoflux](https://github.com/gremau/ecoflux): Compute and analyze ecosystem mass and energy fluxes and other environmental time series
 
-## Call or message me
-
-- Google: __gregmaurer(at)gmail.com__
-- Use my phone # to contact me on [Signal](https://signal.org)
-
 ## Elsewhere on the internet
 
 - [GitHub](https://github.com/gremau) profile
