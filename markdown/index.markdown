@@ -16,12 +16,13 @@ pronghorns.net
 
 \
 
-This site is owned and operated by Greg Maurer, an ecologist and data scientist at New Mexico State University. I also teach Biology courses at Central New Mexico Community College in Albuquerque, NM. The information and opinions expressed here are subject to my uncertainty, errors, and distortions. 
+This site is owned and operated by Greg Maurer, an ecologist and environmental data scientist based at New Mexico State University. I also teach biology courses and workshops around New Mexico. The information and opinions expressed here are subject to my uncertainty, errors, and distortions. 
 
 See my __CV__ ([web](https://greg.pronghorns.net/cv_gmaurer.html), [pdf](https://greg.pronghorns.net/publicfiles/cv_gmaurer.pdf)) for complete experience and credentials. Email me at <greg@pronghorns.net>.
 
 ## Current and past projects
 
+- I'm joining [Environmental Data Initiative](https://edirepository.org) in Fall 2023
 - Ecology, data science, and informatics at the [Jornada Basin LTER](https://lter.jornada.nmsu.edu) program
 - Studying soil carbon cycling and impacts of solar power development in the Mojave Desert with UC Berkeley colleagues
 - Ecohydrology research at the [New Mexico Elevation Gradient](http://www.litvaklab.org/new-mexico-elevation-gradient.html) cluster of [AmeriFlux](https://ameriflux.lbl.gov/) sites
@@ -42,10 +43,9 @@ These are works in progress, but I welcome contributions and aim to make them us
 
 ## Colleagues and Friends
 
+- I frequently collaborate with the [Collins Aridland Ecology Lab](http://collins.lternet.edu/) at UNM and the [Sala Dryland Ecology group](https://sala.lab.asu.edu/) at ASU.
 - I was a postdoc in, and now collaborate with, the [Amundson pedology](https://earthy5.wixsite.com/amundson) and [Lammers geochemistry](https://nature.berkeley.edu/~lnlammers/) labs at U.C. Berkeley.
 - Lab websites of [David Bowling](https://bioweb.biology.utah.edu/bowling/) and [Marcy Litvak](http://www.litvaklab.org/) (previous supervisors)
--  [Michael Bernard](http://michaelbernardart.com/), artist and provacateur
--  [Mark Hazel](https://imexcursions.wordpress.com/) and [Matthew Utley](http://botanicalenrichment.blogspot.com/), plant conservation comrades
 
 \ 
 

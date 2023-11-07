@@ -20,6 +20,14 @@ Some article preprints are provided here, and I'll send pdf's of any of these up
 
 ## Peer-reviewed journal articles
 
+- Amundson, R., J. V. Mills, L. N. Lammers, M. Barthel, N. Gallarotti, J. Six, G. Gebauer, and __G. E. Maurer__. Simultaneous Production and Consumption of Soil N2O Creates Complex Effects on its Stable Isotope Composition. Global Biogeochemical Cycles (2023): e2022GB007536. doi:[10.1029/2022GB007536](https://doi.org/10.1029/2022GB007536)
+
+- Mills, J. V., __G. E. Maurer__, L. N. Lammers, and R. Amundson. 2022. Emergent Climate Change Impacts on the Soil C and N Cycles in the Mojave Desert. _Global Biogeochemical Cycles_ 36, no. 9, doi:[10.1029/2021GB007254](https://doi.org/10.1029/2021GB007254)
+
+- Meng, B., J. Li, __G. E. Maurer__, S. Zhong, Y. Yao, X. Yang, S. L. Collins, and W. Sun. 2021. Nitrogen addition amplifies the nonlinear drought response of grassland productivity to extended growing‐season droughts. _Ecology_. doi:[10.1002/ecy.3483](https://doi.org/10.1002/ecy.3483)
+
+- Hallmark, A. J., __G. E. Maurer__, R. E. Pangle, and M. E. Litvak. 2021. Watching plants’ dance: Movements of live and dead branches linked to atmospheric water demand. _Ecosphere_. 12, doi:[10.1002/ecs2.3705](https://doi.org/10.1002/ecs2.3705)
+
 - __Maurer, G.E.__, A.J. Hallmark, R.F. Brown, S.L. Collins, O.E. Sala. Sensitivity of primary production to precipitation across the United States. _Ecology Letters_. doi:[10.1111/ele.13455](https://dx.doi.org/10.1111/ele.13455)
 
 - Oerter, E.J., J.V. Mills, __G.E. Maurer__, L.N. Lammers, R.G. Amundson. 2018. Greenhouse gas production and transport in desert soils of the southwestern USA. _Global Biogeochemical Cycles_. doi:[10.1029/2018GB006035](https://doi.org/10.1029/2018GB006035)

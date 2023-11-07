@@ -20,6 +20,8 @@ A changelog for the site.
 
 ## Site updates
 
+-   *11/07/2023: File and markdown updates*
+-   *06/18/2022: File and markdown updates*
 -   *02/17/2021: Update licensing to CC-BY 4.0*
 -   *05/18/2016: File and markdown updates*
 -   *02/06/2014: Changing to pandoc generated html files, updated pubs and data*

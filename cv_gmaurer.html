@@ -4,207 +4,653 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <meta name="author" content="2 Aug 2022" />
+  <meta name="author" content="18 October 2023" />
   <title>Gregory E. Maurer</title>
   <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     span.underline{text-decoration: underline;}
     div.column{display: inline-block; vertical-align: top; width: 50%;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
 </head>
 <body>
 <header id="title-block-header">
 <h1 class="title">Gregory E. Maurer</h1>
-<p class="author">2 Aug 2022</p>
+<p class="author">18 October 2023</p>
 </header>
-<p>Jornada Basin LTER                                                                      Tel: 801 716-0293 (mobile)<br />
-P.O. Box 30003, MSC 3JER                                                             Email: <a href="mailto:gregmaurer@gmail.com" class="email">gregmaurer@gmail.com</a><br />
-New Mexico State University                                                                         Web: <a href="http://greg.pronghorns.net" class="uri">http://greg.pronghorns.net</a><br />
+<p>Jornada Basin
+LTER                                                                      Tel:
+801 716-0293 (mobile)<br />
+P.O. Box 30003, MSC
+3JER                                                             Email:
+<a href="mailto:gregmaurer@gmail.com"
+class="email">gregmaurer@gmail.com</a><br />
+New Mexico State
+University                                                                        
+Web: <a href="http://greg.pronghorns.net"
+class="uri">http://greg.pronghorns.net</a><br />
 Las Cruces, NM, 88003-8003<br />
 USA</p>
-<h2 id="research-and-professional-interests">Research and professional interests</h2>
-<p>I am a broadly trained ecologist with well-developed quantitative and informatics skills. As a scientist I investigate terrestrial biogeochemistry and ecohydrology, particularly the effects of climate, global change, and disturbance on vegetation and soil systems. As a data analyst and data manager I’m competent using a wide variety of methods and technologies to create, communicate, and publish impactful research under an open-science philosophy. My chief professional aims are to understand, and raise awareness of, the earth and its ecosystems, and to inform critical resource management and conservation efforts.</p>
+<h2 id="research-and-professional-interests">Research and professional
+interests</h2>
+<p>I am a broadly trained ecologist with well-developed quantitative and
+informatics skills. My research interests are in terrestrial
+biogeochemistry and ecohydrology, particularly the effects of climate,
+global change, and disturbance on vegetation and soil systems. As a data
+analyst and data manager I’m competent using a wide variety of methods
+and technologies to create, communicate, and publish impactful research
+products with an open-science philosophy. My professional goals are to
+understand and raise awareness of the changing earth and its ecosystems,
+and to inform critical resource management and conservation efforts.</p>
 <h2 id="academic-positions">Academic positions</h2>
-<p><em>Data Scientist and LTER Information Manager</em> <strong>May 2019–present</strong><br />
-Jornada Basin Long-term Ecological Research Program, New Mexico State University, Las Cruces, NM</p>
-<p><em>Postdoctoral Scientist:</em> <strong>September 2016–May 2019</strong><br />
-Dept. of Environmental Science, Policy, and Management, University of California, Berkeley, CA</p>
-<p><em>Postdoctoral Scientist:</em> <strong>August 2014–September 2016</strong><br />
+<p><em>Data Scientist and LTER Information Manager</em> <strong>May
+2019–present</strong><br />
+Jornada Basin Long-term Ecological Research Program, New Mexico State
+University, Las Cruces, NM</p>
+<p><em>Adjunct Faculty</em> <strong>March 2023-present</strong> School
+of Life Sciences, Arizona State University, Tempe, AZ</p>
+<p><em>Postdoctoral Scientist:</em> <strong>September 2016–May
+2019</strong><br />
+Dept. of Environmental Science, Policy, and Management, University of
+California, Berkeley, CA</p>
+<p><em>Postdoctoral Scientist:</em> <strong>August 2014–September
+2016</strong><br />
 Department of Biology, University of New Mexico, Albuquerque, NM</p>
 <h2 id="education">Education</h2>
 <p><em>Ph.D.,</em> Biology, University of Utah, May 2014</p>
-<p><em>B.S., cum laude</em>, Biological Sciences, University of Alaska Fairbanks, 2001</p>
+<p><em>B.S., cum laude</em>, Biological Sciences, University of Alaska
+Fairbanks, 2001</p>
 <h3 id="certifications">Certifications</h3>
 <p><em>The Carpentries Instructor Certification</em>, 2021</p>
-<p><em>Certificate in Applied Geographic Information Science</em>, University of Utah, 2007</p>
+<p><em>Certificate in Applied Geographic Information Science</em>,
+University of Utah, 2007</p>
 <h3 id="selected-coursework">Selected coursework:</h3>
-<p><em>Advanced Topis in Deep Learning for Image Processing</em>, New Mexico State University/USDA ARS, 2021</p>
-<p><em>Introduction to Image Processing, Classical Machine Learning, and Deep Learning</em>, New Mexico State University/USDA ARS, 2021</p>
-<p><em>Ameriflux Data and Tech Workshop</em>, Lawrence Berkeley National Lab, 2015</p>
-<p><em>Radiocarbon in Ecology and Earth System Science</em>, University of California, Irvine, 2008</p>
-<p><em>Advanced Statistical Modeling for Biologists</em>, University of Utah, 2012</p>
+<p><em>Advanced Topics in Deep Learning for Image Processing</em>, New
+Mexico State University/USDA ARS, 2021</p>
+<p><em>Introduction to Image Processing, Classical Machine Learning, and
+Deep Learning</em>, New Mexico State University/USDA ARS, 2021</p>
+<p><em>Ameriflux Data and Tech Workshop</em>, Lawrence Berkeley National
+Lab, 2015</p>
+<p><em>Radiocarbon in Ecology and Earth System Science</em>, University
+of California, Irvine, 2008</p>
+<p><em>Advanced Statistical Modeling for Biologists</em>, University of
+Utah, 2012</p>
 <h2 id="peer-reviewed-publications">Peer-reviewed publications</h2>
-<p>(see also <a href="http://greg.pronghorns.net/publications.html" class="uri">http://greg.pronghorns.net/publications.html</a>)</p>
-<p><strong>Maurer, G.E.</strong>, A.J. Hallmark, R.F. Brown, S.L. Collins, O.E. Sala. Sensitivity of primary production to precipitation across the United States. <em>Ecology Letters</em>. <a href="https://dx.doi.org/10.1111/ele.13455" class="uri">https://dx.doi.org/10.1111/ele.13455</a></p>
-<p>Oerter, E.J., J.V. Mills, <strong>G.E. Maurer</strong>, L.N. Lammers, R.G. Amundson. 2018. Greenhouse gas production and transport in desert soils of the southwestern USA. <em>Global Biogeochemical Cycles</em>. <a href="https://doi.org/10.1029/2018GB006035" class="uri">https://doi.org/10.1029/2018GB006035</a></p>
-<p>Rudgers, J.A., Y.A. Chung, <strong>G.E. Maurer</strong>, D.I. Moore, E.H. Muldavin, Collins, S.L. 2018. Climate sensitivity functions and net primary production: A framework for incorporating changes in climate mean and variability. <em>Ecology</em>. <a href="https://doi.org/10.1002/ecy.2136" class="uri">https://doi.org/10.1002/ecy.2136</a></p>
-<p>Morillas, L., R.E. Pangle, <strong>G.E. Maurer</strong>, W.T. Pockman, N.G. McDowell, C-W Huang, D.J. Krofcheck, A.M. Fox, R.L. Sinsabaugh, T.A. Rahn, M.E. Litvak. 2017. Tree mortality decreases water availability and ecosystem resilience to drought in piñon-juniper woodlands in the southwestern U.S. <em>JGR Biogeosciences</em>. <a href="https://doi.org/10.1002/2017JG004095" class="uri">https://doi.org/10.1002/2017JG004095</a></p>
-<p>Biederman, J.A., R.L. Scott, T. Bell, D.R. Bowling, S. Dore, J. Garatuza-Payan, T.E. Kolb, P. Krishnan, D.J. Krofcheck, M.E. Litvak, <strong>G.E. Maurer</strong>, T.P. Meyers, W.C. Oechel, S.A. Papuga, G.E. Ponce-Campos, J.C. Rodriguez, W.K. Smith, R. Vargas, C.J. Watts, E.A. Yepez, M.L. Goulden. 2017. CO<sub>2</sub> exchange and evapotranspiration across dryland ecosystems of southwestern North America. <em>Global Change Biology</em>. <a href="https://doi.org/10.1111/gcb.13686" class="uri">https://doi.org/10.1111/gcb.13686</a></p>
-<p><strong>Maurer, G.E.</strong>, A.M. Chan, N.A. Trahan, D.J.P. Moore, and D.R. Bowling. 2016. Carbon isotopic composition of forest soil respiration in the decade following bark beetle and stem girdling disturbances in the Rocky Mountains. <em>Plant, Cell, &amp; Environment</em>, 39: 1513–1523. <a href="https://doi.org/10.1111/pce.12716" class="uri">https://doi.org/10.1111/pce.12716</a></p>
-<p>Biederman, J.A., R.L. Scott, M.L. Goulden, R. Vargas, M.E. Litvak, T.E. Kolb, E.A. Yepez, W. C. Oechel, P.D. Blanken, T.W. Bell, J. Garatuza-Payan, <strong>G.E. Maurer</strong>, S. Dore, S.P. Burns. 2016. Terrestrial carbon balance in a drier world: the effects of water availability in southwestern North America. <em>Global Change Biology</em>. <a href="https://doi.org/10.1111/gcb.13222" class="uri">https://doi.org/10.1111/gcb.13222</a></p>
-<p><strong>Maurer, G.E.</strong>, and D.R. Bowling. 2014. Dust effects on snowpack melt and related ecosystem processes are secondary to those of forest canopy structure and interannual snowpack variability, <em>Ecohydrology</em>, 8: 1005–1023. <a href="https://doi.org/10.1002/eco.1558" class="uri">https://doi.org/10.1002/eco.1558</a></p>
-<p>Hall, S.J., <strong>G.E. Maurer</strong>, S.W. Hoch, R. Taylor, D.R. Bowling. 2014. Impacts of anthropogenic emissions and cold air pools on urban to montane gradients of snowpack ion concentrations in the Wasatch Mountains, Utah. <em>Atmospheric Environment</em>, 98: 231–241. <a href="https://doi.org/10.1016/j.atmosenv.2014.08.076" class="uri">https://doi.org/10.1016/j.atmosenv.2014.08.076</a></p>
-<p><strong>Maurer, G.E.</strong> and D.R. Bowling. 2014. Seasonal snowpack characteristics influence soil temperature and water content at multiple scales in interior western U.S. mountain ecosystems, <em>Water Resources Research</em>, 50: 5216–5234. <a href="https://doi.org/10.1002/2013WR014452" class="uri">https://doi.org/10.1002/2013WR014452</a></p>
-<p>Ruess, R.W., R.L. Hendrick, A.J. Burton, K. S. Pregitzer, B. Sveinbjornsson, M.F. Allen, <strong>G.E. Maurer</strong>. 2003. Coupling fine root dynamics with ecosystem carbon cycling in black spruce forests of interior Alaska, <em>Ecological Monographs</em>, 74: 643-662. <a href="https://doi.org/10.1890/02-4032" class="uri">https://doi.org/10.1890/02-4032</a></p>
+<p>(see also <a href="http://greg.pronghorns.net/publications.html"
+class="uri">http://greg.pronghorns.net/publications.html</a>)</p>
+<p>Amundson, R., J. V. Mills, L. N. Lammers, M. Barthel, N. Gallarotti,
+J. Six, G. Gebauer, and <strong>G. E. Maurer</strong>. Simultaneous
+Production and Consumption of Soil N2O Creates Complex Effects on its
+Stable Isotope Composition. Global Biogeochemical Cycles (2023):
+e2022GB007536. <a href="https://doi.org/10.1029/2022GB007536"
+class="uri">https://doi.org/10.1029/2022GB007536</a></p>
+<p>Mills, J. V., <strong>G. E. Maurer</strong>, L. N. Lammers, and R.
+Amundson. 2022. Emergent Climate Change Impacts on the Soil C and N
+Cycles in the Mojave Desert. <em>Global Biogeochemical Cycles</em> 36,
+no. 9, <a href="https://doi.org/10.1029/2021GB007254"
+class="uri">https://doi.org/10.1029/2021GB007254</a></p>
+<p>Meng, B., J. Li, <strong>G. E. Maurer</strong>, S. Zhong, Y. Yao, X.
+Yang, S. L. Collins, and W. Sun. 2021. Nitrogen addition amplifies the
+nonlinear drought response of grassland productivity to extended
+growing‐season droughts. <em>Ecology</em> <a
+href="https://doi.org/10.1002/ecy.3483"
+class="uri">https://doi.org/10.1002/ecy.3483</a></p>
+<p>Hallmark, A. J., <strong>G. E. Maurer</strong>, R. E. Pangle, and M.
+E. Litvak. 2021. Watching plants’ dance: Movements of live and dead
+branches linked to atmospheric water demand. <em>Ecosphere</em>. 12, <a
+href="https://doi.org/10.1002/ecs2.3705"
+class="uri">https://doi.org/10.1002/ecs2.3705</a></p>
+<p><strong>Maurer, G.E.</strong>, A.J. Hallmark, R.F. Brown, S.L.
+Collins, O.E. Sala. 2020. Sensitivity of primary production to
+precipitation across the United States. <em>Ecology Letters</em>. <a
+href="https://dx.doi.org/10.1111/ele.13455"
+class="uri">https://dx.doi.org/10.1111/ele.13455</a></p>
+<p>Oerter, E.J., J.V. Mills, <strong>G.E. Maurer</strong>, L.N. Lammers,
+R.G. Amundson. 2018. Greenhouse gas production and transport in desert
+soils of the southwestern USA. <em>Global Biogeochemical Cycles</em>. <a
+href="https://doi.org/10.1029/2018GB006035"
+class="uri">https://doi.org/10.1029/2018GB006035</a></p>
+<p>Rudgers, J.A., Y.A. Chung, <strong>G.E. Maurer</strong>, D.I. Moore,
+E.H. Muldavin, Collins, S.L. 2018. Climate sensitivity functions and net
+primary production: A framework for incorporating changes in climate
+mean and variability. <em>Ecology</em>. <a
+href="https://doi.org/10.1002/ecy.2136"
+class="uri">https://doi.org/10.1002/ecy.2136</a></p>
+<p>Morillas, L., R.E. Pangle, <strong>G.E. Maurer</strong>, W.T.
+Pockman, N.G. McDowell, C-W Huang, D.J. Krofcheck, A.M. Fox, R.L.
+Sinsabaugh, T.A. Rahn, M.E. Litvak. 2017. Tree mortality decreases water
+availability and ecosystem resilience to drought in piñon-juniper
+woodlands in the southwestern U.S. <em>JGR Biogeosciences</em>. <a
+href="https://doi.org/10.1002/2017JG004095"
+class="uri">https://doi.org/10.1002/2017JG004095</a></p>
+<p>Biederman, J.A., R.L. Scott, T. Bell, D.R. Bowling, S. Dore, J.
+Garatuza-Payan, T.E. Kolb, P. Krishnan, D.J. Krofcheck, M.E. Litvak,
+<strong>G.E. Maurer</strong>, T.P. Meyers, W.C. Oechel, S.A. Papuga,
+G.E. Ponce-Campos, J.C. Rodriguez, W.K. Smith, R. Vargas, C.J. Watts,
+E.A. Yepez, M.L. Goulden. 2017. CO<sub>2</sub> exchange and
+evapotranspiration across dryland ecosystems of southwestern North
+America. <em>Global Change Biology</em>. <a
+href="https://doi.org/10.1111/gcb.13686"
+class="uri">https://doi.org/10.1111/gcb.13686</a></p>
+<p><strong>Maurer, G.E.</strong>, A.M. Chan, N.A. Trahan, D.J.P. Moore,
+and D.R. Bowling. 2016. Carbon isotopic composition of forest soil
+respiration in the decade following bark beetle and stem girdling
+disturbances in the Rocky Mountains. <em>Plant, Cell, &amp;
+Environment</em>, 39: 1513–1523. <a
+href="https://doi.org/10.1111/pce.12716"
+class="uri">https://doi.org/10.1111/pce.12716</a></p>
+<p>Biederman, J.A., R.L. Scott, M.L. Goulden, R. Vargas, M.E. Litvak,
+T.E. Kolb, E.A. Yepez, W. C. Oechel, P.D. Blanken, T.W. Bell, J.
+Garatuza-Payan, <strong>G.E. Maurer</strong>, S. Dore, S.P. Burns. 2016.
+Terrestrial carbon balance in a drier world: the effects of water
+availability in southwestern North America. <em>Global Change
+Biology</em>. <a href="https://doi.org/10.1111/gcb.13222"
+class="uri">https://doi.org/10.1111/gcb.13222</a></p>
+<p><strong>Maurer, G.E.</strong>, and D.R. Bowling. 2014. Dust effects
+on snowpack melt and related ecosystem processes are secondary to those
+of forest canopy structure and interannual snowpack variability,
+<em>Ecohydrology</em>, 8: 1005–1023. <a
+href="https://doi.org/10.1002/eco.1558"
+class="uri">https://doi.org/10.1002/eco.1558</a></p>
+<p>Hall, S.J., <strong>G.E. Maurer</strong>, S.W. Hoch, R. Taylor, D.R.
+Bowling. 2014. Impacts of anthropogenic emissions and cold air pools on
+urban to montane gradients of snowpack ion concentrations in the Wasatch
+Mountains, Utah. <em>Atmospheric Environment</em>, 98: 231–241. <a
+href="https://doi.org/10.1016/j.atmosenv.2014.08.076"
+class="uri">https://doi.org/10.1016/j.atmosenv.2014.08.076</a></p>
+<p><strong>Maurer, G.E.</strong> and D.R. Bowling. 2014. Seasonal
+snowpack characteristics influence soil temperature and water content at
+multiple scales in interior western U.S. mountain ecosystems, <em>Water
+Resources Research</em>, 50: 5216–5234. <a
+href="https://doi.org/10.1002/2013WR014452"
+class="uri">https://doi.org/10.1002/2013WR014452</a></p>
+<p>Ruess, R.W., R.L. Hendrick, A.J. Burton, K. S. Pregitzer, B.
+Sveinbjornsson, M.F. Allen, <strong>G.E. Maurer</strong>. 2003. Coupling
+fine root dynamics with ecosystem carbon cycling in black spruce forests
+of interior Alaska, <em>Ecological Monographs</em>, 74: 643-662. <a
+href="https://doi.org/10.1890/02-4032"
+class="uri">https://doi.org/10.1890/02-4032</a></p>
 <h2 id="reports-and-white-papers">Reports and white papers</h2>
 <p></p>
-<p>Gries, C., S. Beaulieu, R.F. Brown, S. Elmendorf, H. Garritt, G. Gastil-Buhl, H. Hsieh, L. Kui, M. Martin, G. Maurer, A.T. Nguyen, J.H. Porter, A. Sapp, M. Servilla, and T.L. Whiteaker. 2021. Data Package Design for Special Cases ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/9d4c803578c3fbcb45fc23f13124d052</p>
-<h2 id="publications-in-preparation-or-review">Publications in preparation or review</h2>
+<p>Gries, C., S. Beaulieu, R.F. Brown, S. Elmendorf, H. Garritt, G.
+Gastil-Buhl, H. Hsieh, L. Kui, M. Martin, G. Maurer, A.T. Nguyen, J.H.
+Porter, A. Sapp, M. Servilla, and T.L. Whiteaker. 2021. Data Package
+Design for Special Cases ver 1. <em>Environmental Data Initiative</em>.
+<a href="https://doi.org/10.6073/pasta/9d4c803578c3fbcb45fc23f13124d052"
+class="uri">https://doi.org/10.6073/pasta/9d4c803578c3fbcb45fc23f13124d052</a></p>
+<h2 id="juried-conference-abstracts">Juried conference abstracts</h2>
 <p></p>
-<p>Maurer, G.E., J.V. Mills, E.J. Oerter, R.G. Amundson, L.N. Lammers. Measured and modeled soil carbon cycling in the Mojave desert: toward projected regional greenhouse gas budgets. (in prep)</p>
-<p>Maurer, G.E., J.V. Mills, R.G. Amundson, L.N. Lammers. Contrasting climate responses of ecosystem carbon uptake and efflux along seasonal and topographic gradients in the Mojave Desert (in prep)</p>
-<p>Maurer, G.E. and D.R. Bowling. Forest soil carbon stocks and isotopic composition along mountain climate gradients of the interior western United States. (in prep for <em>Ecosystems</em>)</p>
+<p>Gries, C., S, Beaulieu, R. Brown, G. Gastil-Buhl, S. Elmendorf, H.
+Hsieh, L. Kui, G. Maurer, and J. Porter. 2020. Change in Pictures:
+Creating best practices in archiving ecological imagery for reuse.
+<em>Biodiversity Information Science and Standards 4</em></p>
+<p>Gries, C., R. Brown, M. Gastil-Buhl, S. Elmendorf, H. Garritt, M.
+Martin, G. Maurer, A. Nguyen, J. Porter, and T. Whiteaker. 2020. Going
+beyond the spreadsheet-developing Best Practices in ‘long-tail’
+environmental data curation and publishing. <em>Earth and Space Science
+Open Archive (ESSOAr)</em></p>
+<h2 id="publications-in-preparation-or-review">Publications in
+preparation or review</h2>
+<p></p>
+<p>Maurer, G.E., J.V. Mills, E.J. Oerter, R.G. Amundson, L.N. Lammers.
+Measured and modeled soil carbon cycling in the Mojave desert: toward
+projected regional greenhouse gas budgets. (in prep)</p>
+<p>Maurer, G.E., J.V. Mills, R.G. Amundson, L.N. Lammers. Contrasting
+climate responses of ecosystem carbon uptake and efflux along seasonal
+and topographic gradients in the Mojave Desert (in prep)</p>
+<p>Maurer, G.E. and D.R. Bowling. Forest soil carbon stocks and isotopic
+composition along mountain climate gradients of the interior western
+United States. (in prep for <em>Ecosystems</em>)</p>
+<h2 id="public-datasets">Public datasets</h2>
+<p></p>
+<p>Hernandez Rosales, B. and G.E. Maurer. 2022. Long-term climate
+indices (SPEI and scPDSI) derived from monthly meteorology data
+collected at USHCN stations in the northern Chihuahuan Desert of the
+United States, 1911-2021 ver 2. <em>Environmental Data Initiative</em>.
+<a href="https://doi.org/10.6073/pasta/087795f6fac0f174397536ab27d50db6"
+class="uri">https://doi.org/10.6073/pasta/087795f6fac0f174397536ab27d50db6</a></p>
+<p>Hernandez Rosales, B. and G.E. Maurer. 2022. Derived SPEI and vapor
+pressure deficit for 15 NPP study sites on the Jornada Basin,
+2013-ongoing ver 1. <em>Environmental Data Initiative</em>. <a
+href="https://doi.org/10.6073/pasta/094b708fcc8bddca273010ddcde3dce1"
+class="uri">https://doi.org/10.6073/pasta/094b708fcc8bddca273010ddcde3dce1</a></p>
+<p>Maurer, G. E., A. Hallmark, R. F. Brown, O.E. Sala, and S. L.
+Collins. 2019. Derived data and code for: Sensitivity of primary
+production to precipitation across the United States (Ecology Letters).
+<em>figshare</em>. <a
+href="https://doi.org/10.6084/m9.figshare.c.4780313.v1"
+class="uri">https://doi.org/10.6084/m9.figshare.c.4780313.v1</a></p>
+<p>Maurer, G., L. N. Lammers, and R. Amundson. 2019. MojaveCarbon
+Climosequence. <em>HydroShare</em>. <a
+href="http://www.hydroshare.org/resource/d01662d827f34170a5fd3589e468d06b"
+class="uri">http://www.hydroshare.org/resource/d01662d827f34170a5fd3589e468d06b</a></p>
+<p>Rudgers J., Y. Chung, G. Maurer, D. Moore, E. Muldavin, M. Litvak, S.
+Collins. 2017. Net primary production (NPP) and climate data from
+Sevilleta LTER core and control sites in desert grassland and shrubland
+ecosystems, 1999 - 2017. <em>Environmental Data Initiative</em>. <a
+href="https://doi.org/10.6073/pasta/451fe8e98c663c728be3f85d3149e109"
+class="uri">https://doi.org/10.6073/pasta/451fe8e98c663c728be3f85d3149e109</a></p>
 <h2 id="grants-and-fellowships">Grants and fellowships</h2>
-<p>UU Graduate School and Dept. of Biology travel funding (AGU Fall meeting), 2012</p>
+<p>NSF (DEB 2326482). “LTREB: Long-term ecosystem responses to
+directional changes in precipitation amount and variability in an arid
+grassland,” $670,000.00. Co-PI. September 2023-August 2028.</p>
+<p>UU Graduate School and Dept. of Biology travel funding (AGU Fall
+meeting), 2012</p>
 <p>ASUU and Dept. of Biology travel funding (AGU Fall Meeting), 2011</p>
 <p>UU Global Change and Sustainability Center Research Grant, 2011</p>
-<p>NSF Research Experience for Undergraduates (publication above), 1999</p>
+<p>NSF Research Experience for Undergraduates (publication above),
+1999</p>
 <h2 id="conference-activity">Conference activity</h2>
 <h3 id="presentations-and-posters">Presentations and posters</h3>
 <p></p>
-<p>ESA Annual Meeting 2020 – Systematic variations in the contribution of rainfall-driven soil respiration pulses to soil carbon cycling in North American deserts (Poster)</p>
-<p>AGU Fall Meeting 2018 – The contribution of ephemeral, moisture-driven soil respiration pulses to soil carbon cycling in the Mojave Desert (Poster)</p>
-<p>AGU Fall Meeting 2017 – Sensitivity and asymmetry of NPP in response to climate variability across the conterminous United States (Talk)</p>
-<p>AGU Fall Meeting 2017 – Modeled and measured carbon cycling in Mojave Desert soils: toward present and projected greenhouse gas budgets for arid regions (Poster)</p>
-<p>AGU Fall Meeting 2015 – Seasonal precipitation and deep soil moisture recharge as competing drivers of carbon and water fluxes across a gradient of semi-arid ecosystems. (Poster)</p>
-<p>AmeriFlux Principal Investigators Meeting 2015 – Seasonal and interannual variability in available water and coupled CO<sub>2</sub>, H<sub>2</sub>O, and energy fluxes along the New Mexico Elevation Gradient. (Poster)</p>
-<p>AGU Fall Meeting 2014 – Soil carbon cycle <sup>13</sup>C responses in the decade following bark beetle and stem girdling forest disturbance. (Poster)</p>
-<p>AGU Fall Meeting 2013 – Dust and canopy effects on snowpack melt and ecosystem processes in a Utah subalpine forest. (Poster)</p>
-<p>Fusion seminar (UU Biology Dept. Fall 2012) – The Weather Underground: The influence of seasonal snowcover on soil temperature and water content in the western U.S. (Talk)</p>
-<p>AGU Fall Meeting 2012 – Sensitivity of soil temperature and soil moisture to seasonal snowpack variability in western U.S. mountain ecosystems. (Talk)</p>
-<p>AGU Fall Meeting 2011 – Sources of variability in winter soil temperature moderation by mountain snowpacks. (Poster)</p>
-<p>AGU Fall Meeting 2010 – Influence of dust deposition on snowpack melt rate and ecohydrological processes in a subalpine forest. (Talk)</p>
+<p>ESA Annual Meeting 2020 – Systematic variations in the contribution
+of rainfall-driven soil respiration pulses to soil carbon cycling in
+North American deserts (Poster)</p>
+<p>AGU Fall Meeting 2018 – The contribution of ephemeral,
+moisture-driven soil respiration pulses to soil carbon cycling in the
+Mojave Desert (Poster)</p>
+<p>AGU Fall Meeting 2017 – Sensitivity and asymmetry of NPP in response
+to climate variability across the conterminous United States (Talk)</p>
+<p>AGU Fall Meeting 2017 – Modeled and measured carbon cycling in Mojave
+Desert soils: toward present and projected greenhouse gas budgets for
+arid regions (Poster)</p>
+<p>AGU Fall Meeting 2015 – Seasonal precipitation and deep soil moisture
+recharge as competing drivers of carbon and water fluxes across a
+gradient of semi-arid ecosystems. (Poster)</p>
+<p>AmeriFlux Principal Investigators Meeting 2015 – Seasonal and
+interannual variability in available water and coupled CO<sub>2</sub>,
+H<sub>2</sub>O, and energy fluxes along the New Mexico Elevation
+Gradient. (Poster)</p>
+<p>AGU Fall Meeting 2014 – Soil carbon cycle <sup>13</sup>C responses in
+the decade following bark beetle and stem girdling forest disturbance.
+(Poster)</p>
+<p>AGU Fall Meeting 2013 – Dust and canopy effects on snowpack melt and
+ecosystem processes in a Utah subalpine forest. (Poster)</p>
+<p>Fusion seminar (UU Biology Dept. Fall 2012) – The Weather
+Underground: The influence of seasonal snowcover on soil temperature and
+water content in the western U.S. (Talk)</p>
+<p>AGU Fall Meeting 2012 – Sensitivity of soil temperature and soil
+moisture to seasonal snowpack variability in western U.S. mountain
+ecosystems. (Talk)</p>
+<p>AGU Fall Meeting 2011 – Sources of variability in winter soil
+temperature moderation by mountain snowpacks. (Poster)</p>
+<p>AGU Fall Meeting 2010 – Influence of dust deposition on snowpack melt
+rate and ecohydrological processes in a subalpine forest. (Talk)</p>
 <h3 id="sessions-organized">Sessions organized</h3>
 <p></p>
-<p>Emerging best-practices for publishing non-tabular, complex, and special-case ecological datasets. ESIP Summer Meeting 2021. Co-organized with Renée Brown and Corinna Gries.</p>
+<p>Linking traits, genomes, specimens, and images to LTER data. LTER
+Network All-Scientists Meeting 2022. Co-organized with Corinna Gries. <a
+href="https://sched.co/1357I" class="uri">https://sched.co/1357I</a></p>
+<p>Emerging best-practices for publishing non-tabular, complex, and
+special-case ecological datasets. ESIP Summer Meeting 2021. Co-organized
+with Renée Brown and Corinna Gries. <a href="https://sched.co/jMPC"
+class="uri">https://sched.co/jMPC</a></p>
 <h2 id="teaching-and-mentoring">Teaching and mentoring</h2>
 <h3 id="instructor-of-record">Instructor of record</h3>
-<p><em>Microbiology Lab</em>, Biology 2310L, School of Math Science and Engineering, Central New Mexico Community College. Fall 2020 (online/asynchronous).</p>
-<p><em>Biology Lab for Health Science Majors</em>, Biology 1140L, School of Math, Science and Engineering, Central New Mexico Community College. Spring 2020</p>
-<p><em>Microbiology Lab</em>, Biology 2310L, School of Math Science and Engineering, Central New Mexico Community College. Spring 2020 (partial term).</p>
-<p><em>Microbiology Lab</em>, Biology 2192, School of Math Science and Engineering, Central New Mexico Community College. Spring 2019.</p>
-<p><em>Biology Lab for Health Science Majors</em>, Biology 1492, School of Math, Science, and Engineering, Central New Mexico Community College. Fall 2018 (2 sections).</p>
-<p><em>Plant Identification</em>, Red Butte Garden and Arboretum, University of Utah. 2007 &amp; 2008.</p>
-<h3 id="teaching-assistant-positions-at-university-of-utah-dept.-of-biology">Teaching assistant positions at University of Utah, Dept. of Biology:</h3>
-<p><em>Evolution and Diversity of Life</em>, Biology 2010, Drs. Lynn Bohs &amp; Franz Goller. Spring 2012</p>
-<p><em>Biophysical Ecology</em>, Biology 5495, Dr. David Bowling. Fall 2011</p>
-<p><em>Ecosystem Ecology</em>, Biology 5490, Dr. David Bowling. Fall 2010</p>
-<p><em>Evolution and Diversity of Life</em>, Biology 2010, Drs. Lynn Bohs &amp; David Carrier. Spring 2010</p>
-<p><em>Comparative Vertebrate Morphology</em>, Biology 3310, Dr. Colleen Farmer. Fall 2009</p>
-<p><em>Evolution and Diversity of Life</em>, Biology 2010, Drs. John Sperry and David Carrier. Spring 2009</p>
-<p><em>Ecosystem Ecology</em>, Biology 5490, Dr. David Bowling. Fall 2008</p>
-<p><em>Plant Ecology</em>, Biology 5460, Dr. James Ehleringer. Fall 2007</p>
-<h3 id="software-data-carpentry-workshops">Software &amp; Data Carpentry workshops</h3>
-<p><em>STEM Advancement Program Python workshop</em> at New Mexico EPSCoR (online). Instructor. June 2022</p>
-<p><em>Data carpentry for environmental scientists</em> at Jornada Basin LTER and NMSU (online). Organizer and instructor. March 2022</p>
-<p><em>Data Carpentry for Ecology</em> at UNM Sevilleta Field Station. Instructor. June 2021 and 2022</p>
+<p><em>Microbiology Lab</em>, Biology 2310L, School of Math Science and
+Engineering, Central New Mexico Community College. Fall 2020
+(online/asynchronous).</p>
+<p><em>Biology Lab for Health Science Majors</em>, Biology 1140L, School
+of Math, Science and Engineering, Central New Mexico Community College.
+Spring 2020</p>
+<p><em>Microbiology Lab</em>, Biology 2310L, School of Math Science and
+Engineering, Central New Mexico Community College. Spring 2020 (partial
+term).</p>
+<p><em>Microbiology Lab</em>, Biology 2192, School of Math Science and
+Engineering, Central New Mexico Community College. Spring 2019.</p>
+<p><em>Biology Lab for Health Science Majors</em>, Biology 1492, School
+of Math, Science, and Engineering, Central New Mexico Community College.
+Fall 2018 (2 sections).</p>
+<p><em>Plant Identification</em>, Red Butte Garden and Arboretum,
+University of Utah. 2007 &amp; 2008.</p>
+<h3
+id="teaching-assistant-positions-at-university-of-utah-dept.-of-biology">Teaching
+assistant positions at University of Utah, Dept. of Biology:</h3>
+<p><em>Evolution and Diversity of Life</em>, Biology 2010, Drs. Lynn
+Bohs &amp; Franz Goller. Spring 2012</p>
+<p><em>Biophysical Ecology</em>, Biology 5495, Dr. David Bowling. Fall
+2011</p>
+<p><em>Ecosystem Ecology</em>, Biology 5490, Dr. David Bowling. Fall
+2010</p>
+<p><em>Evolution and Diversity of Life</em>, Biology 2010, Drs. Lynn
+Bohs &amp; David Carrier. Spring 2010</p>
+<p><em>Comparative Vertebrate Morphology</em>, Biology 3310, Dr. Colleen
+Farmer. Fall 2009</p>
+<p><em>Evolution and Diversity of Life</em>, Biology 2010, Drs. John
+Sperry and David Carrier. Spring 2009</p>
+<p><em>Ecosystem Ecology</em>, Biology 5490, Dr. David Bowling. Fall
+2008</p>
+<p><em>Plant Ecology</em>, Biology 5460, Dr. James Ehleringer. Fall
+2007</p>
+<h3 id="software-data-carpentry-workshops">Software &amp; Data Carpentry
+workshops</h3>
+<p><em>Working with Ecological Data in R</em> at USDA-ARS Jornada
+Experimental Range Headquarters (in-person). Organizer and instructor.
+June 2023</p>
+<p><em>Working with Geospatial Data in R</em> at Jornada Basin LTER and
+NMSU (online). Organizer and instructor. November 2023</p>
+<p><em>STEM Advancement Program Python workshop</em> at New Mexico
+EPSCoR (online). Instructor. June 2022</p>
+<p><em>Data carpentry for environmental scientists</em> at Jornada Basin
+LTER and NMSU (online). Organizer and instructor. March 2022</p>
+<p><em>Data Carpentry for Ecology</em> at UNM Sevilleta Field Station.
+Instructor. June 2021 and 2022</p>
 <h3 id="students-mentored">Students mentored:</h3>
-<p>2022: Kyle Gallant (Sevilleta REU), Brianda Hernandez-Rosales (EDI Data fellow)</p>
+<p>2023: Niko Valdez (Jornada LTER REU program)</p>
+<p>2022: Kyle Gallant (Sevilleta REU), Brianda Hernandez-Rosales (EDI
+Data fellow)</p>
 <p>2013: Lori Long (Undergraduate student, Univ. of Utah)</p>
 <p>2012: Tasha Heilweil (High school student, Univ. of Utah)</p>
-<p>2011: Richard Malyn, Davis Unruh (high school student, Univ. of Utah)</p>
+<p>2011: Richard Malyn, Davis Unruh (high school student, Univ. of
+Utah)</p>
 <p>2010: Raili Taylor (undergraduate at Univ. of Utah)</p>
 <h2 id="service-to-profession">Service to profession</h2>
-<p>Co-chair, LTER Network Information Management Executive Committee <strong>2021-present</strong> (member since 2020)</p>
-<p>Associate editor for <em>Ecological Informatics</em> <strong>2021-present</strong></p>
-<p>Reviewer for: <em>BioScience</em> (1), <em>Global Change Biology</em> (2), <em>Climatic Change</em> (1), <em>Ecological Applications</em> (1), <em>Oecologia</em> (1), <em>Plant Ecology</em> (2), <em>Trends in Ecology and Evolution</em> (1)</p>
+<p>Co-chair, LTER Network Information Management Executive Committee
+<strong>2021-2023</strong> (member 2020-2023)</p>
+<p>Associate editor for <em>Ecological Informatics</em>
+<strong>2021-present</strong></p>
+<p>Reviewer for: <em>BioScience</em> (1), <em>Global Change Biology</em>
+(2), <em>Climatic Change</em> (1), <em>Ecological Applications</em> (1),
+<em>Oecologia</em> (1), <em>Plant Ecology</em> (2), <em>Trends in
+Ecology and Evolution</em> (1)</p>
 <p>NSF Panelist</p>
-<h2 id="full-academic-and-research-experience">Full academic and research experience</h2>
-<p><em>Data Scientist and LTER Information Manager</em> <strong>May 2019–present</strong><br />
-Jornada Basin Long-term Ecological Research Program, New Mexico State University, Las Cruces, NM</p>
+<h2 id="full-academic-and-research-experience">Full academic and
+research experience</h2>
+<p><em>Data Scientist and LTER Information Manager</em> <strong>May
+2019–present</strong><br />
+Jornada Basin Long-term Ecological Research Program, New Mexico State
+University, Las Cruces, NM</p>
 <ul>
-<li>Manage and publish research data collected by the Jornada Basin LTER program, in collaboration with scientists and data managers in the LTER network. Develop and manage a data science program that will generate new ecological research products, enhance existing investigations, and create analytical applications for scientific outreach.</li>
+<li>Manage and publish research data collected by the Jornada Basin LTER
+program, in collaboration with scientists and data managers in the LTER
+network. Develop and manage a data science program that will generate
+new ecological research products, enhance existing investigations, and
+create analytical applications for scientific outreach.</li>
 </ul>
-<p><em>Part-time Instructor of Biology</em> <strong>August 2018-present</strong><br />
-School of Math, Science, and Engineering, Central New Mexico Community College, Albuquerque, NM</p>
+<p><em>Part-time Instructor of Biology</em> <strong>August
+2018-present</strong><br />
+School of Math, Science, and Engineering, Central New Mexico Community
+College, Albuquerque, NM</p>
 <ul>
-<li>Teach Biology lab classes to first and second year students at a large, open-enrollment community college.</li>
+<li>Teach Biology lab classes to first and second year students at a
+large, open-enrollment community college.</li>
 </ul>
-<p><em>Postdoctoral Scientist</em> <strong>September 2016–May 2019</strong><br />
-Dept. of Environmental Science, Policy, and Management, Univ. of California Berkeley, Berkeley, CA</p>
+<p><em>Postdoctoral Scientist</em> <strong>September 2016–May
+2019</strong><br />
+Dept. of Environmental Science, Policy, and Management, Univ. of
+California Berkeley, Berkeley, CA</p>
 <ul>
-<li>Soil biogeochemistry research combining field measurements and ecosystem process modeling to create regional budgets of CO<sub>2</sub> and other soil trace gas fluxes under climate and land-cover change scenarios in the Mojave desert. Field instrumentation, modeling experiments (using DayCent), data QA and analysis, manuscript preparation.</li>
+<li>Soil biogeochemistry research combining field measurements and
+ecosystem process modeling to create regional budgets of CO<sub>2</sub>
+and other soil trace gas fluxes under climate and land-cover change
+scenarios in the Mojave desert. Field instrumentation, modeling
+experiments (using DayCent), data QA and analysis, manuscript
+preparation.</li>
 </ul>
-<p><em>Independent Contractor:</em> <strong>March 2016–June 2016</strong><br />
+<p><em>Independent Contractor:</em> <strong>March 2016–June
+2016</strong><br />
 U.S.F.S Rocky Mountain Research Station, Albuquerque, NM</p>
 <ul>
-<li>Literature review contributor in the Southwestern Fire-Climate Partnership.</li>
+<li>Literature review contributor in the Southwestern Fire-Climate
+Partnership.</li>
 </ul>
-<p><em>Postdoctoral Scientist:</em> <strong>August 2014–September 2016</strong><br />
+<p><em>Postdoctoral Scientist:</em> <strong>August 2014–September
+2016</strong><br />
 Department of Biology, University of New Mexico, Albuquerque, NM</p>
 <ul>
-<li>Carbon cycle and ecohydrology research in Southwestern U.S. ecosystems using data from the New Mexico Elevation Gradient cluster of 8 AmeriFlux eddy covariance towers. Data analysis, presentations, and manuscript preparation. Data manager and QA/QC lead for this AmeriFlux cluster.</li>
+<li>Carbon cycle and ecohydrology research in Southwestern U.S.
+ecosystems using data from the New Mexico Elevation Gradient cluster of
+8 AmeriFlux eddy covariance towers. Data analysis, presentations, and
+manuscript preparation. Data manager and QA/QC lead for this AmeriFlux
+cluster.</li>
 </ul>
-<p><em>Research Assistant:</em> <strong>July 2012–June 2014</strong><br />
+<p><em>Research Assistant:</em> <strong>July 2012–June
+2014</strong><br />
 Department of Biology, University of Utah, Salt Lake City, UT</p>
 <ul>
-<li>Carbon concentration and stable isotope analysis of soil and soil respiration samples, data analysis, and writing for a DOE funded project on belowground carbon cycling in beetle-impacted sub-alpine forest ecosystems.</li>
+<li>Carbon concentration and stable isotope analysis of soil and soil
+respiration samples, data analysis, and writing for a DOE funded project
+on belowground carbon cycling in beetle-impacted sub-alpine forest
+ecosystems.</li>
 </ul>
-<p><em>Research Assistant:</em> <strong>December 2010–June 2011</strong><br />
+<p><em>Research Assistant:</em> <strong>December 2010–June
+2011</strong><br />
 Department of Biology, University of Utah, Salt Lake City, UT</p>
 <ul>
-<li>Method development, field collection, and laboratory analysis (major ions in snow) for a study of winter atmospheric deposition in the Salt Lake City area. Study occurred in collaboration with the Persistent Cold Air Pool study by the UU Dept. of Atmospheric Sciences (Winter 2010–11).</li>
+<li>Method development, field collection, and laboratory analysis (major
+ions in snow) for a study of winter atmospheric deposition in the Salt
+Lake City area. Study occurred in collaboration with the Persistent Cold
+Air Pool study by the UU Dept. of Atmospheric Sciences (Winter
+2010–11).</li>
 </ul>
-<p><em>Field Botanist:</em> <strong>Summers 2007 &amp; 2008</strong><br />
+<p><em>Field Botanist:</em> <strong>Summers 2007 &amp;
+2008</strong><br />
 Cottonwood Canyons Foundation, Salt Lake City, UT</p>
 <ul>
-<li>Conducted surveys for threatened, endangered, and sensitive plant species in the central Wasatch Mountains. Coordinated efforts with and provided data to the Uinta-Wasatch-Cache National Forest and Utah Native Plant Society. (Summers only)</li>
+<li>Conducted surveys for threatened, endangered, and sensitive plant
+species in the central Wasatch Mountains. Coordinated efforts with and
+provided data to the Uinta-Wasatch-Cache National Forest and Utah Native
+Plant Society. (Summers only)</li>
 </ul>
-<p><em>Field Botanist:</em> <strong>Summers 2006 &amp; 2007</strong><br />
+<p><em>Field Botanist:</em> <strong>Summers 2006 &amp;
+2007</strong><br />
 Red Butte Garden and Arboretum, Salt Lake City, UT</p>
 <ul>
-<li>Lead collector for Red Butte Garden’s team in the Seeds of Success project (BLM/Millenium Seed Bank). Researched native plant species, located populations, then made large seed collections utilizing volunteer assistance. Coordinated efforts with regional botanists and land managers.</li>
+<li>Lead collector for Red Butte Garden’s team in the Seeds of Success
+project (BLM/Millenium Seed Bank). Researched native plant species,
+located populations, then made large seed collections utilizing
+volunteer assistance. Coordinated efforts with regional botanists and
+land managers.</li>
 </ul>
 <p><em>GIS Analyst:</em> <strong>October 2006–May 2007</strong><br />
-DIGIT Lab, Department of Geography, University of Utah, Salt Lake City, UT</p>
+DIGIT Lab, Department of Geography, University of Utah, Salt Lake City,
+UT</p>
 <ul>
-<li>Conducted spatial data analysis, GIS application development, and provided technical support for University of Utah Geography Dept. projects and other public or private sector clients. Maintained the University of Utah Spatial Database.</li>
+<li>Conducted spatial data analysis, GIS application development, and
+provided technical support for University of Utah Geography Dept.
+projects and other public or private sector clients. Maintained the
+University of Utah Spatial Database.</li>
 </ul>
-<p><em>Port Sampler:</em> <strong>June 2004–September 2004</strong><br />
-Marine Resources Program, Oregon Department of Fish and Wildlife, Salem, OR</p>
+<p><em>Port Sampler:</em> <strong>June 2004–September
+2004</strong><br />
+Marine Resources Program, Oregon Department of Fish and Wildlife, Salem,
+OR</p>
 <ul>
-<li>Ocean Recreational Boat Survey. Conducted boat counts and interviews with returning fishermen to determine fishing effort, target locations and species, catch and release rates. Inspected catches, collecting hatchery tags and biological data/samples from species of interest. Made weekly reports to Newport office.</li>
+<li>Ocean Recreational Boat Survey. Conducted boat counts and interviews
+with returning fishermen to determine fishing effort, target locations
+and species, catch and release rates. Inspected catches, collecting
+hatchery tags and biological data/samples from species of interest. Made
+weekly reports to Newport office.</li>
 </ul>
 <h2 id="internships">Internships</h2>
-<p><em>The Nature Conservancy</em>, Conservation GIS intern, Salt Lake City, UT, 2006</p>
-<p><em>Alaska Bird Observatory</em>, Nesting field study intern, Fairbanks, AK, 2001</p>
+<p><em>The Nature Conservancy</em>, Conservation GIS intern, Salt Lake
+City, UT, 2006</p>
+<p><em>Alaska Bird Observatory</em>, Nesting field study intern,
+Fairbanks, AK, 2001</p>
 <h2 id="volunteer">Volunteer</h2>
 <p><em>Wasatch Community Gardens</em>, Salt Lake City, UT, 2010–2014</p>
-<p><em>Lowell-Bennion Community Service Center</em> (Univ. of Utah), 2006–2007</p>
-<p><em>Red Butte Garden and Arboretum</em>, Salt Lake City, UT, 2005–2007</p>
+<p><em>Lowell-Bennion Community Service Center</em> (Univ. of Utah),
+2006–2007</p>
+<p><em>Red Butte Garden and Arboretum</em>, Salt Lake City, UT,
+2005–2007</p>
 <p><em>Swaner Nature Preserve</em>, Kimball Junction, UT, 2005</p>
-<p><em>Columbia River Estuary Study Taskforce</em>, Astoria, OR, 2004</p>
+<p><em>Columbia River Estuary Study Taskforce</em>, Astoria, OR,
+2004</p>
 <h2 id="computing-skills">Computing skills</h2>
 <p>(<strong>Bold</strong> indicates proficiency)</p>
-<p><em>Applications</em>: <strong>MS Office</strong>, <strong>ArcGIS</strong>, , Qgis, PostgreSQL,</p>
-<p><em>Programming</em>: <strong>Python</strong>, <strong>R</strong>, <strong>MATLAB</strong>, JavaScript</p>
-<p><em>Web</em>: <strong>HTML &amp; CSS</strong>, <strong>GitHub</strong>, WordPress, website administration</p>
-<p><em>Operating systems</em>: <strong>Unix/Linux</strong>, <strong>Windows</strong>, <strong>Mac OSX</strong></p>
-<p><em>Other</em>: <strong>git</strong>, <strong>mercurial</strong>, <strong>literate programming</strong> (jupyter notebooks, RMarkdown), basic sysadmin skills, basic server/cloud provisioning with ansible</p>
-<h2 id="technical-field-and-laboratory-skills">Technical, field, and laboratory skills</h2>
-<p>Plant/soil/ecosystem CO<sub>2</sub> &amp; H<sub>2</sub>0 exchange measurements (Li-Cor 6200, 6400, 7000, 7200, 7500)</p>
+<p><em>Applications</em>: <strong>MS Office</strong>,
+<strong>QGIS</strong>, <strong>ArcGIS</strong>, , PostgreSQL,</p>
+<p><em>Programming</em>: <strong>Python</strong>, <strong>R</strong>,
+<strong>MATLAB</strong>, JavaScript</p>
+<p><em>Web</em>: <strong>HTML &amp; CSS</strong>, WordPress, website
+administration</p>
+<p><em>Operating systems</em>: <strong>Unix/Linux</strong>,
+<strong>Windows</strong>, <strong>Mac OSX</strong></p>
+<p><em>Other</em>: <strong>git/GitHub</strong>, <strong>literate
+programming</strong> (jupyter notebooks, RMarkdown), basic sysadmin
+skills, basic server/cloud provisioning with ansible</p>
+<h2 id="technical-field-and-laboratory-skills">Technical, field, and
+laboratory skills</h2>
+<p>Plant/soil/ecosystem CO<sub>2</sub> &amp; H<sub>2</sub>0 exchange
+measurements (Li-Cor 6200, 6400, 7000, 7200, 7500)</p>
 <p>Eddy covariance instrumentation and data QA/QC</p>
-<p>Soil hydrological and ecosystem process modeling with HYDRUS and DayCent</p>
-<p>Analysis of gridded climate and carbon cycle modeling products (PRISM, MsTMIP)</p>
-<p>Stable isotope and nutrient analysis of plants, soils, waters, and gases</p>
-<p>CO<sub>2</sub> to graphite reduction for AMS analysis of <sup>14</sup>C</p>
+<p>Soil hydrological and ecosystem process modeling with HYDRUS and
+DayCent</p>
+<p>Analysis of gridded climate and carbon cycle modeling products
+(PRISM, MsTMIP)</p>
+<p>Stable isotope and nutrient analysis of plants, soils, waters, and
+gases</p>
+<p>CO<sub>2</sub> to graphite reduction for AMS analysis of
+<sup>14</sup>C</p>
 <p>Major ion analysis of water/snow samples</p>
-<p>Datalogger and environmental sensor network design/maintenance (Esp. with Campbell dataloggers)</p>
+<p>Datalogger and environmental sensor network design/maintenance (Esp.
+with Campbell dataloggers)</p>
 <p>Weather station setup, maintenance, and quality assurance</p>
-<p>Wireless radio and internet networks (Sierra Wireless modems, MaxStream and Digi Xbee radios)</p>
+<p>Wireless radio and internet networks (Sierra Wireless modems,
+MaxStream and Digi Xbee radios)</p>
 <p>Plant identification in western North America</p>
 <p>Avalanche safety (Level 1)</p>
 <h2 id="professional-affiliations">Professional affiliations</h2>
