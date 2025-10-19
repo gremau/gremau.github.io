@@ -4,13 +4,10 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <meta name="author" content="18 October 2023" />
+  <meta name="author" content="13 June 2025" />
   <title>Gregory E. Maurer</title>
   <style>
     html {
-      line-height: 1.5;
-      font-family: Georgia, serif;
-      font-size: 20px;
       color: #1a1a1a;
       background-color: #fdfdfd;
     }
@@ -29,13 +26,16 @@
     @media (max-width: 600px) {
       body {
         font-size: 0.9em;
-        padding: 1em;
+        padding: 12px;
       }
       h1 {
         font-size: 1.8em;
       }
     }
     @media print {
+      html {
+        background-color: white;
+      }
       body {
         background-color: transparent;
         color: black;
@@ -59,6 +59,10 @@
       color: #1a1a1a;
     }
     img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
       max-width: 100%;
     }
     h1, h2, h3, h4, h5, h6 {
@@ -85,9 +89,10 @@
       color: #606060;
     }
     code {
-      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
       font-size: 85%;
       margin: 0;
+      hyphens: manual;
     }
     pre {
       margin: 1em 0;
@@ -149,17 +154,25 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
 </head>
 <body>
 <header id="title-block-header">
 <h1 class="title">Gregory E. Maurer</h1>
-<p class="author">18 October 2023</p>
+<p class="author">13 June 2025</p>
 </header>
 <p>Jornada Basin
 LTER                                                                      Tel:
@@ -323,7 +336,11 @@ Design for Special Cases ver 1. <em>Environmental Data Initiative</em>.
 class="uri">https://doi.org/10.6073/pasta/9d4c803578c3fbcb45fc23f13124d052</a></p>
 <h2 id="juried-conference-abstracts">Juried conference abstracts</h2>
 <p></p>
-<p>Gries, C., S, Beaulieu, R. Brown, G. Gastil-Buhl, S. Elmendorf, H.
+<p>Specht, A., Bastin, G., Carter, J., Cowley, R., Diete, R., Facelli,
+J., Maurer, G., O’Reagain, P., Thornton, C. 2025. The value proposition
+for systematic long-term vegetation studies. <em>XII International
+Rangeland Congress</em></p>
+<p>Gries, C., S. Beaulieu, R. Brown, G. Gastil-Buhl, S. Elmendorf, H.
 Hsieh, L. Kui, G. Maurer, and J. Porter. 2020. Change in Pictures:
 Creating best practices in archiving ecological imagery for reuse.
 <em>Biodiversity Information Science and Standards 4</em></p>
@@ -373,10 +390,20 @@ Sevilleta LTER core and control sites in desert grassland and shrubland
 ecosystems, 1999 - 2017. <em>Environmental Data Initiative</em>. <a
 href="https://doi.org/10.6073/pasta/451fe8e98c663c728be3f85d3149e109"
 class="uri">https://doi.org/10.6073/pasta/451fe8e98c663c728be3f85d3149e109</a></p>
-<h2 id="grants-and-fellowships">Grants and fellowships</h2>
+<h2 id="funded-grants-and-fellowships">Funded grants and
+fellowships</h2>
+<h3 id="pi-or-co-pi">PI or Co-PI</h3>
+<p>NSF (DBI 2223103 subaward). “Collaborative Research: The
+Environmental Data Initiative - long-term availability of research
+data,” $190,378.00 subaward. PI. September 2023-February 2026.</p>
 <p>NSF (DEB 2326482). “LTREB: Long-term ecosystem responses to
 directional changes in precipitation amount and variability in an arid
 grassland,” $670,000.00. Co-PI. September 2023-August 2028.</p>
+<h3 id="senior-personnel">Senior Personnel</h3>
+<p>NSF (DEB 2425143). “LTER: Advancing ecological understanding of
+drylands through integrated research at the Jornada Basin (JRN-8),”
+$7,649,997.00. March 2025-February 2031.</p>
+<h3 id="other">Other</h3>
 <p>UU Graduate School and Dept. of Biology travel funding (AGU Fall
 meeting), 2012</p>
 <p>ASUU and Dept. of Biology travel funding (AGU Fall Meeting), 2011</p>
@@ -384,8 +411,17 @@ meeting), 2012</p>
 <p>NSF Research Experience for Undergraduates (publication above),
 1999</p>
 <h2 id="conference-activity">Conference activity</h2>
-<h3 id="presentations-and-posters">Presentations and posters</h3>
+<h3
+id="presentations-posters-first-author-or-presenter-only">Presentations
+&amp; posters (first author or presenter only)</h3>
 <p></p>
+<p>AGU Fall Meeting 2024 – Ecosystem Sensitivity to Precipitation
+Variability Along Intermediate Spatial Gradients in Vegetation and Soil
+Type (Poster)</p>
+<p>iDigBio 2024 Digital Data Conference – Sustaining the future of
+science with open data at EDI (Talk)</p>
+<p>AGU Fall Meeting 2023 – Supporting open science across the repository
+landscape (Talk and townhall discussion)</p>
 <p>ESA Annual Meeting 2020 – Systematic variations in the contribution
 of rainfall-driven soil respiration pulses to soil carbon cycling in
 North American deserts (Poster)</p>
@@ -419,8 +455,21 @@ ecosystems. (Talk)</p>
 temperature moderation by mountain snowpacks. (Poster)</p>
 <p>AGU Fall Meeting 2010 – Influence of dust deposition on snowpack melt
 rate and ecohydrological processes in a subalpine forest. (Talk)</p>
-<h3 id="sessions-organized">Sessions organized</h3>
+<h3 id="sessions-workshops-organized">Sessions &amp; workshops
+organized</h3>
 <p></p>
+<p>Ecological data synthesis: a primer on essential methods and team
+science (6-hour short course). Ecological Society of America Annual
+Meeting 2025. <a href="https://lter.github.io/eco-data-synth-primer/"
+class="uri">https://lter.github.io/eco-data-synth-primer/</a></p>
+<p>Leveraging partnerships across data providers to facilitate synthesis
+of biodiversity data. Living Data 2025. <a
+href="https://www.livingdata2025.com/sessions.html?session=6799373"
+class="uri">https://www.livingdata2025.com/sessions.html?session=6799373</a></p>
+<p>Ecological data synthesis: a primer on essential methods (3-hour
+short course). Ecological Society of America Annual Meeting 2024. <a
+href="https://events.rdmobile.com/Sessions/Details/2318667"
+class="uri">https://events.rdmobile.com/Sessions/Details/2318667</a></p>
 <p>Linking traits, genomes, specimens, and images to LTER data. LTER
 Network All-Scientists Meeting 2022. Co-organized with Corinna Gries. <a
 href="https://sched.co/1357I" class="uri">https://sched.co/1357I</a></p>
@@ -467,6 +516,8 @@ Sperry and David Carrier. Spring 2009</p>
 2007</p>
 <h3 id="software-data-carpentry-workshops">Software &amp; Data Carpentry
 workshops</h3>
+<p><em>Working with Geospatial Data in R</em> at Jornada Basin LTER and
+NMSU (in-person). Organizer and instructor. June 2024</p>
 <p><em>Working with Ecological Data in R</em> at USDA-ARS Jornada
 Experimental Range Headquarters (in-person). Organizer and instructor.
 June 2023</p>
@@ -488,6 +539,8 @@ Data fellow)</p>
 Utah)</p>
 <p>2010: Raili Taylor (undergraduate at Univ. of Utah)</p>
 <h2 id="service-to-profession">Service to profession</h2>
+<p>Editorial Board member for <em>BioScience</em>
+<strong>2024-present</strong></p>
 <p>Co-chair, LTER Network Information Management Executive Committee
 <strong>2021-2023</strong> (member 2020-2023)</p>
 <p>Associate editor for <em>Ecological Informatics</em>

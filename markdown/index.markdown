@@ -1,7 +1,7 @@
 ---
 title: Home \[pronghorns.net\]
 author: Greg Maurer
-date: 10 April, 2018
+date: 10 October, 2025
 ---
 
 pronghorns.net
@@ -9,7 +9,7 @@ pronghorns.net
 
 <div id="banner"></div>
 
-[Notebook](https://earthscinotebook.readthedocs.io/en/latest/)\ \ \ \ \ \ 
+[Notebook](https://greg.pronghorns.net/research-notebook)\ \ \ \ \ \ 
 [Data](https://greg.pronghorns.net/data.html)\ \ \ \ \ \ 
 [Publications](https://greg.pronghorns.net/publications.html)\ \ \ \ \ \ 
 [Home](https://greg.pronghorns.net/index.html)
@@ -51,4 +51,4 @@ These are works in progress, but I welcome contributions and aim to make them us
 
 \ 
 
-*All content [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/) by Greg Maurer. This page last updated 16 Feb, 2021.*
+*All content [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/) by Greg Maurer. This page last updated 19 Oct, 2025.*
