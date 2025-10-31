@@ -1,6 +1,6 @@
 ---
 title: Gregory E. Maurer
-author: 13 June 2025
+author: 30 October 2025
 geometry: margin=1in
 ---
 
@@ -12,7 +12,7 @@ USA
  
 ## Research and professional interests
 
-I am a broadly trained ecologist with well-developed quantitative and informatics skills. My research interests are in terrestrial biogeochemistry and ecohydrology, particularly the effects of climate, global change, and disturbance on vegetation and soil systems. As a data analyst and data manager I'm competent using a wide variety of methods and technologies to create, communicate, and publish impactful research products with an open-science philosophy. My professional goals are to understand and raise awareness of the changing earth and its ecosystems, and to inform critical resource management and conservation efforts.
+I am a broadly-trained ecologist and environmental data scientist aiming to understand Earth's changing ecosystems, and to inform critical resource management and conservation efforts. My primary research interests are in the biogeochemistry and ecohydrology of drylands, particularly the effects of climate, global change, and disturbance on vegetation and soil systems. I wear many professional hats, including data analyst, data manager, co-PI, programmer, instructor, and working-group leader. I enjoy collaborating with diverse teams, am technologically savvy, and approach my work with an open-science philosophy.
 
 ## Academic positions
 
@@ -124,11 +124,11 @@ Gries, C., R. Brown, M. Gastil-Buhl, S. Elmendorf, H. Garritt, M. Martin, G. Mau
 \setlength{\leftskip}{0.25in}
 \noindent
 
+Sala, O.E., G.E. Maurer. Unexpected indirect effects of field simulated drought offset direct climate-change impacts. (submitted)
+ 
+Maurer, G.E., S. Elmendorf, N. Lyon, M. Downs, J. LaMontagne, E. Sokol, S. Earl, L. Dee, K. Barry, A. Chen, F. Isbell,  J. Carey. Ten simple rules for team synthesis in ecological synthesis research. (in prep)
+
 Maurer, G.E., J.V. Mills, E.J. Oerter, R.G. Amundson, L.N. Lammers. Measured and modeled soil carbon cycling in the Mojave desert: toward projected regional greenhouse gas budgets. (in prep)
-
-Maurer, G.E., J.V. Mills, R.G. Amundson, L.N. Lammers. Contrasting climate responses of ecosystem carbon uptake and efflux along seasonal and topographic gradients in the Mojave Desert (in prep)
-
-Maurer, G.E. and D.R. Bowling. Forest soil carbon stocks and isotopic composition along mountain climate gradients of the interior western United States. (in prep for _Ecosystems_)
 
 \setlength{\parindent}{0in}
 \setlength{\leftskip}{0in}
