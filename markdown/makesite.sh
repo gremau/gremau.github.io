@@ -5,14 +5,12 @@
 
 # Ftp info
 
-# Make a copy of the master cv file and pandoc to html and pdf.
+# Use cv.markdown file and pandoc to create html and pdf versions.
 # Put html copy in toplevel dir, pdf in publicfiles/
 # Then remove the markdown
-cp /home/greg/data/jobs/cv_master.markdown ./cv_gmaurer.markdown
 echo "updating cv"
-pandoc cv_gmaurer.markdown -s -o ../cv_gmaurer.html
-pandoc cv_gmaurer.markdown -o ../publicfiles/cv_gmaurer.pdf 
-rm cv_gmaurer.markdown
+pandoc cv.markdown -s -o ../cv_gmaurer.html
+pandoc cv.markdown -o ../publicfiles/cv_gmaurer.pdf 
 
 # Loop through each markdown file and make the html
 for i in *.markdown
