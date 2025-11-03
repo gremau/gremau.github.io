@@ -18,11 +18,11 @@ pronghorns.net
 
 This site is owned and operated by Greg Maurer, an ecologist and environmental data scientist based at New Mexico State University. I also teach biology courses and workshops around New Mexico. The information and opinions expressed here are subject to my uncertainty, errors, and distortions. 
 
-See my __CV__ ([web](https://greg.pronghorns.net/cv_gmaurer.html), [pdf](https://greg.pronghorns.net/publicfiles/cv_gmaurer.pdf)) for complete experience and credentials. Email me at <greg@pronghorns.net>.
+See my __CV__ ([web](https://greg.pronghorns.net/cv_gmaurer.html), [pdf](https://greg.pronghorns.net/publicfiles/cv_gmaurer.pdf)) or [__Resume__](https://greg.pronghorns.net/resume.html) for complete experience and credentials. Email me at <greg@pronghorns.net>.
 
 ## Current and past projects
 
-- I help scientists make better use of environmental data at [Environmental Data Initiative](https://edirepository.org)
+- Helping scientists publish and make use of environmental data at [Environmental Data Initiative](https://edirepository.org)
 - Ecology, data science, and informatics at the [Jornada Basin LTER](https://lter.jornada.nmsu.edu) program
 - Studying soil carbon cycling and impacts of solar power development in the Mojave Desert with UC Berkeley colleagues
 - Ecohydrology research at the [New Mexico Elevation Gradient](http://www.litvaklab.org/new-mexico-elevation-gradient.html) cluster of [AmeriFlux](https://ameriflux.lbl.gov/) sites
