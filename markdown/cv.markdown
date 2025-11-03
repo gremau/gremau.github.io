@@ -323,7 +323,7 @@ Department of Biology, University of Utah, Salt Lake City, UT
 _Course Instructor (Plant Identification):_ __May–July 2007 & 2008__    
 Lifelong Learning, University of Utah, Salt Lake City, UT
 
-_For a full listing, plus internship, volunteer, field, and technical experience please see https://greg.pronghorns.net/resume.html.
+*For a full listing, plus internship, volunteer, field, and technical experience please see <https://greg.pronghorns.net/resume.html>*.
 
 
 ## Professional affiliations
