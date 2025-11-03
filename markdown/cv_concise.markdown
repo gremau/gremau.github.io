@@ -1,17 +1,17 @@
 ---
 #title: Gregory E. Maurer
 geometry: margin=1in
-maxwidth: 60%
+maxwidth: 55%
 ---
 # Gregory E. Maurer
 
-+:-------------------------------+--------------------+---------------------------------------:+
-| Jornada Basin LTER Program  \  | \ \ \ \ \ \ \ \ \  | tel: 801 716-0293 (mobile)          \  |
-| P.O. Box 30003, MSC 3JER    \  | \ \ \ \ \ \ \ \ \  | email: <gregmaurer@gmail.com>       \  |
-| New Mexico State University \  | \ \ \ \ \ \ \ \ \  | web: <http://greg.pronghorns.net>   \  |
-| Las Cruces, NM, 88003-8003  \  | \ \ \ \ \ \ \ \ \  |                                     \  |
-| USA                            | \ \ \ \ \ \ \ \ \  | _updated 30 October 2025_              |
-+--------------------------------+--------------------+----------------------------------------+
++:-------------------------------+------------------------+--------------------------------------:+
+| Jornada Basin LTER Program  \  | \ \ \ \ \ \ \ \ \ \ \  | 801 716-0293 (mobile)          \      |
+| P.O. Box 30003, MSC 3JER    \  | \ \ \ \ \ \ \ \ \ \ \  | <gregmaurer@gmail.com>         \      |
+| New Mexico State University \  | \ \ \ \ \ \ \ \ \ \ \  | <http://greg.pronghorns.net>   \      |
+| Las Cruces, NM, 88003-8003  \  | \ \ \ \ \ \ \ \ \ \ \  |                                \      |
+| USA                            | \ \ \ \ \ \ \ \ \ \ \  | _updated 30 October 2025_             |
++--------------------------------+------------------------+---------------------------------------+
  
 ## Research interests
 

@@ -1,17 +1,17 @@
 ---
 #title: Gregory E. Maurer
 geometry: margin=1in
-maxwidth: 60%
+maxwidth: 55%
 ---
 # Gregory E. Maurer
 
-+:-------------------------------+--------------------+---------------------------------------:+
-| Jornada Basin LTER Program  \  | \ \ \ \ \ \ \ \ \  | tel: 801 716-0293 (mobile)          \  |
-| P.O. Box 30003, MSC 3JER    \  | \ \ \ \ \ \ \ \ \  | email: <gregmaurer@gmail.com>       \  |
-| New Mexico State University \  | \ \ \ \ \ \ \ \ \  | web: <http://greg.pronghorns.net>   \  |
-| Las Cruces, NM, 88003-8003  \  | \ \ \ \ \ \ \ \ \  |                                     \  |
-| USA                            | \ \ \ \ \ \ \ \ \  | _updated 30 October 2025_              |
-+--------------------------------+--------------------+----------------------------------------+
++:-------------------------------+------------------------+--------------------------------------:+
+| Jornada Basin LTER Program  \  | \ \ \ \ \ \ \ \ \ \ \  | 801 716-0293 (mobile)          \      |
+| P.O. Box 30003, MSC 3JER    \  | \ \ \ \ \ \ \ \ \ \ \  | <gregmaurer@gmail.com>         \      |
+| New Mexico State University \  | \ \ \ \ \ \ \ \ \ \ \  | <http://greg.pronghorns.net>   \      |
+| Las Cruces, NM, 88003-8003  \  | \ \ \ \ \ \ \ \ \ \ \  |                                \      |
+| USA                            | \ \ \ \ \ \ \ \ \ \ \  | _updated 30 October 2025_             |
++--------------------------------+------------------------+---------------------------------------+
 
 ## Research and professional interests
 
@@ -323,7 +323,7 @@ Department of Biology, University of Utah, Salt Lake City, UT
 _Course Instructor (Plant Identification):_ __May–July 2007 & 2008__    
 Lifelong Learning, University of Utah, Salt Lake City, UT
 
-*For a full listing, plus internship, volunteer, field, and technical experience please see <https://greg.pronghorns.net/resume.html>*.
+*Full listing, plus internship, volunteer, field, and technical experience at <https://greg.pronghorns.net/resume.html>*.
 
 
 ## Professional affiliations
