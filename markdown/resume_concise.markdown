@@ -1,12 +1,17 @@
 ---
+#title: Gregory E. Maurer
 geometry: margin=1in
+maxwidth: 60%
 ---
+# Gregory E. Maurer
 
-**Gregory E. Maurer**  
-Dept. of Environmental Science, Policy and Management\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Tel:  801 716-0293 (mobile)  
-University of California, Berkeley\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Email:  <gregmaurer@gmail.com>  
-130 Mulford Hall #3114\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Web:  http://greg.pronghorns.net    
-Berkeley, CA, 94720-3114
++:-------------------------------+--------------------+---------------------------------------:+
+| Jornada Basin LTER Program  \  | \ \ \ \ \ \ \ \ \  | tel: 801 716-0293 (mobile)          \  |
+| P.O. Box 30003, MSC 3JER    \  | \ \ \ \ \ \ \ \ \  | email: <gregmaurer@gmail.com>       \  |
+| New Mexico State University \  | \ \ \ \ \ \ \ \ \  | web: <http://greg.pronghorns.net>   \  |
+| Las Cruces, NM, 88003-8003  \  | \ \ \ \ \ \ \ \ \  |                                     \  |
+| USA                            | \ \ \ \ \ \ \ \ \  | _updated 30 October 2025_              |
++--------------------------------+--------------------+----------------------------------------+
 
 ## Professional, research, and teaching positions
 

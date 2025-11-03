@@ -22,7 +22,7 @@ See my __CV__ ([web](https://greg.pronghorns.net/cv_gmaurer.html), [pdf](https:/
 
 ## Current and past projects
 
-- I'm joining [Environmental Data Initiative](https://edirepository.org) in Fall 2023
+- I help scientists make better use of environmental data at [Environmental Data Initiative](https://edirepository.org)
 - Ecology, data science, and informatics at the [Jornada Basin LTER](https://lter.jornada.nmsu.edu) program
 - Studying soil carbon cycling and impacts of solar power development in the Mojave Desert with UC Berkeley colleagues
 - Ecohydrology research at the [New Mexico Elevation Gradient](http://www.litvaklab.org/new-mexico-elevation-gradient.html) cluster of [AmeriFlux](https://ameriflux.lbl.gov/) sites

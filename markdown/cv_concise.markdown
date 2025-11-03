@@ -1,14 +1,17 @@
 ---
-title: Gregory E. Maurer
-author: 05 June 2020
+#title: Gregory E. Maurer
 geometry: margin=1in
+maxwidth: 60%
 ---
+# Gregory E. Maurer
 
-Jornada Basin LTER\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Tel:  801 716-0293 (mobile)  
-P.O. Box 30003, MSC 3JER\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Email:  <gregmaurer@gmail.com>  
-New Mexico State University\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Web:  http://greg.pronghorns.net    
-Las Cruces, NM, 88003-8003  
-USA  
++:-------------------------------+--------------------+---------------------------------------:+
+| Jornada Basin LTER Program  \  | \ \ \ \ \ \ \ \ \  | tel: 801 716-0293 (mobile)          \  |
+| P.O. Box 30003, MSC 3JER    \  | \ \ \ \ \ \ \ \ \  | email: <gregmaurer@gmail.com>       \  |
+| New Mexico State University \  | \ \ \ \ \ \ \ \ \  | web: <http://greg.pronghorns.net>   \  |
+| Las Cruces, NM, 88003-8003  \  | \ \ \ \ \ \ \ \ \  |                                     \  |
+| USA                            | \ \ \ \ \ \ \ \ \  | _updated 30 October 2025_              |
++--------------------------------+--------------------+----------------------------------------+
  
 ## Research interests
 

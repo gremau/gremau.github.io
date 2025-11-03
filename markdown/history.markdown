@@ -20,6 +20,7 @@ A changelog for the site.
 
 ## Site updates
 
+-   *10/19/2025: Research notebook reformatted to MkDocs-material
 -   *11/07/2023: File and markdown updates*
 -   *06/18/2022: File and markdown updates*
 -   *02/17/2021: Update licensing to CC-BY 4.0*

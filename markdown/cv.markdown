@@ -1,15 +1,18 @@
 ---
-title: Gregory E. Maurer
-author: 30 October 2025
+#title: Gregory E. Maurer
 geometry: margin=1in
+maxwidth: 60%
 ---
+# Gregory E. Maurer
 
-Jornada Basin LTER\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Tel:  801 716-0293 (mobile)  
-P.O. Box 30003, MSC 3JER\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Email:  <gregmaurer@gmail.com>  
-New Mexico State University\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Web:  <http://greg.pronghorns.net>    
-Las Cruces, NM, 88003-8003  
-USA  
- 
++:-------------------------------+--------------------+---------------------------------------:+
+| Jornada Basin LTER Program  \  | \ \ \ \ \ \ \ \ \  | tel: 801 716-0293 (mobile)          \  |
+| P.O. Box 30003, MSC 3JER    \  | \ \ \ \ \ \ \ \ \  | email: <gregmaurer@gmail.com>       \  |
+| New Mexico State University \  | \ \ \ \ \ \ \ \ \  | web: <http://greg.pronghorns.net>   \  |
+| Las Cruces, NM, 88003-8003  \  | \ \ \ \ \ \ \ \ \  |                                     \  |
+| USA                            | \ \ \ \ \ \ \ \ \  | _updated 30 October 2025_              |
++--------------------------------+--------------------+----------------------------------------+
+
 ## Research and professional interests
 
 I am a broadly-trained ecologist and environmental data scientist aiming to understand Earth's changing ecosystems, and to inform critical resource management and conservation efforts. My primary research interests are in the biogeochemistry and ecohydrology of drylands, particularly the effects of climate, global change, and disturbance on vegetation and soil systems. I wear many professional hats, including data analyst, data manager, co-PI, programmer, instructor, and working-group leader. I enjoy collaborating with diverse teams, am technologically savvy, and approach my work with an open-science philosophy.
@@ -19,14 +22,18 @@ I am a broadly-trained ecologist and environmental data scientist aiming to unde
 _Data Scientist and LTER Information Manager_ __May 2019–present__   
 Jornada Basin Long-term Ecological Research Program, New Mexico State University, Las Cruces, NM
 
-_Adjunct Faculty_ __March 2023-present__
+_Adjunct Faculty_ __March 2023-present__   
 School of Life Sciences, Arizona State University, Tempe, AZ
+
+_Instructor of Biology (Part-time):_ __August 2018-December 2020__   
+School of Math, Science, and Engineering, Central New Mexico Community College, Albuquerque, NM
 
 _Postdoctoral Scientist:_ __September 2016–May 2019__   
 Dept. of Environmental Science, Policy, and Management, University of California, Berkeley, CA
 
 _Postdoctoral Scientist:_ __August 2014–September 2016__   
 Department of Biology, University of New Mexico, Albuquerque, NM
+
 
 ## Education
 
@@ -54,7 +61,7 @@ _Advanced Statistical Modeling for Biologists_, University of Utah, 2012
 
 ## Peer-reviewed publications
 
-(see also <http://greg.pronghorns.net/publications.html>)
+*See also <http://greg.pronghorns.net/publications.html>*
 
 \setlength\parindent{-0.25in}
 \setlength\leftskip{0.25in}
@@ -152,6 +159,17 @@ Rudgers J., Y. Chung, G. Maurer, D. Moore, E. Muldavin, M. Litvak, S. Collins. 2
 \setlength{\parindent}{0in}
 \setlength{\leftskip}{0in}
 
+## Dissertation
+
+\setlength{\parindent}{-0.25in}
+\setlength{\leftskip}{0.25in}
+\noindent
+
+Maurer, G.E. 2014. Ecosystem responses to seasonal snowpack variation in the western United States. The University of Utah ([link](https://collections.lib.utah.edu/dl_files/d5/9b/d59b360c25d6fe4399d2449e68c4733b5b892395.pdf))
+
+\setlength{\parindent}{0in}
+\setlength{\leftskip}{0in}
+
 ## Funded grants and fellowships
 
 ### PI or Co-PI
@@ -224,8 +242,6 @@ AGU Fall Meeting 2010 – Influence of dust deposition on snowpack melt rate and
 
 Ecological data synthesis: a primer on essential methods and team science (6-hour short course). Ecological Society of America Annual Meeting 2025. <https://lter.github.io/eco-data-synth-primer/>
 
-Leveraging partnerships across data providers to facilitate synthesis of biodiversity data. Living Data 2025. <https://www.livingdata2025.com/sessions.html?session=6799373>
-
 Ecological data synthesis: a primer on essential methods (3-hour short course). Ecological Society of America Annual Meeting 2024. <https://events.rdmobile.com/Sessions/Details/2318667>
 
 Linking traits, genomes, specimens, and images to LTER data. LTER Network All-Scientists Meeting 2022. Co-organized with Corinna Gries. <https://sched.co/1357I>
@@ -251,26 +267,9 @@ _Biology Lab for Health Science Majors_, Biology 1492, School of Math, Science, 
 
 _Plant Identification_, Red Butte Garden and Arboretum, University of Utah. 2007 & 2008.
 
-
-### Teaching assistant positions at University of Utah, Dept. of Biology:
-
-_Evolution and Diversity of Life_, Biology 2010, Drs. Lynn Bohs & Franz Goller. Spring 2012
-
-_Biophysical Ecology_, Biology 5495, Dr. David Bowling. Fall 2011
-
-_Ecosystem Ecology_, Biology 5490, Dr. David Bowling. Fall 2010
-
-_Evolution and Diversity of Life_, Biology 2010, Drs. Lynn Bohs & David Carrier. Spring 2010
-
-_Comparative Vertebrate Morphology_, Biology 3310, Dr. Colleen Farmer. Fall 2009
-
-_Evolution and Diversity of Life_, Biology 2010, Drs. John Sperry and David Carrier. Spring 2009
-
-_Ecosystem Ecology_, Biology 5490, Dr. David Bowling. Fall 2008
-
-_Plant Ecology_, Biology 5460, Dr. James Ehleringer. Fall 2007
-
 ### Software & Data Carpentry workshops
+
+_Reproducible Data Analysis with Git, GitHub, and ggplot2_ at Jornada Basin LTER and NMSU (in-person). Organizer and instructor. August 2025
 
 _Working with Geospatial Data in R_ at Jornada Basin LTER and NMSU (in-person). Organizer and instructor. June 2024
 
@@ -304,129 +303,28 @@ Editorial Board member for _BioScience_ __2024-present__
 
 Co-chair, LTER Network Information Management Executive Committee __2021-2023__ (member 2020-2023)
 
-Associate editor for _Ecological Informatics_ __2021-present__
+Associate editor for _Ecological Informatics_ __2021-2023__
 
-Reviewer for: _BioScience_ (1), _Global Change Biology_ (2), _Climatic Change_ (1), _Ecological Applications_ (1), _Oecologia_ (1), _Plant Ecology_ (2), _Trends in Ecology and Evolution_ (1)
+Reviewer for: _BioScience_ (2), _Global Change Biology_ (2), _Climatic Change_ (1), _Ecological Applications_ (1), _Oecologia_ (1), _Plant Ecology_ (2), _Trends in Ecology and Evolution_ (1)
 
 NSF Panelist
 
-## Full academic and research experience
-
-_Data Scientist and LTER Information Manager_ __May 2019–present__   
-Jornada Basin Long-term Ecological Research Program, New Mexico State University, Las Cruces, NM
-
-* Manage and publish research data collected by the Jornada Basin LTER program, in collaboration with scientists and data managers in the LTER network. Develop and manage a data science program that will generate new ecological research products, enhance existing investigations, and create analytical applications for scientific outreach.
-
-_Part-time Instructor of Biology_ __August 2018-present__  
-School of Math, Science, and Engineering, Central New Mexico Community College, Albuquerque, NM
-
-* Teach Biology lab classes to first and second year students at a large, open-enrollment community college.
-
-_Postdoctoral Scientist_ __September 2016–May 2019__   
-Dept. of Environmental Science, Policy, and Management, Univ. of California Berkeley, Berkeley, CA
-
-* Soil biogeochemistry research combining field measurements and ecosystem process modeling to create regional budgets of CO~2~ and other soil trace gas fluxes under climate and land-cover change scenarios in the Mojave desert. Field instrumentation, modeling experiments (using DayCent), data QA and analysis, manuscript preparation.
+## Relevant pre-Ph.D., non-academic, and contract work
 
 _Independent Contractor:_ __March 2016–June 2016__   
-U.S.F.S Rocky Mountain Research Station, Albuquerque, NM
+Southwest Fire-Climate Partnership, U.S.F.S Rocky Mountain Research Station, Albuquerque, NM
 
-* Literature review contributor in the Southwestern Fire-Climate Partnership.
-
-_Postdoctoral Scientist:_ __August 2014–September 2016__   
-Department of Biology, University of New Mexico, Albuquerque, NM
-
-* Carbon cycle and ecohydrology research in Southwestern U.S. ecosystems using data from the New Mexico Elevation Gradient cluster of 8 AmeriFlux eddy covariance towers. Data analysis, presentations, and manuscript preparation. Data manager and QA/QC lead for this AmeriFlux cluster.
-
-_Research Assistant:_ __July 2012–June 2014__   
+_Research Assistantships (multiple):_ __December 2010–June 2014__   
 Department of Biology, University of Utah, Salt Lake City, UT
 
-* Carbon concentration and stable isotope analysis of soil and soil respiration samples, data analysis, and writing for a DOE funded project on belowground carbon cycling in beetle-impacted sub-alpine forest ecosystems. 
-
-
-_Research Assistant:_ __December 2010–June 2011__    
+_Teaching Assistantships (multiple):_ __August 2007–May 2012__    
 Department of Biology, University of Utah, Salt Lake City, UT
 
-* Method development, field collection, and laboratory analysis (major ions in snow) for a study of winter atmospheric deposition in the Salt Lake City area. Study occurred in collaboration with the Persistent Cold Air Pool study by the UU Dept. of Atmospheric Sciences (Winter 2010–11).
+_Course Instructor (Plant Identification):_ __May–July 2007 & 2008__    
+Lifelong Learning, University of Utah, Salt Lake City, UT
 
-_Field Botanist:_ __Summers 2007 & 2008__    
-Cottonwood Canyons Foundation, Salt Lake City, UT
+_For a full listing, plus internship, volunteer, field, and technical experience please see https://greg.pronghorns.net/resume.html.
 
-* Conducted surveys for threatened, endangered, and sensitive plant species in the central Wasatch Mountains. Coordinated efforts with and provided data to the Uinta-Wasatch-Cache National Forest and Utah Native Plant Society. (Summers only)
-
-_Field Botanist:_ __Summers 2006 & 2007__    
-Red Butte Garden and Arboretum, Salt Lake City, UT
-
-* Lead collector for Red Butte Garden's team in the Seeds of Success project (BLM/Millenium Seed Bank). Researched native plant species, located populations, then made large seed collections utilizing volunteer assistance. Coordinated efforts with regional botanists and land managers.
-
-_GIS Analyst:_ __October 2006–May 2007__    
-DIGIT Lab, Department of Geography, University of Utah, Salt Lake City, UT
-
-* Conducted spatial data analysis, GIS application development, and provided technical support for University of Utah Geography Dept. projects and other public or private sector clients. Maintained the University of Utah Spatial Database.
-
-_Port Sampler:_ __June 2004–September 2004__    
-Marine Resources Program, Oregon Department of Fish and Wildlife, Salem, OR
-
-* Ocean Recreational Boat Survey. Conducted boat counts and interviews with returning fishermen to determine fishing effort, target locations and species, catch and release rates. Inspected catches, collecting hatchery tags and biological data/samples from species of interest. Made weekly reports to Newport office.
-
-
-## Internships
-
-*The Nature Conservancy*, Conservation GIS intern, Salt Lake City, UT, 2006
-
-*Alaska Bird Observatory*, Nesting field study intern, Fairbanks, AK, 2001  
-
-## Volunteer
-
-*Wasatch Community Gardens*, Salt Lake City, UT, 2010–2014
- 
-*Lowell-Bennion Community Service Center* (Univ. of Utah), 2006–2007
- 
-*Red Butte Garden and Arboretum*, Salt Lake City, UT, 2005–2007
-
-*Swaner Nature Preserve*, Kimball Junction, UT, 2005
-
-*Columbia River Estuary Study Taskforce*, Astoria, OR, 2004  
-
-## Computing skills
-
-(**Bold** indicates proficiency)
-
-*Applications*: **MS Office**, **QGIS**, **ArcGIS**, \LaTeX, PostgreSQL,
-
-*Programming*: **Python**, **R**, **MATLAB**, JavaScript 
-
-*Web*: **HTML & CSS**, WordPress, website administration
-
-*Operating systems*: **Unix/Linux**, **Windows**, **Mac OSX**
-
-*Other*: **git/GitHub**, **literate programming** (jupyter notebooks, RMarkdown), basic sysadmin skills, basic server/cloud provisioning with ansible
-
-
-## Technical, field, and laboratory skills
-
-Plant/soil/ecosystem CO~2~ & H~2~0 exchange measurements (Li-Cor 6200, 6400, 7000, 7200, 7500)
-
-Eddy covariance instrumentation and data QA/QC
-
-Soil hydrological and ecosystem process modeling with HYDRUS and DayCent
-
-Analysis of gridded climate and carbon cycle modeling products (PRISM, MsTMIP)
-
-Stable isotope and nutrient analysis of plants, soils, waters, and gases
-
-CO~2~ to graphite reduction for AMS analysis of ^14^C
-
-Major ion analysis of water/snow samples
-
-Datalogger and environmental sensor network design/maintenance (Esp. with Campbell dataloggers)
-
-Weather station setup, maintenance, and quality assurance
-
-Wireless radio and internet networks (Sierra Wireless modems, MaxStream and Digi Xbee radios)
-
-Plant identification in western North America
-
-Avalanche safety (Level 1)
 
 ## Professional affiliations
 

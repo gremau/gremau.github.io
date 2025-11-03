@@ -1,14 +1,17 @@
 ---
-title: Gregory E. Maurer
-author: 05 June 2020
+#title: Gregory E. Maurer
 geometry: margin=1in
+maxwidth: 60%
 ---
+# Gregory E. Maurer
 
-Jornada Basin LTER\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Tel:  801 716-0293 (mobile)  
-P.O. Box 30003, MSC 3JER\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Email:  <gregmaurer@gmail.com>  
-New Mexico State University\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Web:  <http://greg.pronghorns.net>    
-Las Cruces, NM, 88003-8003  
-USA  
++:-------------------------------+--------------------+---------------------------------------:+
+| Jornada Basin LTER Program  \  | \ \ \ \ \ \ \ \ \  | tel: 801 716-0293 (mobile)          \  |
+| P.O. Box 30003, MSC 3JER    \  | \ \ \ \ \ \ \ \ \  | email: <gregmaurer@gmail.com>       \  |
+| New Mexico State University \  | \ \ \ \ \ \ \ \ \  | web: <http://greg.pronghorns.net>   \  |
+| Las Cruces, NM, 88003-8003  \  | \ \ \ \ \ \ \ \ \  |                                     \  |
+| USA                            | \ \ \ \ \ \ \ \ \  | _updated 30 October 2025_              |
++--------------------------------+--------------------+----------------------------------------+
 
 ## Professional, research, and teaching positions
 
@@ -17,10 +20,10 @@ Jornada Basin Long-term Ecological Research Program, New Mexico State University
 
 * Manage and publish research data collected by the Jornada Basin LTER program, in collaboration with scientists and data managers in the LTER network. Develop and manage a data science program that will generate new ecological research products, enhance existing investigations, and create applications for scientific outreach.
 
-_Part-time Instructor_ __August 2018–present__   
+_Part-time Instructor of Biology_ __August 2018–December 2020__   
 School of Math, Science, and Engineering, Central New Mexico Community College, Albuquerque, NM
 
-* I teach laboratory Biology and Microbiology courses, which includes instructional material development, lecturing, designing and conducting assessments, grading, and student advising.
+* I taught laboratory Biology and Microbiology courses to first and second-year students, which included instructional material development, lecturing, designing and conducting assessments, grading, and student advising.
 
 _Postdoctoral Scientist_ __September 2016–May 2019__   
 Dept. of Environmental Science, Policy, and Management, Univ. of California Berkeley, Berkeley, CA
@@ -28,7 +31,7 @@ Dept. of Environmental Science, Policy, and Management, Univ. of California Berk
 * Soil biogeochemistry research combining field measurements and ecosystem process modeling to create regional budgets of CO~2~ and other soil trace gas fluxes under climate and land-cover change scenarios in the Mojave desert. Field instrumentation, modeling experiments (using DayCent), data QA and analysis, manuscript preparation.
 
 _Independent Contractor:_ __March 2016–June 2016__   
-U.S.F.S Rocky Mountain Research Station, Albuquerque, NM
+Southwest Fire-Climate Partnership, U.S.F.S Rocky Mountain Research Station, Albuquerque, NM
 
 * Literature review contributor in the Southwestern Fire-Climate Partnership.
 
@@ -100,9 +103,9 @@ _Ph.D.,_ Biology, University of Utah, May 2014
 
 _B.S., cum laude_, Biological Sciences, University of Alaska Fairbanks, 2001
 
-## Peer-reviewed publications
+## Selected publications
 
-(see also <http://greg.pronghorns.net/publications.html>)
+*For a comprehensive listing see <http://greg.pronghorns.net/publications.html>*
 
 \setlength{\parindent}{-0.25in}
 \setlength{\leftskip}{0.25in}
@@ -156,15 +159,15 @@ _Please see listings at_ <http://greg.pronghorns.net/publications.html>
 
 (**Bold** indicates proficiency)
 
-*Applications*: **MS Office**, **ArcGIS**, \LaTeX, Qgis
+*Applications*: **MS Office**, **QGIS**, **ArcGIS**, \LaTeX, PostgreSQL,
 
-*Programming*: **Python**, **R**, **MATLAB**, Java (plus math, statistics & spatial data packages)
+*Programming*: **Python**, **R**, **MATLAB**, JavaScript 
 
-*Web*: **HTML & CSS**, **GitHub**, wiki & website administration
+*Web*: **HTML & CSS**, WordPress, website administration
 
-*Operating systems*: **Unix/Linux**, **Windows**, Mac OSX
+*Operating systems*: **Unix/Linux**, **Windows**, **Mac OSX**
 
-*Other*: **git**, **mercurial**, **literate programming** (jupyter notebooks, RMarkdown)
+*Other*: **git/GitHub**, **literate programming** (jupyter notebooks, RMarkdown), basic sysadmin skills, basic server/cloud provisioning with ansible
 
 
 ## Technical, field, and laboratory skills
