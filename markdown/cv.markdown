@@ -131,6 +131,8 @@ Gries, C., R. Brown, M. Gastil-Buhl, S. Elmendorf, H. Garritt, M. Martin, G. Mau
 \setlength{\leftskip}{0.25in}
 \noindent
 
+Abramova, A., J.V. Mills, G.E. Maurer, B. Gilbert, M. Getenet, L. Lammers, S. Zahabi, M. Chitsaz, M. Pfeiffer, R. Amundson. Thermally driven CO~2~ adsorption/desorption and its effect on soil respiration. (submitteds) 
+
 Sala, O.E., G.E. Maurer. Unexpected indirect effects of field simulated drought offset direct climate-change impacts. (submitted)
  
 Maurer, G.E., S. Elmendorf, N. Lyon, M. Downs, J. LaMontagne, E. Sokol, S. Earl, L. Dee, K. Barry, A. Chen, F. Isbell,  J. Carey. Ten simple rules for team synthesis in ecological synthesis research. (in prep)
@@ -199,6 +201,8 @@ NSF Research Experience for Undergraduates (publication above), 1999
 \setlength{\parindent}{-0.25in}
 \setlength{\leftskip}{0.25in}
 \noindent
+
+International Data Week 2025 SciDataCon – Emerging technologies in the global context: Challenges and opportunities for the long-term data management lifecycle (Panelist). <https://doi.org/10.5281/zenodo.17460604>
 
 AGU Fall Meeting 2024 – Ecosystem Sensitivity to Precipitation Variability Along Intermediate Spatial Gradients in Vegetation and Soil Type (Poster)
 
