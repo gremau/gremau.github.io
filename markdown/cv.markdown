@@ -10,7 +10,7 @@ maxwidth: 55%
 | P.O. Box 30003, MSC 3JER    \  | \ \ \ \ \ \ \ \ \ \ \  | <gregmaurer@gmail.com>         \      |
 | New Mexico State University \  | \ \ \ \ \ \ \ \ \ \ \  | <http://greg.pronghorns.net>   \      |
 | Las Cruces, NM, 88003-8003  \  | \ \ \ \ \ \ \ \ \ \ \  |                                \      |
-| USA                            | \ \ \ \ \ \ \ \ \ \ \  | _updated 30 October 2025_             |
+| USA                            | \ \ \ \ \ \ \ \ \ \ \  | _updated 11 November 2025_             |
 +--------------------------------+------------------------+---------------------------------------+
 
 ## Research and professional interests
@@ -131,7 +131,7 @@ Gries, C., R. Brown, M. Gastil-Buhl, S. Elmendorf, H. Garritt, M. Martin, G. Mau
 \setlength{\leftskip}{0.25in}
 \noindent
 
-Abramova, A., J.V. Mills, G.E. Maurer, B. Gilbert, M. Getenet, L. Lammers, S. Zahabi, M. Chitsaz, M. Pfeiffer, R. Amundson. Thermally driven CO~2~ adsorption/desorption and its effect on soil respiration. (submitteds) 
+Abramova, A., J.V. Mills, G.E. Maurer, B. Gilbert, M. Getenet, L. Lammers, S. Zahabi, M. Chitsaz, M. Pfeiffer, R. Amundson. Thermally driven CO~2~ adsorption/desorption and its effect on soil respiration. (submitted) 
 
 Sala, O.E., G.E. Maurer. Unexpected indirect effects of field simulated drought offset direct climate-change impacts. (submitted)
  
