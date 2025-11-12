@@ -10,7 +10,7 @@ maxwidth: 55%
 | P.O. Box 30003, MSC 3JER    \  | \ \ \ \ \ \ \ \ \ \ \  | <gregmaurer@gmail.com>         \      |
 | New Mexico State University \  | \ \ \ \ \ \ \ \ \ \ \  | <http://greg.pronghorns.net>   \      |
 | Las Cruces, NM, 88003-8003  \  | \ \ \ \ \ \ \ \ \ \ \  |                                \      |
-| USA                            | \ \ \ \ \ \ \ \ \ \ \  | _updated 11 November 2025_             |
+| USA                            | \ \ \ \ \ \ \ \ \ \ \  | _updated 11 November 2025_            |
 +--------------------------------+------------------------+---------------------------------------+
 
 ## Research and professional interests
