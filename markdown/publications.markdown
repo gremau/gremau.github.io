@@ -9,7 +9,7 @@ pronghorns.net
 
 <div id="banner"></div>
 
-[Notebook](https://earthscinotebook.readthedocs.io/en/latest/)\ \ \ \ \ \ 
+[Notebook](https://greg.pronghorns.net/research-notebook)\ \ \ \ \ \ 
 [Data](https://greg.pronghorns.net/data.html)\ \ \ \ \ \ 
 [Publications](https://greg.pronghorns.net/publications.html)\ \ \ \ \ \ 
 [Home](https://greg.pronghorns.net/index.html)
@@ -92,4 +92,4 @@ Again - I am happy to provide pdfs of these upon request.
 
 \
 
-*All content [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/) by Greg Maurer. This page last updated 16 Feb, 2021.*
+*All content [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/) by Greg Maurer. This page last updated 16 Feb, 2025.*

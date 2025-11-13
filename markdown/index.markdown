@@ -18,7 +18,7 @@ pronghorns.net
 
 This site is owned and operated by Greg Maurer, an ecologist and environmental data scientist based at New Mexico State University. I also teach biology courses and workshops around New Mexico. The information and opinions expressed here are subject to my uncertainty, errors, and distortions. 
 
-See my [CV](https://greg.pronghorns.net/cv.html) ([pdf](https://greg.pronghorns.net/publicfiles/cv_gmaurer.pdf)) or [Resume](https://greg.pronghorns.net/resume.html) for complete experience and credentials. Email me at <greg@pronghorns.net>.
+See my [CV](https://greg.pronghorns.net/cv.html) ([pdf](https://greg.pronghorns.net/public/cv_gmaurer.pdf)) or [Resume](https://greg.pronghorns.net/resume.html) for complete experience and credentials. Email me at <greg@pronghorns.net>.
 
 ## Current and past projects
 

@@ -9,7 +9,7 @@ pronghorns.net
 
 <div id="banner"></div>
 
-[Notebook](https://earthscinotebook.readthedocs.io/en/latest/)\ \ \ \ \ \ 
+[Notebook](https://greg.pronghorns.net/research-notebook)\ \ \ \ \ \ 
 [Data](https://greg.pronghorns.net/data.html)\ \ \ \ \ \ 
 [Publications](https://greg.pronghorns.net/publications.html)\ \ \ \ \ \ 
 [Home](https://greg.pronghorns.net/index.html)
@@ -35,22 +35,22 @@ I was the Data Manager for a cluster six AmeriFlux eddy covariance sites between
 
 A weather station and soil sensors network in operation from 2009-2013 in the Wasatch Range in Utah. For more info see the [wiki pages](https://greg.pronghorns.net/wiki/hiddencanyon:sitedescription). The data below are corrected, gap filled datasets being developed for a modeling study. So... they are very provisional and not all sensors are included.
 
--  [2010](./publicdata/2010SNOBALdata.csv), [2011](./publicdata/2011SNOBALdata.csv), [2012](./publicdata/2012SNOBALdata.csv) 
+-  [2010](./public/data/2010SNOBALdata.csv), [2011](./public/data/2011SNOBALdata.csv), [2012](./public/data/2012SNOBALdata.csv) 
 
 
 ## Red Butte Canyon weather stations
 
 There are four old stations in the Red Butte Canyon research natural area near the University of Utah campus. For older data and more information on these stations see the official [RBC data page](http://ecophys.utah.edu/download/Red_Butte_Weather/) and the [wiki pages](https://greg.pronghorns.net/wiki/redbutte:weatherstations).
 
--  [Daily data](./publicdata/RBWSall_140115.txt) from all 4 weather stations. Current to Jan 15th, 2014.
--  [10-minute data](./publicdata/RBWS1_highres_140111.txt) from weather station 1. Current to Jan 11th, 2014.
+-  [Daily data](./public/data/RBWSall_140115.txt) from all 4 weather stations. Current to Jan 15th, 2014.
+-  [10-minute data](./public/data/RBWS1_highres_140111.txt) from weather station 1. Current to Jan 11th, 2014.
 
 ## Rio Mesa weather stations
 
 Two weather stations are located at the [U of U Rio Mesa field station](http://riomesa.utah.edu/). The stations have been in operation since June 2006 and these data are current to July 2013.
 
--  [Daily data](./publicdata/GaugeStationWx1_Daily.dat) and [hourly data](./publicdata/GaugeStationWx1_QrtrHour.dat) from the station near the gauge on the Dolores River (WS1).
--  [Daily data](./publicdata/LineCanyonWx2_Daily.dat) and [hourly data](./publicdata/LineCanyonWx2_QrtrHour.dat) from the station at the mouth of Line Canyon (WS2).
+-  [Daily data](./public/data/GaugeStationWx1_Daily.dat) and [hourly data](./public/data/GaugeStationWx1_QrtrHour.dat) from the station near the gauge on the Dolores River (WS1).
+-  [Daily data](./public/data/LineCanyonWx2_Daily.dat) and [hourly data](./public/data/LineCanyonWx2_QrtrHour.dat) from the station at the mouth of Line Canyon (WS2).
 
 \ 
 

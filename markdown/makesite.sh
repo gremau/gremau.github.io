@@ -10,7 +10,7 @@
 # Then remove the markdown
 echo "updating cv"
 pandoc cv.markdown -s -o ../cv_gmaurer.html
-pandoc cv.markdown -o ../publicfiles/cv_gmaurer.pdf 
+pandoc cv.markdown -o ../public/cv_gmaurer.pdf 
 
 # Loop through each markdown file and make the html
 for i in *.markdown
