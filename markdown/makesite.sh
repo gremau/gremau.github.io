@@ -9,11 +9,11 @@
 # Put html copy in toplevel dir, pdf in publicfiles/
 # Then remove the markdown
 echo "updating cv"
-pandoc cv.markdown -s -o ../cv_gmaurer.html
-pandoc cv.markdown -o ../public/cv_gmaurer.pdf 
+pandoc cv_gmaurer.md -s -o ../cv_gmaurer.html
+pandoc cv_gmaurer.md -o ../public/cv_gmaurer.pdf 
 
 # Loop through each markdown file and make the html
-for i in *.markdown
+for i in *.md
 do 
     # Get filename and remove extension
     filename=$(basename "$i")   
