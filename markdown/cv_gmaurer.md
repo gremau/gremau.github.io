@@ -10,7 +10,7 @@ maxwidth: 55%
 | P.O. Box 30003, MSC 3JER    \  | \ \ \ \ \ \ \ \ \ \ \  | <gregmaurer@gmail.com>         \      |
 | New Mexico State University \  | \ \ \ \ \ \ \ \ \ \ \  | <http://greg.pronghorns.net>   \      |
 | Las Cruces, NM, 88003-8003  \  | \ \ \ \ \ \ \ \ \ \ \  |                                \      |
-| USA                            | \ \ \ \ \ \ \ \ \ \ \  | _updated 3 December 2025_             |
+| USA                            | \ \ \ \ \ \ \ \ \ \ \  | _updated 14 January 2026_             |
 +--------------------------------+------------------------+---------------------------------------+
 
 ## Research and professional interests
@@ -131,11 +131,11 @@ Gries, C., R. Brown, M. Gastil-Buhl, S. Elmendorf, H. Garritt, M. Martin, G. Mau
 \setlength{\leftskip}{0.25in}
 \noindent
 
-Abramova, A., J.V. Mills, G.E. Maurer, B. Gilbert, M. Getenet, L. Lammers, S. Zahabi, M. Chitsaz, M. Pfeiffer, R. Amundson. Thermally driven CO~2~ adsorption/desorption and its effect on soil respiration. (submitted) 
+Abramova, A., J.V. Mills, G.E. Maurer, B. Gilbert, M. Getenet, L. Lammers, S. Zahabi, M. Chitsaz, M. Pfeiffer, R. Amundson. Thermally driven CO~2~ adsorption/desorption and its effect on soil respiration. (in review) 
 
-Sala, O.E., G.E. Maurer. Unexpected indirect effects of field simulated drought offset direct climate-change impacts. (submitted)
+Sala, O.E., G.E. Maurer. Unexpected indirect effects of field simulated drought offset direct climate-change impacts. (in review)
  
-Elmendorf, S.C., G.E. Maurer, S. Elmendorf, N. Lyon, M. Downs, J. LaMontagne, E. Sokol, S. Earl, L. Dee, K. Barry, A. Chen, F. Isbell,  J. Carey. Ten simple rules for team synthesis in ecological synthesis research. (in prep)
+Elmendorf, S.C., G.E. Maurer, N. Lyon, M. Downs, J. LaMontagne, E. Sokol, S. Earl, L. Dee, K. Barry, A. Chen, F. Isbell,  J. Carey. Ten simple rules for team synthesis in ecological synthesis research. (in revision)
 
 Maurer, G.E., J.V. Mills, E.J. Oerter, R.G. Amundson, L.N. Lammers. Measured and modeled soil carbon cycling in the Mojave desert: toward projected regional greenhouse gas budgets. (in prep)
 
