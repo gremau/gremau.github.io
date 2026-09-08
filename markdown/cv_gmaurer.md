@@ -10,7 +10,7 @@ maxwidth: 55%
 | P.O. Box 30003, MSC 3JER    \  | \ \ \ \ \ \ \ \ \ \ \  | <gregmaurer@gmail.com>         \      |
 | New Mexico State University \  | \ \ \ \ \ \ \ \ \ \ \  | <http://greg.pronghorns.net>   \      |
 | Las Cruces, NM, 88003-8003  \  | \ \ \ \ \ \ \ \ \ \ \  |                                \      |
-| USA                            | \ \ \ \ \ \ \ \ \ \ \  | _updated 14 January 2026_             |
+| USA                            | \ \ \ \ \ \ \ \ \ \ \  | _updated 6 September 2026_            |
 +--------------------------------+------------------------+---------------------------------------+
 
 ## Research and professional interests
@@ -66,35 +66,37 @@ _Advanced Statistical Modeling for Biologists_, University of Utah, 2012
 \setlength\parindent{-0.25in}
 \setlength\leftskip{0.25in}
 
-Amundson, R., J. V. Mills, L. N. Lammers, M. Barthel, N. Gallarotti, J. Six, G. Gebauer, and __G. E. Maurer__. Simultaneous Production and Consumption of Soil N2O Creates Complex Effects on its Stable Isotope Composition. Global Biogeochemical Cycles (2023): e2022GB007536. <https://doi.org/10.1029/2022GB007536>
+Elmendorf, S. C., __Maurer, G. E.__, Lyon, N. J., Downs, M. R., LaMontagne, J. M., Barry, K. E., Chen, A., Dee, L. E., Earl, S., Isbell, F., Sokol, E. R. & Carey, J. C. (2026). Ten simple rules for team synthesis in ecological research. _Methods in Ecology and Evolution_. <https://doi.org/10.1111/2041-210x.70378>
 
-Mills, J. V., __G. E. Maurer__, L. N. Lammers, and R. Amundson. 2022. Emergent Climate Change Impacts on the Soil C and N Cycles in the Mojave Desert. _Global Biogeochemical Cycles_ 36, no. 9, <https://doi.org/10.1029/2021GB007254>
+Amundson, R., Mills, J. V., Lammers, L. N., Barthel, M., Gallarotti, N., Six, J., Gebauer, G. & __Maurer, G. E.__ (2023). Simultaneous production and consumption of soil N~2~O creates complex effects on its stable isotope composition. _Global Biogeochemical Cycles_, 37(9), e2022GB007536. <https://doi.org/10.1029/2022GB007536>
 
-Meng, B., J. Li, __G. E. Maurer__, S. Zhong, Y. Yao, X. Yang, S. L. Collins, and W. Sun. 2021. Nitrogen addition amplifies the nonlinear drought response of grassland productivity to extended growing‐season droughts. _Ecology_ <https://doi.org/10.1002/ecy.3483>
+Mills, J. V., __Maurer, G. E.__, Lammers, L. N., & Amundson, R. (2022). Emergent climate change impacts on the soil C and N cycles in the Mojave Desert. _Global Biogeochemical Cycles_, 36(9), e2021GB007254. <https://doi.org/10.1029/2021GB007254>
 
-Hallmark, A. J., __G. E. Maurer__, R. E. Pangle, and M. E. Litvak. 2021. Watching plants’ dance: Movements of live and dead branches linked to atmospheric water demand. _Ecosphere_. 12, <https://doi.org/10.1002/ecs2.3705>
+Meng, B., Li, J., __Maurer, G. E.__, Zhong, S., Yao, Y., Yang, X., Collins, S. L. & Sun, W. (2021). Nitrogen addition amplifies the nonlinear drought response of grassland productivity to extended growing‐season droughts. _Ecology_, 102(11), e03483. <https://doi.org/10.1002/ecy.3483>
 
-__Maurer, G.E.__, A.J. Hallmark, R.F. Brown, S.L. Collins, O.E. Sala. 2020. Sensitivity of primary production to precipitation across the United States. _Ecology Letters_. <https://dx.doi.org/10.1111/ele.13455>
+Hallmark, A. J., __Maurer, G. E.__, Pangle, R. E., & Litvak, M. E. (2021). Watching plants’ dance: Movements of live and dead branches linked to atmospheric water demand. _Ecosphere_, 12(8), e03705. <https://doi.org/10.1002/ecs2.3705>
 
-Oerter, E.J., J.V. Mills, __G.E. Maurer__, L.N. Lammers, R.G. Amundson. 2018. Greenhouse gas production and transport in desert soils of the southwestern USA. _Global Biogeochemical Cycles_. <https://doi.org/10.1029/2018GB006035> 
+Maurer, G. E., Hallmark, A. J., Brown, R. F., Sala, O. E., & Collins, S. L. (2020). Sensitivity of primary production to precipitation across the United States. _Ecology Letters_, 23(3), 527-536. <https://dx.doi.org/10.1111/ele.13455>
 
-Rudgers, J.A., Y.A. Chung, __G.E. Maurer__, D.I. Moore, E.H. Muldavin, Collins, S.L. 2018. Climate sensitivity functions and net primary production: A framework for incorporating changes in climate mean and variability. _Ecology_. <https://doi.org/10.1002/ecy.2136>
+Oerter, E., Mills, J. V., __Maurer, G. E.__, Lammers, L. N., & Amundson, R. (2018). Greenhouse gas production and transport in desert soils of the southwestern United States. _Global Biogeochemical Cycles_, 32(11), 1703-1717. <https://doi.org/10.1029/2018GB006035> 
 
-Morillas, L., R.E. Pangle, __G.E. Maurer__, W.T. Pockman, N.G. McDowell, C-W Huang, D.J. Krofcheck, A.M. Fox, R.L. Sinsabaugh, T.A. Rahn, M.E. Litvak. 2017. Tree mortality decreases water availability and ecosystem resilience to drought in piñon-juniper woodlands in the southwestern U.S. _JGR Biogeosciences_. <https://doi.org/10.1002/2017JG004095>
+Rudgers, J. A., Chung, Y. A., __Maurer, G. E.__, Moore, D. I., Muldavin, E. H., Litvak, M. E., & Collins, S. L. (2018). Climate sensitivity functions and net primary production: a framework for incorporating climate mean and variability. _Ecology_, 99(3), 576-582. <https://doi.org/10.1002/ecy.2136>
 
-Biederman, J.A., R.L. Scott, T. Bell, D.R. Bowling, S. Dore, J. Garatuza-Payan, T.E. Kolb, P. Krishnan, D.J. Krofcheck, M.E. Litvak, __G.E. Maurer__, T.P. Meyers, W.C. Oechel, S.A. Papuga, G.E. Ponce-Campos, J.C. Rodriguez, W.K. Smith, R. Vargas, C.J. Watts, E.A. Yepez, M.L. Goulden. 2017. CO~2~ exchange and evapotranspiration across dryland ecosystems of southwestern North America. _Global Change Biology_. <https://doi.org/10.1111/gcb.13686>
+Morillas, L., Pangle, R. E., __Maurer, G. E.__, Pockman, W. T., Mcdowell, N., Huang, C. W., Krofchek, D. J., Fox, A. M., Sinsabaugh, R. L., Rahn, T. A. & Litvak, M. E. (2017). Tree mortality decreases water availability and ecosystem resilience to drought in piñon‐juniper woodlands in the southwestern US. _Journal of Geophysical Research: Biogeosciences_, 122(12), 3343-3361. <https://doi.org/10.1002/2017JG004095>
 
-__Maurer, G.E.__, A.M. Chan, N.A. Trahan, D.J.P. Moore, and D.R. Bowling. 2016. Carbon isotopic composition of forest soil respiration in the decade following bark beetle and stem girdling disturbances in the Rocky Mountains. _Plant, Cell, & Environment_, 39: 1513–1523. <https://doi.org/10.1111/pce.12716>
+Biederman, J. A., Scott, R. L., Bell, T. W., Bowling, D. R., Dore, S., Garatuza‐Payan, J., Kolb, T. E., Krishnan, P., Krofchek, D. J., Litvak, M. E., __Maurer, G. E.__, Meyers, T. P., Oechel, W. C., Papuga, S. A., Ponce-Campos, G. E., Rodriguez, J. C., Smith, W. K., Vargas, R., Watts, C. J., Yepez, E. A. & Goulden, M. L. (2017). CO~2~ exchange and evapotranspiration across dryland ecosystems of southwestern North America. _Global Change Biology_, 23(10), 4204-4221. <https://doi.org/10.1111/gcb.13686>
 
-Biederman, J.A., R.L. Scott, M.L. Goulden, R. Vargas, M.E. Litvak, T.E. Kolb, E.A. Yepez, W. C. Oechel, P.D. Blanken, T.W. Bell, J. Garatuza-Payan, __G.E. Maurer__, S. Dore, S.P. Burns. 2016. Terrestrial carbon balance in a drier world: the effects of water availability in southwestern North America. _Global Change Biology_. <https://doi.org/10.1111/gcb.13222>
+Maurer, G. E., Chan, A. M., Trahan, N. A., Moore, D. J., & Bowling, D. R. (2016). Carbon isotopic composition of forest soil respiration in the decade following bark beetle and stem girdling disturbances in the Rocky Mountains. _Plant, Cell & Environment_, 39(7), 1513-1523. <https://doi.org/10.1111/pce.12716>
 
-__Maurer, G.E.__, and D.R. Bowling. 2014. Dust effects on snowpack melt and related ecosystem processes are secondary to those of forest canopy structure and interannual snowpack variability, _Ecohydrology_, 8: 1005–1023. <https://doi.org/10.1002/eco.1558>
+Biederman, J. A., Scott, R. L., Goulden, M. L., Vargas, R., Litvak, M. E., Kolb, T. E., Yepez, E. A., Oechel, W. C., Blanken, P. D., Bell, T. W., __Maurer, G. E.__, Dore, S. & Burns, S. P. (2016). Terrestrial carbon balance in a drier world: the effects of water availability in southwestern North America. _Global Change Biology_, 22(5), 1867-1879. <https://doi.org/10.1111/gcb.13222>
 
-Hall, S.J., __G.E. Maurer__, S.W. Hoch, R. Taylor, D.R. Bowling. 2014. Impacts of anthropogenic emissions and cold air pools on urban to montane gradients of snowpack ion concentrations in the Wasatch Mountains, Utah. _Atmospheric Environment_, 98: 231–241. <https://doi.org/10.1016/j.atmosenv.2014.08.076>
+Maurer, G. E., & Bowling, D. R. (2015). Dust effects on snowpack melt and related ecosystem processes are secondary to those of forest canopy structure and interannual snowpack variability. _Ecohydrology_, 8(6), 1005-1023. <https://doi.org/10.1002/eco.1558>
 
-__Maurer, G.E.__ and D.R. Bowling. 2014. Seasonal snowpack characteristics influence soil temperature and water content at multiple scales in interior western U.S. mountain ecosystems, _Water Resources Research_, 50: 5216–5234. <https://doi.org/10.1002/2013WR014452>
+Hall, S. J., __Maurer, G.__, Hoch, S. W., Taylor, R., & Bowling, D. R. (2014). Impacts of anthropogenic emissions and cold air pools on urban to montane gradients of snowpack ion concentrations in the Wasatch Mountains, Utah. _Atmospheric Environment_, 98, 231-241. <https://doi.org/10.1016/j.atmosenv.2014.08.076>
 
-Ruess, R.W., R.L. Hendrick, A.J. Burton, K. S. Pregitzer, B. Sveinbjornsson, M.F. Allen, __G.E. Maurer__. 2003. Coupling fine root dynamics with ecosystem carbon cycling in black spruce forests of interior Alaska, _Ecological Monographs_, 74: 643-662. <https://doi.org/10.1890/02-4032>
+Maurer, G. E., & Bowling, D. R. (2014). Seasonal snowpack characteristics influence soil temperature and water content at multiple scales in interior western US mountain ecosystems. _Water Resources Research_, 50(6), 5216-5234. <https://doi.org/10.1002/2013WR014452>
+
+Ruess, R. W., Hendrick, R. L., Burton, A. J., Pregitzer, K. S., Sveinbjornssön, B., Allen, M. F., & __Maurer, G. E.__ (2003). Coupling fine root dynamics with ecosystem carbon cycling in black spruce forests of interior Alaska. _Ecological Monographs_, 73(4), 643-662. <https://doi.org/10.1890/02-4032>
 
 \setlength\parindent{0in}
 \setlength\leftskip{0in}
@@ -105,7 +107,7 @@ Ruess, R.W., R.L. Hendrick, A.J. Burton, K. S. Pregitzer, B. Sveinbjornsson, M.F
 \setlength{\leftskip}{0.25in}
 \noindent
 
-Gries, C., S. Beaulieu, R.F. Brown, S. Elmendorf, H. Garritt, G. Gastil-Buhl, H. Hsieh, L. Kui, M. Martin, G. Maurer, A.T. Nguyen, J.H. Porter, A. Sapp, M. Servilla, and T.L. Whiteaker. 2021. Data Package Design for Special Cases ver 1. _Environmental Data Initiative_. <https://doi.org/10.6073/pasta/9d4c803578c3fbcb45fc23f13124d052>
+Gries, C., Beaulieu S., Brown, R. F., Elmendorf, S. C., Garritt, H., Gastil-Buhl, G., Hsieh, H. Y., Kui, L., Martin, M., __Maurer, G. E.__, Nguyen, A. T., Porter, J. H., Sapp, A., Servilla, M. & Whiteaker, T. L. (2021). Data Package Design for Special Cases ver 1. _Environmental Data Initiative_. <https://doi.org/10.6073/pasta/9d4c803578c3fbcb45fc23f13124d052>
 
 \setlength{\parindent}{0in}
 \setlength{\leftskip}{0in}
@@ -116,11 +118,11 @@ Gries, C., S. Beaulieu, R.F. Brown, S. Elmendorf, H. Garritt, G. Gastil-Buhl, H.
 \setlength{\leftskip}{0.25in}
 \noindent
 
-Specht, A., Bastin, G., Carter, J., Cowley, R., Diete, R., Facelli, J., Maurer, G., O’Reagain, P., Thornton, C. 2025. The value proposition for systematic long-term vegetation studies. _XII International Rangeland Congress_
+Specht, A., Bastin, G., Carter, J. O., Cowley, R., Diete, R., Facelli, J., Maurer, G. E., O'Reagain, P. & Thornton, C. (2025, July 13). The value proposition for systematic long-term vegetation studies. In _XII International Rangelands Congress, Australia 2025 (IRC 25)_, Adelaide, South Australia, Australia. <https://doi.org/10.5281/zenodo.15875094>
 
-Gries, C., S. Beaulieu, R. Brown, G. Gastil-Buhl, S. Elmendorf, H. Hsieh, L. Kui, G. Maurer, and J. Porter. 2020. Change in Pictures: Creating best practices in archiving ecological imagery for reuse. _Biodiversity Information Science and Standards 4_
+Gries, C., Beaulieu, S., Brown, R., Gastil-Buhl, G., Elmendorf, S., Hsieh, H. Y., Kui, L., Maurer, G. & Porter, J. H. (2020). Change in Pictures: Creating best practices in archiving ecological imagery for reuse. _Biodiversity Information Science and Standards, 4_. <https://doi.org/10.3897/biss.4.59082>
 
-Gries, C., R. Brown, M. Gastil-Buhl, S. Elmendorf, H. Garritt, M. Martin, G. Maurer, A. Nguyen, J. Porter, and T. Whiteaker. 2020. Going beyond the spreadsheet-developing Best Practices in ‘long-tail’ environmental data curation and publishing. _Earth and Space Science Open Archive (ESSOAr)_
+Gries, C., Brown, R., Gastil-Buhl, M., Elmendorf, S., Garritt, H., Martin, M., Maurer, G. Nguyen, A., Porter, J. & Whiteaker, T. (2020). Going beyond the spreadsheet - developing Best Practices in ‘long-tail’ environmental data curation and publishing. _Earth and Space Science Open Archive ESSOAr_. <https://doi.org/10.1002/essoar.10505435.1>
 
 \setlength{\parindent}{0in}
 \setlength{\leftskip}{0in}
@@ -131,13 +133,11 @@ Gries, C., R. Brown, M. Gastil-Buhl, S. Elmendorf, H. Garritt, M. Martin, G. Mau
 \setlength{\leftskip}{0.25in}
 \noindent
 
-Abramova, A., J.V. Mills, G.E. Maurer, B. Gilbert, M. Getenet, L. Lammers, S. Zahabi, M. Chitsaz, M. Pfeiffer, R. Amundson. Thermally driven CO~2~ adsorption/desorption and its effect on soil respiration. (in review) 
+Abramova, A., Mills J. V., Maurer, G. E., Gilbert, B., Getenet, M., Lammers, L., Zahabi, S., Chitsaz, M., Pfeiffer, M. & Amundson, R. (in review). Thermally driven CO~2~ adsorption/desorption and its effect on soil respiration. 
 
-Sala, O.E., G.E. Maurer. Unexpected indirect effects of field simulated drought offset direct climate-change impacts. (in review)
+Sala, O. E. & Maurer, G. E. Unexpected indirect effects of field simulated drought offset direct climate-change impacts. (in revision @ Nature Ecology and Evolution)
  
-Elmendorf, S.C., G.E. Maurer, N. Lyon, M. Downs, J. LaMontagne, E. Sokol, S. Earl, L. Dee, K. Barry, A. Chen, F. Isbell,  J. Carey. Ten simple rules for team synthesis in ecological synthesis research. (in revision)
-
-Maurer, G.E., J.V. Mills, E.J. Oerter, R.G. Amundson, L.N. Lammers. Measured and modeled soil carbon cycling in the Mojave desert: toward projected regional greenhouse gas budgets. (in prep)
+Maurer, G.E., Mills, J. V., Oerter, E. J., Amundson, R., Lammers, L. N. Measured and modeled soil carbon cycling in the Mojave desert: toward projected regional greenhouse gas budgets. (in prep)
 
 \setlength{\parindent}{0in}
 \setlength{\leftskip}{0in}
@@ -167,22 +167,26 @@ Rudgers J., Y. Chung, G. Maurer, D. Moore, E. Muldavin, M. Litvak, S. Collins. 2
 \setlength{\leftskip}{0.25in}
 \noindent
 
-Maurer, G.E. 2014. Ecosystem responses to seasonal snowpack variation in the western United States. The University of Utah ([link](https://collections.lib.utah.edu/dl_files/d5/9b/d59b360c25d6fe4399d2449e68c4733b5b892395.pdf))
+Maurer, G. E. (2014). _Ecosystem responses to seasonal snowpack variation in the western United States_. The University of Utah ([link](https://collections.lib.utah.edu/dl_files/d5/9b/d59b360c25d6fe4399d2449e68c4733b5b892395.pdf))
 
 \setlength{\parindent}{0in}
 \setlength{\leftskip}{0in}
 
-## Funded grants and fellowships
+## Grants and fellowships (funded and pending)
 
 ### PI or Co-PI
 
-NSF (DBI 2223103 subaward). "Collaborative Research: The Environmental Data Initiative - long-term availability of research data," $190,378.00 subaward. PI. September 2023-February 2026.
+PI, NSF BIO-DBI 2223103 (subaward). _Collaborative Research: The Environmental Data Initiative - long-term availability of research data_. $190,378.00 (full award $1,738,416). September 2023-February 2026.
 
-NSF (DEB 2326482). "LTREB: Long-term ecosystem responses to directional changes in precipitation amount and variability in an arid grassland," $670,000.00. Co-PI. September 2023-August 2028.
+Co-PI NSF BIO-DEB 2326482. _LTREB: Long-term ecosystem responses to directional changes in precipitation amount and variability in an arid grassland_. $670,000. September 2023-August 2028.
 
 ### Senior Personnel
 
-NSF (DEB 2425143). "LTER: Advancing ecological understanding of drylands through integrated research at the Jornada Basin (JRN-8)," $7,649,997.00. March 2025-February 2031.
+Senior personnel, NSF BIO-DEB 2425143. _LTER: Advancing ecological understanding of drylands through integrated research at the Jornada Basin (JRN-8)_. $7,649,997. March 2025-February 2031.
+
+### Pending
+
+Co-PI, NSF BIO-DBI. _Collaborative Research: Next generation of the Environmental Data Initiative: Empowering data-intensive science through reuse and integration._ NMSU budget request: $329,704. Submitted 2025-12-10.
 
 ### Other
 
@@ -244,13 +248,19 @@ AGU Fall Meeting 2010 – Influence of dust deposition on snowpack melt rate and
 \setlength{\leftskip}{0.25in}
 \noindent
 
-Ecological data synthesis: a primer on essential methods and team science (6-hour short course). Ecological Society of America Annual Meeting 2025. <https://lter.github.io/eco-data-synth-primer/>
+Implementing the Darwin Core Data Standard to Enhance the FAIRness of Biological Survey and Monitoring Data (WK-32). 1.5-hour workshop at 2026 Ecological Society of America Annual Meeting. Co-organized with Kate Ingenloff, Chandra Earl and Kit Lewers.
 
-Ecological data synthesis: a primer on essential methods (3-hour short course). Ecological Society of America Annual Meeting 2024. <https://events.rdmobile.com/Sessions/Details/2318667>
+Making Ecological Data More Open and Interoperable Across Projects and Platforms (SS-22). 1.5-hour special session at 2026 Ecological Society of America Annual Meeting. Co-organized with Kate Ingenloff, Marty Downs, Chandra Earl, Eric Sokol and Kit Lewers.
 
-Linking traits, genomes, specimens, and images to LTER data. LTER Network All-Scientists Meeting 2022. Co-organized with Corinna Gries. <https://sched.co/1357I>
+Ecological Synthesis: So You Have An Idea... What Next? (WK-03). 1.5-hour workshop at 2026 Ecological Society of America Annual Meeting. Co-organized with Marty Downs, Laura Dee, and Eric Sokol <https://lter.github.io/eco-data-synth-primer/>
 
-Emerging best-practices for publishing non-tabular, complex, and special-case ecological datasets. ESIP Summer Meeting 2021. Co-organized with Renée Brown and Corinna Gries. <https://sched.co/jMPC>
+Ecological data synthesis: a primer on essential methods and team science (SC-03). 6-hour short course at 2025 Ecological Society of America Annual Meeting. Co-organized with Marty Downs, Jalene Lamontagne, Nick Lyon, and Eric Sokol <https://lter.github.io/eco-data-synth-primer/>
+
+Ecological data synthesis: a primer on essential methods (SC-13). 3-hour short course at 2024 Ecological Society of America Annual Meeting. Co-organized with Marty Downs, Nick Lyon, Angel Chen, Stevan Earl, and Eric Sokol. <https://events.rdmobile.com/Sessions/Details/2318667>
+
+Linking traits, genomes, specimens, and images to LTER data. 2022 LTER Network All-Scientists Meeting. Co-organized with Corinna Gries. <https://sched.co/1357I>
+
+Emerging best-practices for publishing non-tabular, complex, and special-case ecological datasets. 2021 Earth Science Information Partners (ESIP) Summer Meeting 2021. Co-organized with Renée Brown and Corinna Gries. <https://sched.co/jMPC>
 
 \setlength{\parindent}{0in}
 \setlength{\leftskip}{0in}
