@@ -252,11 +252,11 @@ Implementing the Darwin Core Data Standard to Enhance the FAIRness of Biological
 
 Making Ecological Data More Open and Interoperable Across Projects and Platforms (SS-22). 1.5-hour special session at 2026 Ecological Society of America Annual Meeting. Co-organized with Kate Ingenloff, Marty Downs, Chandra Earl, Eric Sokol and Kit Lewers.
 
-Ecological Synthesis: So You Have An Idea... What Next? (WK-03). 1.5-hour workshop at 2026 Ecological Society of America Annual Meeting. Co-organized with Marty Downs, Laura Dee, and Eric Sokol <https://lter.github.io/eco-data-synth-primer/>
+Ecological Synthesis: So You Have An Idea... What Next? (WK-03). 1.5-hour workshop at 2026 Ecological Society of America Annual Meeting. Co-organized with Marty Downs, Laura Dee, Nick Lyon and Eric Sokol <https://lter.github.io/eco-data-synth-primer/>
 
 Ecological data synthesis: a primer on essential methods and team science (SC-03). 6-hour short course at 2025 Ecological Society of America Annual Meeting. Co-organized with Marty Downs, Jalene Lamontagne, Nick Lyon, and Eric Sokol <https://lter.github.io/eco-data-synth-primer/>
 
-Ecological data synthesis: a primer on essential methods (SC-13). 3-hour short course at 2024 Ecological Society of America Annual Meeting. Co-organized with Marty Downs, Nick Lyon, Angel Chen, Stevan Earl, and Eric Sokol. <https://events.rdmobile.com/Sessions/Details/2318667>
+Ecological data synthesis: a primer on essential methods (SC-13). 3-hour short course at 2024 Ecological Society of America Annual Meeting. Co-organized with Marty Downs, Nick Lyon, Angel Chen, Stevan Earl and Eric Sokol. <https://events.rdmobile.com/Sessions/Details/2318667>
 
 Linking traits, genomes, specimens, and images to LTER data. 2022 LTER Network All-Scientists Meeting. Co-organized with Corinna Gries. <https://sched.co/1357I>
 
