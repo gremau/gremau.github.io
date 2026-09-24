@@ -10,7 +10,7 @@ maxwidth: 55%
 | P.O. Box 30003, MSC 3JER    \  | \ \ \ \ \ \ \ \ \ \ \  | <gregmaurer@gmail.com>         \      |
 | New Mexico State University \  | \ \ \ \ \ \ \ \ \ \ \  | <http://greg.pronghorns.net>   \      |
 | Las Cruces, NM, 88003-8003  \  | \ \ \ \ \ \ \ \ \ \ \  |                                \      |
-| USA                            | \ \ \ \ \ \ \ \ \ \ \  | _updated 6 September 2026_            |
+| USA                            | \ \ \ \ \ \ \ \ \ \ \  | _updated 23 September 2026_            |
 +--------------------------------+------------------------+---------------------------------------+
 
 ## Research and professional interests
@@ -65,6 +65,8 @@ _Advanced Statistical Modeling for Biologists_, University of Utah, 2012
 
 \setlength\parindent{-0.25in}
 \setlength\leftskip{0.25in}
+
+Abramova, A., Mills J. V., __Maurer, G. E.__, Gilbert, B., Getenet, M., Lammers, L., Zahabi, S., Chitsaz, M., Pfeiffer, M. & Amundson, R. (2026). Thermally driven CO~2~ adsorption/desorption and its effect on soil respiration. _Science Advances_, 12(39), eaed9979. <https://doi.org/10.1126/sciadv.aed9979>
 
 Elmendorf, S. C., __Maurer, G. E.__, Lyon, N. J., Downs, M. R., LaMontagne, J. M., Barry, K. E., Chen, A., Dee, L. E., Earl, S., Isbell, F., Sokol, E. R. & Carey, J. C. (2026). Ten simple rules for team synthesis in ecological research. _Methods in Ecology and Evolution_. <https://doi.org/10.1111/2041-210x.70378>
 
@@ -132,8 +134,6 @@ Gries, C., Brown, R., Gastil-Buhl, M., Elmendorf, S., Garritt, H., Martin, M., M
 \setlength{\parindent}{-0.25in}
 \setlength{\leftskip}{0.25in}
 \noindent
-
-Abramova, A., Mills J. V., Maurer, G. E., Gilbert, B., Getenet, M., Lammers, L., Zahabi, S., Chitsaz, M., Pfeiffer, M. & Amundson, R. (in review). Thermally driven CO~2~ adsorption/desorption and its effect on soil respiration. 
 
 Sala, O. E. & Maurer, G. E. Unexpected indirect effects of field simulated drought offset direct climate-change impacts. (in revision @ Nature Ecology and Evolution)
  
