@@ -10,7 +10,7 @@ maxwidth: 55%
 | P.O. Box 30003, MSC 3JER    \  | \ \ \ \ \ \ \ \ \ \ \  | <gregmaurer@gmail.com>         \      |
 | New Mexico State University \  | \ \ \ \ \ \ \ \ \ \ \  | <http://greg.pronghorns.net>   \      |
 | Las Cruces, NM, 88003-8003  \  | \ \ \ \ \ \ \ \ \ \ \  |                                \      |
-| USA                            | \ \ \ \ \ \ \ \ \ \ \  | _updated 23 September 2026_            |
+| USA                            | \ \ \ \ \ \ \ \ \ \ \  | _updated 23 September 2026_           |
 +--------------------------------+------------------------+---------------------------------------+
 
 ## Research and professional interests
@@ -61,6 +61,8 @@ _Advanced Statistical Modeling for Biologists_, University of Utah, 2012
 
 ## Peer-reviewed publications
 
+### Journal articles
+
 *See also <http://greg.pronghorns.net/publications.html>*
 
 \setlength\parindent{-0.25in}
@@ -103,18 +105,7 @@ Ruess, R. W., Hendrick, R. L., Burton, A. J., Pregitzer, K. S., Sveinbjornssön,
 \setlength\parindent{0in}
 \setlength\leftskip{0in}
 
-## Reports and white papers
-
-\setlength{\parindent}{-0.25in}
-\setlength{\leftskip}{0.25in}
-\noindent
-
-Gries, C., Beaulieu S., Brown, R. F., Elmendorf, S. C., Garritt, H., Gastil-Buhl, G., Hsieh, H. Y., Kui, L., Martin, M., __Maurer, G. E.__, Nguyen, A. T., Porter, J. H., Sapp, A., Servilla, M. & Whiteaker, T. L. (2021). Data Package Design for Special Cases ver 1. _Environmental Data Initiative_. <https://doi.org/10.6073/pasta/9d4c803578c3fbcb45fc23f13124d052>
-
-\setlength{\parindent}{0in}
-\setlength{\leftskip}{0in}
-
-## Juried conference abstracts
+### Conference papers
 
 \setlength{\parindent}{-0.25in}
 \setlength{\leftskip}{0.25in}
@@ -129,48 +120,48 @@ Gries, C., Brown, R., Gastil-Buhl, M., Elmendorf, S., Garritt, H., Martin, M., M
 \setlength{\parindent}{0in}
 \setlength{\leftskip}{0in}
 
+## Other publications
+
+\setlength{\parindent}{-0.25in}
+\setlength{\leftskip}{0.25in}
+\noindent
+
+Downs, M., Lyon, N., Kappel, C., Kui, L., Elmendorf, S., Maurer, G. E., & De La Rosa, G. (2025). Synthesis Skills for Early Career Researchers (SSECR) (Version v1.0) [Book/Course website]. _Zenodo_. <https://doi.org/10.5281/zenodo.16969471>
+
+Hernandez Rosales, B. & Maurer G.E. (2022). Long-term climate indices (SPEI and scPDSI) derived from monthly meteorology data collected at USHCN stations in the northern Chihuahuan Desert of the United States, 1911-2021 ver 2 [Dataset]. _Environmental Data Initiative_. <https://doi.org/10.6073/pasta/087795f6fac0f174397536ab27d50db6>
+
+Hernandez Rosales, B. & Maurer G.E. (2022). Derived SPEI and vapor pressure deficit for 15 NPP study sites on the Jornada Basin, 2013-ongoing ver 1 [Dataset]. _Environmental Data Initiative_. <https://doi.org/10.6073/pasta/094b708fcc8bddca273010ddcde3dce1>
+
+Gries, C., Beaulieu S., Brown, R. F., Elmendorf, S. C., Garritt, H., Gastil-Buhl, G., Hsieh, H. Y., Kui, L., Martin, M., Maurer, G. E., Nguyen, A. T., Porter, J. H., Sapp, A., Servilla, M. & Whiteaker, T. L. (2021). Data Package Design for Special Cases ver 1 [Book]. _Environmental Data Initiative_. <https://doi.org/10.6073/pasta/9d4c803578c3fbcb45fc23f13124d052>
+
+Maurer, G. E., Hallmark, A., Brown, R. F., Sala, O. E., & Collins, S. E. (2019). Derived data and code for: Sensitivity of primary production to precipitation across the United States (Ecology Letters) [Dataset]. _figshare_. <https://doi.org/10.6084/m9.figshare.c.4780313.v1>
+
+Maurer, G., Lammers, L. N., & Amundson, R. (2019). MojaveCarbon Climosequence [Dataset]. _HydroShare_. <http://www.hydroshare.org/resource/d01662d827f34170a5fd3589e468d06b>
+
+Rudgers J., Chung, Y., Maurer, G., Moore, D., Muldavin, E., Litvak, M., & Collins, S. (2017). Net primary production (NPP) and climate data from Sevilleta LTER core and control sites in desert grassland and shrubland ecosystems, 1999 - 2017 [Dataset]. _Environmental Data Initiative_. <https://doi.org/10.6073/pasta/451fe8e98c663c728be3f85d3149e109>
+
+Maurer, G. E. (2014). _Ecosystem responses to seasonal snowpack variation in the western United States_ [Dissertation]. The University of Utah. <https://collections.lib.utah.edu/dl_files/d5/9b/d59b360c25d6fe4399d2449e68c4733b5b892395.pdf>
+
+\setlength{\parindent}{0in}
+\setlength{\leftskip}{0in}
+
 ## Publications in preparation or review
 
 \setlength{\parindent}{-0.25in}
 \setlength{\leftskip}{0.25in}
 \noindent
 
-Sala, O. E. & Maurer, G. E. Unexpected indirect effects of field simulated drought offset direct climate-change impacts. (in revision @ Nature Ecology and Evolution)
+Sala, O. E. & Maurer, G. E. (in revision). Unexpected indirect effects of field simulated drought offset direct climate-change impacts.
  
-Maurer, G.E., Mills, J. V., Oerter, E. J., Amundson, R., Lammers, L. N. Measured and modeled soil carbon cycling in the Mojave desert: toward projected regional greenhouse gas budgets. (in prep)
+Maurer, G.E., Mills, J. V., Oerter, E. J., Amundson, R., Lammers, L. N. (in prep). Measured and modeled soil carbon cycling in the Mojave desert: toward projected regional greenhouse gas budgets.
+
+Maurer, G. E., Gries, C., Kamener, G., Lichtenwalner, S., Martin, M., O’Brien, M., Porter, J., Whiteaker, T., & Committee, L. N. I. M. (in prep). Best Practices for Dataset Metadata in Ecological Metadata Language – Environmental Dataset Preparation Guides [Book]. <https://prerelease-edi-docs.netlify.app/guide-eml-bp/>
+
+Maurer, G. E., Barry, K., Carey, J., Chen, A., Dee, L., Downs, M., Earl, S., Elmendorf, S., Kappel, C., Kui, L., LaMontagne, J., Lyon, N., Smith, C., Sokol, E., & Wright, A. (in prep). A Course for Collaborative Ecologists – Ecological Data Synthesis: A Primer on Essential Methods [Book/Course website]. <https://lter.github.io/eco-data-synth-primer/>
 
 \setlength{\parindent}{0in}
 \setlength{\leftskip}{0in}
 
-## Public datasets
-
-\setlength{\parindent}{-0.25in}
-\setlength{\leftskip}{0.25in}
-\noindent
-
-Hernandez Rosales, B. and G.E. Maurer. 2022. Long-term climate indices (SPEI and scPDSI) derived from monthly meteorology data collected at USHCN stations in the northern Chihuahuan Desert of the United States, 1911-2021 ver 2. _Environmental Data Initiative_. <https://doi.org/10.6073/pasta/087795f6fac0f174397536ab27d50db6>
-
-Hernandez Rosales, B. and G.E. Maurer. 2022. Derived SPEI and vapor pressure deficit for 15 NPP study sites on the Jornada Basin, 2013-ongoing ver 1. _Environmental Data Initiative_. <https://doi.org/10.6073/pasta/094b708fcc8bddca273010ddcde3dce1>
-
-Maurer, G. E., A. Hallmark, R. F. Brown, O.E. Sala, and S. L. Collins. 2019. Derived data and code for: Sensitivity of primary production to precipitation across the United States (Ecology Letters). _figshare_. <https://doi.org/10.6084/m9.figshare.c.4780313.v1>
-
-Maurer, G., L. N. Lammers, and R. Amundson. 2019. MojaveCarbon Climosequence. _HydroShare_. <http://www.hydroshare.org/resource/d01662d827f34170a5fd3589e468d06b>
-
-Rudgers J., Y. Chung, G. Maurer, D. Moore, E. Muldavin, M. Litvak, S. Collins. 2017. Net primary production (NPP) and climate data from Sevilleta LTER core and control sites in desert grassland and shrubland ecosystems, 1999 - 2017. _Environmental Data Initiative_. <https://doi.org/10.6073/pasta/451fe8e98c663c728be3f85d3149e109>
-
-\setlength{\parindent}{0in}
-\setlength{\leftskip}{0in}
-
-## Dissertation
-
-\setlength{\parindent}{-0.25in}
-\setlength{\leftskip}{0.25in}
-\noindent
-
-Maurer, G. E. (2014). _Ecosystem responses to seasonal snowpack variation in the western United States_. The University of Utah ([link](https://collections.lib.utah.edu/dl_files/d5/9b/d59b360c25d6fe4399d2449e68c4733b5b892395.pdf))
-
-\setlength{\parindent}{0in}
-\setlength{\leftskip}{0in}
 
 ## Grants and fellowships (funded and pending)
 
